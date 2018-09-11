@@ -1,0 +1,164 @@
+BUT : ...
+DAT : Generic data files
+PAL : Palette file
+PRJ : Model data
+PCX : Used for screenshots (image format)
+OPL : ...
+AD  : ...
+
+
+Okay, there seems to be a FUCK ton of unused
+content left in this build!
+.
+├── 1HGHRED.PRJ
+├── ANILOGO.DAT
+├── BACKGRND.DAT
+├── BLOCK32.DAT
+├── BLOCK64.DAT
+├── BOX.DAT
+├── CAR-01.DAT
+├── CONSOLE.BUT
+├── DFIN3.PRJ
+├── DOLFIN00.DAT
+├── DRONE.DAT
+├── FADE.DAT
+├── FISH1.DAT
+├── FUNGUS2.PRJ
+├── FUNGUS.DAT
+├── GAMEPAL.PAL
+├── GUY.DAT
+├── HMASK.DAT
+├── KILLERX2.PRJ
+├── KILLERX3.PRJ
+├── KILL.INF
+├── LMASK.DAT
+├── MINING.DAT
+├── OBJECT.DAT
+├── OILLERX2.PRJ
+├── PANELHI.DAT
+├── PANELLO.DAT
+├── PLANT1.DAT
+├── PLANT2.DAT
+├── PLANT.INF
+├── PLANT.PRJ
+├── PLANTTE2.INF
+├── PLANTTE2.PRJ
+├── PLANTTEX.INF
+├── PLANTTEX.PRJ
+├── SPERMANI.DAT
+├── SUB.DAT
+├── SYSTEMS.BUT
+├── TACTICAL.BUT
+├── TEXTURE0.RAW
+├── TEXTURE.CPS
+├── TEXTURE.TAB
+├── TEXTURE.TEX
+├── unused_files
+├── WINBUTS.DAT
+└── WINBUTS.TAB
+
+DATA/TEXT.DAT
+    Appears to be for holding strings for the game?
+    Just holds some example strings in this case.
+
+DATA/TMAP...DAT
+    All of these are compressed, as confirmed by the
+    game itself. Joy.
+
+    Uses RNC compression.
+    http://www.yoda.arachsys.com/dk/rnc.html
+
+DATA/OBJECT.DAT
+    Bullfrog Object Data
+    This appears to be unused.
+
+SOUND/SOUND.DAT
+    Package containing the sounds used in the demo.
+    Doesn't appear to be any sort of compression, all
+    are stored as standard RIFF WAVE format.
+
+SOUND/MUSIC.DAT
+    XMI MIDI format (just renamed as "DAT" ?)
+
+-------------------------------------
+
+C:\CRE8DEMO\antidote.c
+C:\CRE8DEMO\base.c
+C:\CRE8DEMO\bubble.c
+C:\CRE8DEMO\camera.c
+C:\CRE8DEMO\cave.c
+C:\CRE8DEMO\cetacea.c
+C:\CRE8DEMO\chaff.c
+C:\CRE8DEMO\collide.c
+C:\CRE8DEMO\control.c
+C:\CRE8DEMO\data.c
+C:\CRE8DEMO\debug.c
+C:\CRE8DEMO\demo.c
+C:\CRE8DEMO\dolphin.c
+C:\CRE8DEMO\draw.c
+C:\CRE8DEMO\drone.c
+C:\CRE8DEMO\editor\edit.cpp
+C:\CRE8DEMO\editor.c
+C:\CRE8DEMO\engine.c
+C:\CRE8DEMO\explode.c
+C:\CRE8DEMO\feature.c
+C:\CRE8DEMO\fish.c
+C:\CRE8DEMO\flare.c
+C:\CRE8DEMO\forlib.c
+C:\CRE8DEMO\fungus.c
+C:\CRE8DEMO\game.c
+C:\CRE8DEMO\instr.c
+C:\CRE8DEMO\io.c
+C:\CRE8DEMO\kwhale.c
+C:\CRE8DEMO\laser.c
+C:\CRE8DEMO\level.c
+C:\CRE8DEMO\light.c
+C:\CRE8DEMO\main.c
+C:\CRE8DEMO\map.c
+C:\CRE8DEMO\mine.c
+C:\CRE8DEMO\move.c
+C:\CRE8DEMO\objects.c
+C:\CRE8DEMO\packets.c
+C:\CRE8DEMO\pdp.c
+C:\CRE8DEMO\pchost.c
+C:\CRE8DEMO\plant.c
+C:\CRE8DEMO\player.c
+C:\CRE8DEMO\pjectile.c
+C:\CRE8DEMO\retrogen.c
+C:\CRE8DEMO\scanmap.c
+C:\CRE8DEMO\scanner.c
+C:\CRE8DEMO\setup.c
+C:\CRE8DEMO\setup3d.c
+C:\CRE8DEMO\shark.c
+C:\CRE8DEMO\sprat.c
+C:\CRE8DEMO\ssprite.c
+C:\CRE8DEMO\state.c
+C:\CRE8DEMO\support.c
+C:\CRE8DEMO\tables.c
+C:\CRE8DEMO\thing.c
+C:\CRE8DEMO\version.c
+
+-------------------------------------
+
+Entities/actors are referred to as "Things", which is something seen in
+Dungeon Keeper too I believe.
+
+Lots of very interesting bits in the executable...
+
+
+THING STATES!
+    STATE_INIT      (0)
+    STATE_NORMAL    (1)
+    STATE_HIT       (2)
+    STATE_DYING     (3)
+    STATE_DEAD      (4)
+
+
+-------------------------------------
+
+Game uses 3DS Max's PRJ model format from the looks of it.
+Weird, but... Okay?
+
+There is little to NONE documentation on this format (fuck sake!)
+
+Most of the loaders for this format don't seem to like their PRJ files.
