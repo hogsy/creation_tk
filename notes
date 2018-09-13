@@ -6,15 +6,167 @@ PCX : Used for screenshots (image format)
 OPL : ...
 AD  : ...
 
+.
+├── 1HGHRED.PRJ
+├── 4HGHGREN.PRJ
+├── ANILOGO.DAT     FLI animated video intro, use ffmpeg to convert
+├── BACKGRND.DAT    Some sort of blue gradient background (UNUSED)
+├── BLOCK32.DAT     Some additional textures, palette is missing though (UNUSED)
+├── BLOCK64.DAT     Ground textures
+├── BOX.DAT
+├── BRIEF.DAT       Mission briefing image data
+├── BRIEF.PAL       Missing briefing palette data
+├── BUTTONS.DAT
+├── BUTTONS.TAB
+├── CAR-01.DAT
+├── CAVEMAP.DAT     (UNUSED)
+├── CONSOLE.BUT     (UNUSED)
+├── CRE8LOGO.DAT    Game logo image data
+├── CRE8LOGO.PAL    Game logo palette data
+├── DFIN3.PRJ
+├── DFIN.PRJ
+├── DOLFIN00.DAT
+├── DRONE.DAT
+├── EFONT-SM.DAT
+├── EFONT-SM.TAB
+├── FADE.DAT
+├── FISH1ANI.PRJ
+├── FISH1.DAT
+├── FISH2ANI.PRJ
+├── FISH3ANI.PRJ
+├── FONT.DAT
+├── FONT.TAB
+├── FUNGUS2.PRJ
+├── FUNGUS.DAT
+├── FUNGUS.PRJ
+├── GAMEPAL.PAL
+├── GUY.DAT
+├── HELPBACK.DAT
+├── HELPBACK.PAL
+├── HMASK.DAT
+├── KELP.PRJ
+├── KEYSPR.DAT
+├── KEYSPR.TAB
+├── KILLBABY.PRJ
+├── KILLERX2.PRJ
+├── KILLERX3.PRJ
+├── KILL.INF
+├── KILL.PRJ
+├── LMASK.DAT
+├── MINING.DAT
+├── OBJECT.DAT
+├── OILLERX2.PRJ
+├── PALETTE.DAT
+├── PANEL.DAT
+├── PANELHI.DAT
+├── PANELLO.DAT
+├── PANEL.TAB
+├── PLANT1.DAT
+├── PLANT2.DAT
+├── PLANTANI.PRJ
+├── PLANT.INF
+├── PLANT.PRJ
+├── PLANTTE2.INF
+├── PLANTTE2.PRJ
+├── PLANTTEX.INF
+├── PLANTTEX.PRJ
+├── POINTERS.DAT
+├── POINTERS.TAB
+├── PPAL01.PAL
+├── PPAL02.PAL
+├── SPERMANI.DAT
+├── SQUID.DAT
+├── SQUID.TAB
+├── SUB15.PRJ
+├── SUB.DAT
+├── SUBSPR.DAT
+├── SUBSPR.TAB
+├── SYSTEMS.BUT     (UNUSED)
+├── TABLES.DAT      Unsure, some sites suggest this may be a sine table
+├── TACTICAL.BUT
+├── TEX01.DAT
+├── TEXSPR.DAT
+├── TEXSPR.TAB
+├── TEXT.DAT
+├── TEXTURE0.RAW
+├── TEXTURE.CPS
+├── TEXTURE.TAB
+├── TEXTURE.TEX     Ground tiles? Can't seem to find the appropriate palette (UNUSED)
+├── TMAP000.DAT
+├── TMAP001.DAT
+├── TMAP002.DAT
+├── TMAP003.DAT
+├── TMAP004.DAT
+├── TMAP005.DAT
+├── TMAP006.DAT
+├── TMAP007.DAT
+├── TMAP008.DAT
+├── TMAP009.DAT
+├── TMAP010.DAT
+├── TMAP011.DAT
+├── TMAP012.DAT
+├── TMAP013.DAT
+├── TMAP014.DAT
+├── TMAP015.DAT
+├── TMAP016.DAT
+├── TMAP017.DAT
+├── TMAP018.DAT
+├── TMAP019.DAT
+├── TMAP020.DAT
+├── TMAP021.DAT
+├── TMAP022.DAT
+├── TMAP023.DAT
+├── TMAP024.DAT
+├── TMAP025.DAT
+├── TMAP026.DAT
+├── TMAP027.DAT
+├── TMAP028.DAT
+├── TMAP029.DAT
+├── TMAP030.DAT
+├── TMAP031.DAT
+├── TMAP032.DAT
+├── TMAP033.DAT
+├── TMAP034.DAT
+├── TMAP035.DAT
+├── TMAP036.DAT
+├── TMAP037.DAT
+├── TMAP038.DAT
+├── TMAP039.DAT
+├── TMAP040.DAT
+├── TMAP041.DAT
+├── TMAP042.DAT
+├── TMAP043.DAT
+├── TMAP044.DAT
+├── TMAP045.DAT
+├── TMAP046.DAT
+├── TMAP047.DAT
+├── TMAP048.DAT
+├── TMAP049.DAT
+├── TMAP050.DAT
+├── TMAP051.DAT
+├── TMAP052.DAT
+├── TMAP053.DAT
+├── TMAP054.DAT
+├── TMAP055.DAT
+├── TMAP056.DAT
+├── TMAP057.DAT
+├── TMAP058.DAT
+├── TMAP059.DAT
+├── TMAP060.DAT
+├── TMAP061.DAT
+├── TMAPS.DAT
+├── TMAPS.TAB
+├── WINBUTS.DAT     (UNUSED)
+└── WINBUTS.TAB     (UNUSED)
 
 Okay, there seems to be a FUCK ton of unused
 content left in this build!
+The following, I believe, is all unused...
 .
 ├── 1HGHRED.PRJ
 ├── ANILOGO.DAT
 ├── BACKGRND.DAT
 ├── BLOCK32.DAT
-├── BLOCK64.DAT
 ├── BOX.DAT
 ├── CAR-01.DAT
 ├── CONSOLE.BUT
@@ -52,10 +204,6 @@ content left in this build!
 ├── TEXTURE0.RAW
 ├── TEXTURE.CPS
 ├── TEXTURE.TAB
-├── TEXTURE.TEX
-├── unused_files
-├── WINBUTS.DAT
-└── WINBUTS.TAB
 
 DATA/TEXT.DAT
     Appears to be for holding strings for the game?
@@ -162,3 +310,47 @@ Weird, but... Okay?
 There is little to NONE documentation on this format (fuck sake!)
 
 Most of the loaders for this format don't seem to like their PRJ files.
+
+-------------------------------------
+MAP Format Specifications
+
+Used for storing information relating to the terrain.
+
+Each tile might be about 12 bytes?
+Which means there's potentially about 65,536 tiles
+
+00  ...
+39  heightmap 0
+B8  ...
+29  heightmap 1
+12  ...
+00
+00
+00
+00
+00
+00
+00
+
+LEV
+10 bytes
+header ...
+07 01 00 21 15 00 00 00 00 00
+
+-------------------------------------
+
+Notes for possible libbullfrog solution?
+
+bfLoadPalette
+bfBlah ?
+
+lbfLoadPalette
+lbfBlah
+
+LBFStandard
+
+bfIMG_LoadPalette
+
+typedef struct BFStandardStruct {
+    uint16_t    var;
+} BFStandardStruct;
