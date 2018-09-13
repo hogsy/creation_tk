@@ -9,6 +9,6 @@ add_subdirectory(platform/platform)
 
 include_directories(platform/platform/include/)
 
-add_executable(creation_tk main.c)
+add_executable(creation_tk main.c types.h)
 
 target_link_libraries(creation_tk platform)

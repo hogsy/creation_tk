@@ -7,33 +7,34 @@
 #include <PL/platform_filesystem.h>
 #include <PL/platform_image.h>
 
+#include "types.h"
+
 /* see notes for further details */
 
-PLImage CreateImage(uint8_t *buf, unsigned int w, unsigned int h, PLColourFormat col, PLImageFormat dat) {
-    PLImage image;
-    memset(&image, 0, sizeof(PLImage));
-    image.width             = w;
-    image.height            = h;
-    image.colour_format     = col;
-    image.format            = dat;
-    image.size              = plGetImageSize(image.format, image.width, image.height);
-    image.levels            = 1;
+bool CreateImage(PLImage *image, uint8_t *buf, unsigned int w, unsigned int h, PLColourFormat col, PLImageFormat dat) {
+    memset(image, 0, sizeof(PLImage));
+    image->width             = w;
+    image->height            = h;
+    image->colour_format     = col;
+    image->format            = dat;
+    image->size              = plGetImageSize(image->format, image->width, image->height);
+    image->levels            = 1;
 
-    image.data = pl_calloc(image.levels, sizeof(uint8_t*));
-    if(image.data == NULL) {
+    image->data = pl_calloc(image->levels, sizeof(uint8_t*));
+    if(image->data == NULL) {
         printf("Couldn't allocate output image buffer");
-        exit(EXIT_FAILURE);
+        return false;
     }
 
-    image.data[0] = pl_calloc(image.size, sizeof(uint8_t));
-    if(image.data[0] == NULL) {
+    image->data[0] = pl_calloc(image->size, sizeof(uint8_t));
+    if(image->data[0] == NULL) {
         printf("Couldn't allocate output image buffer");
-        exit(EXIT_FAILURE);
+        return false;
     }
 
-    memcpy(image.data[0], buf, image.size);
+    memcpy(image->data[0], buf, image->size);
 
-    return image;
+    return true;
 }
 
 /************************************************************/
@@ -49,46 +50,43 @@ void DecompressRNC(const char *path) {
 /* Palette
  * */
 
-unsigned char *ReadPalette(const char *path, unsigned char *buf, size_t len) {
+bool LoadPalette(BullfrogVGAPalette *pal, const char *path) {
     if(!plFileExists(path)) {
-        return NULL;
+        printf("Failed to find \"%s\"!\n", path);
+        return false;
     }
 
     size_t sz = plGetFileSize(path);
-    if(sz != 768) {
-        printf("Unexpected palette size, does not equal expected 768 (%lu), aborting!\n", len);
-        return NULL;
+    int num_colours = (int) (sz / 3);
+    if(num_colours != 256) {
+        printf("Unexpected number of colours in palette (%d/256), aborting load!\n", num_colours);
+        return false;
     }
 
-    /* we could probably check to ensure that len passed here matches
-     * the expected size, but we'll worry about that later */
+    /* load the data and copy it into our temporary buffer */
+
+    unsigned char buf[sz];
 
     FILE *fp = fopen(path, "rb");
-    fread(buf, sizeof(char), len, fp);
+    fread(buf, sizeof(char), sz, fp);
     fclose(fp);
 
-    return buf;
+    /* convert the pal from 6-bit VGA to 8-bit RGB */
+
+    for(unsigned int i = 0, j = 0; i < 256; i++, j += 3) {
+        pal->pixels[i].r = (uint8_t) ((buf[j] * 255) / 63);
+        pal->pixels[i].g = (uint8_t) ((buf[j + 1] * 255) / 63);
+        pal->pixels[i].b = (uint8_t) ((buf[j + 2] * 255) / 63);
+    }
+
+    return true;
 }
 
-void WritePalette(const char *path, const unsigned char *buf, size_t len) {
+void WritePalette(const BullfrogVGAPalette *pal, const char *path) {
     /* todo: allow writing new palettes */
 
-    int num_colours = (int) (len / 3);
-    if(num_colours != 256) {
-        printf("Invalid number of colours in palette (%d), aborting write!\n", num_colours);
-        return;
-    }
-
-    struct {
-        uint8_t r, g, b;
-    } pal[256];
-    for(unsigned int i = 0, j = 0; i < 256; i++, j += 3) {
-        pal[i].r = (uint8_t) ((buf[j] * 255) / 63);
-        pal[i].g = (uint8_t) ((buf[j + 1] * 255) / 63);
-        pal[i].b = (uint8_t) ((buf[j + 2] * 255) / 63);
-    }
-
-    PLImage img = CreateImage((uint8_t *) pal, 256, 1, PL_COLOURFORMAT_RGB, PL_IMAGEFORMAT_RGB8);
+    PLImage img;
+    CreateImage(&img, (uint8_t *) pal->pixels, 256, 1, PL_COLOURFORMAT_RGB, PL_IMAGEFORMAT_RGB8);
     plWriteImage(&img, path);
     plFreeImage(&img);
 }
@@ -107,12 +105,8 @@ void ConvertImage(const char *path, const char *pal_path, const char *out_path, 
 
     /* read in the palette data */
 
-    unsigned long len = plGetFileSize(pal_path);
-    unsigned char pal_buf[len];
-    if(!ReadPalette(pal_path, pal_buf, len)) {
-        printf("Failed to load \"%s\", aborting!\n", pal_path);
-        return;
-    }
+    BullfrogVGAPalette pal;
+    LoadPalette(&pal, pal_path);
 
 #if 0
     /* output the palette data to PNG for testing */
@@ -121,17 +115,6 @@ void ConvertImage(const char *path, const char *pal_path, const char *out_path, 
     snprintf(pal_out, sizeof(pic_pal), "%s_pal.png", path);
     WritePalette(pal_out, pal_buf, len);
 #endif
-
-    /* convert the pal from 6-bit VGA to 8-bit RGB */
-
-    struct {
-        uint8_t r, g, b;
-    } pal[256];
-    for(unsigned int i = 0, j = 0; i < 256; i++, j += 3) {
-        pal[i].r = (uint8_t) ((pal_buf[j] * 255) / 63);
-        pal[i].g = (uint8_t) ((pal_buf[j + 1] * 255) / 63);
-        pal[i].b = (uint8_t) ((pal_buf[j + 2] * 255) / 63);
-    }
 
     /* now load in the actual image data */
 
@@ -145,17 +128,36 @@ void ConvertImage(const char *path, const char *pal_path, const char *out_path, 
         uint8_t r, g, b;
     } img[dat_len];
     for(unsigned int i = 0; i < dat_len; i++) {
-        img[i].r = pal[dat_buf[i]].r;
-        img[i].g = pal[dat_buf[i]].g;
-        img[i].b = pal[dat_buf[i]].b;
+        img[i].r = pal.pixels[dat_buf[i]].r;
+        img[i].g = pal.pixels[dat_buf[i]].g;
+        img[i].b = pal.pixels[dat_buf[i]].b;
     }
 
-    PLImage out = CreateImage((uint8_t *) img, width, height, PL_COLOURFORMAT_RGB, PL_IMAGEFORMAT_RGB8);
+    PLImage out;
+    CreateImage(&out, (uint8_t *) img, width, height, PL_COLOURFORMAT_RGB, PL_IMAGEFORMAT_RGB8);
     if(!plWriteImage(&out, out_path)) {
         printf("Failed to write image to \"%s\"!\n(%s)\n", out_path, plGetError());
     }
 
     plFreeImage(&out);
+}
+
+void DB_ReadLevData(void) {
+    FILE *fp = fopen("LEVELS/DEFAULT.LEV", "rb");
+
+    /* read in the header */
+
+    int sets = fgetc(fp);
+    fseek(fp, SEEK_CUR, 8);
+
+    /* now for the rest */
+
+    int8_t buf[sets][10];
+    fread(buf, 10, (size_t) sets, fp);
+    fpos_t pos;
+    fgetpos(fp, &pos);
+    printf("%lu bytes\n", pos.__pos);
+    fclose(fp);
 }
 
 void DB_ReadMapData(void) {
@@ -180,12 +182,13 @@ void DB_ReadMapData(void) {
         uint8_t r, g, b;
     } map_buf[num_tiles];
     for(unsigned int i = 0; i < num_tiles; ++i) {
-        map_buf[i].r = (uint8_t) (data[i][1] * 4);
-        map_buf[i].g = (uint8_t) (data[i][1] * 4);
-        map_buf[i].b = (uint8_t) (data[i][1] * 4);
+        map_buf[i].r = (uint8_t) (data[i][3] * 4);
+        map_buf[i].g = (uint8_t) (data[i][3] * 4);
+        map_buf[i].b = (uint8_t) (data[i][3] * 4);
     }
 
-    PLImage out = CreateImage((uint8_t *) map_buf, 256, 256, PL_COLOURFORMAT_RGB, PL_IMAGEFORMAT_RGB8);
+    PLImage out;
+    CreateImage(&out, (uint8_t *) map_buf, 256, 256, PL_COLOURFORMAT_RGB, PL_IMAGEFORMAT_RGB8);
     if(!plWriteImage(&out, "map.png")) {
         printf("Failed to write image to \"%s\"!\n(%s)\n", "map.png", plGetError());
     }
@@ -209,18 +212,15 @@ int main(int argc, char **argv) {
 
     /* convert PALETTE.DAT and GAMEPAL.PAL */
 
-    unsigned char buf[768];
-
-    if(ReadPalette("DATA/PALETTE.DAT", buf, 768) != NULL) {
-        WritePalette("DATA/PALETTE.png", buf, 768);
-    }
-
-    if(ReadPalette("DATA/GAMEPAL.PAL", buf, 768) != NULL) {
-        WritePalette("DATA/GAMEPAL.png", buf, 768);
-    }
+    BullfrogVGAPalette pal;
+    LoadPalette(&pal, "DATA/PALETTE.DAT");
+    WritePalette(&pal, "DATA/PALETTE.png");
+    LoadPalette(&pal, "DATA/GAMEPAL.PAL");
+    WritePalette(&pal, "DATA/GAMEPAL.png");
 
     /* load in the map data for analysis */
 
+    DB_ReadLevData();
     DB_ReadMapData();
 
     return 0;
