@@ -25,7 +25,7 @@ AD  : ...
 ├── CRE8LOGO.PAL    Game logo palette data
 ├── DFIN3.PRJ
 ├── DFIN.PRJ
-├── DOLFIN00.DAT
+├── DOLFIN00.DAT    Bullfrog Object Data (UNUSED)
 ├── DRONE.DAT
 ├── EFONT-SM.DAT
 ├── EFONT-SM.TAB
@@ -40,7 +40,7 @@ AD  : ...
 ├── FUNGUS.DAT
 ├── FUNGUS.PRJ
 ├── GAMEPAL.PAL
-├── GUY.DAT
+├── GUY.DAT         Bullfrog Object Data
 ├── HELPBACK.DAT
 ├── HELPBACK.PAL
 ├── HMASK.DAT
@@ -54,7 +54,7 @@ AD  : ...
 ├── KILL.PRJ
 ├── LMASK.DAT
 ├── MINING.DAT
-├── OBJECT.DAT
+├── OBJECT.DAT      Bullfrog Object Data (UNUSED)
 ├── OILLERX2.PRJ
 ├── PALETTE.DAT
 ├── PANEL.DAT
@@ -78,7 +78,7 @@ AD  : ...
 ├── SQUID.DAT
 ├── SQUID.TAB
 ├── SUB15.PRJ
-├── SUB.DAT
+├── SUB.DAT         Bullfrog Object Data
 ├── SUBSPR.DAT
 ├── SUBSPR.TAB
 ├── SYSTEMS.BUT     (UNUSED)

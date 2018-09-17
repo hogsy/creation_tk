@@ -93,6 +93,11 @@ void WritePalette(const BullfrogVGAPalette *pal, const char *path) {
 
 /************************************************************/
 
+/* converts to Valve's SMD format, for convenience */
+void ConvertModel(const char *path, const char *out_path) {
+
+}
+
 void ConvertImage(const char *path, const char *pal_path, const char *out_path, unsigned int width, unsigned int height) {
     printf("Converting %s to %s ...\n", path, out_path);
 
