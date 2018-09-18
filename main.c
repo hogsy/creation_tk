@@ -11,6 +11,9 @@
 
 /* see notes for further details */
 
+#define Warning(...)    printf("WARNING: " __VA_ARGS__)
+#define Error(...)      { printf("ERROR: " __VA_ARGS__); exit(EXIT_FAILURE); }
+
 bool CreateImage(PLImage *image, uint8_t *buf, unsigned int w, unsigned int h, PLColourFormat col, PLImageFormat dat) {
     memset(image, 0, sizeof(PLImage));
     image->width             = w;
@@ -22,13 +25,13 @@ bool CreateImage(PLImage *image, uint8_t *buf, unsigned int w, unsigned int h, P
 
     image->data = pl_calloc(image->levels, sizeof(uint8_t*));
     if(image->data == NULL) {
-        printf("Couldn't allocate output image buffer");
+        Warning("Couldn't allocate output image buffer");
         return false;
     }
 
     image->data[0] = pl_calloc(image->size, sizeof(uint8_t));
     if(image->data[0] == NULL) {
-        printf("Couldn't allocate output image buffer");
+        Warning("Couldn't allocate output image buffer");
         return false;
     }
 
@@ -52,14 +55,14 @@ void DecompressRNC(const char *path) {
 
 bool LoadPalette(BullfrogVGAPalette *pal, const char *path) {
     if(!plFileExists(path)) {
-        printf("Failed to find \"%s\"!\n", path);
+        Warning("Failed to find \"%s\"!\n", path);
         return false;
     }
 
     size_t sz = plGetFileSize(path);
     int num_colours = (int) (sz / 3);
     if(num_colours != 256) {
-        printf("Unexpected number of colours in palette (%d/256), aborting load!\n", num_colours);
+        Warning("Unexpected number of colours in palette (%d/256), aborting load!\n", num_colours);
         return false;
     }
 
@@ -98,18 +101,95 @@ void ConvertModel(const char *path, const char *out_path) {
 
 }
 
-void ConvertImagePackage(const BullfrogVGAPalette *palette, const char *path, const char *tab_path) {
+BullfrogSpriteTable *LoadSpriteTable(const char *path) {
+    if(!plFileExists(path)) {
+        Warning("Failed to load \"%s\", aborting!\n", path);
+        return NULL;
+    }
+
+    size_t sz = plGetFileSize(path);
+    if(sz < 6) {
+        Warning("Invalid table size, %lu, aborting!\n", sz);
+        return NULL;
+    }
+
+    FILE *fp = fopen(path, "rb");
+    if(fp == NULL) {
+        Warning("Failed to load \"%s\", aborting!\n", path);
+        return NULL;
+    }
+
+    char buf[sz];
+    fread(buf, sizeof(char), sz, fp);
+    fclose(fp);
+
+    BullfrogSpriteTable *table = malloc(sizeof(BullfrogSpriteTable));
+    if(table == NULL) {
+        Warning("Failed to create table handle!\n");
+        return NULL;
+    }
+
+    table->num_indices = (unsigned int) (sz / 6);
+    table->indices = malloc(sizeof(BullfrogSpriteTableIndex) * table->num_indices);
+    if(table->indices == NULL) {
+        free(table);
+        Warning("Failed to create table indices (%u)!\n", table->num_indices);
+        return NULL;
+    }
+
+    memcpy(table->indices, buf, sizeof(BullfrogSpriteTableIndex) * table->num_indices);
+    for(unsigned int i = 0; i < table->num_indices; ++i) {
+        printf(
+                "------------\n"
+                "index %d\n"
+                "OFFSET: %d\n"
+                "WIDTH:  %d\n"
+                "HEIGHT: %d\n",
+
+                i,
+                table->indices[i].off,
+                table->indices[i].w,
+                table->indices[i].h
+        );
+    }
+
+    return table;
+}
+
+void ConvertImageTable(const BullfrogSpriteTable *tab, uint index, const BullfrogVGAPalette *pal, const char *path,
+                       const char *out_path) {
     if(!plFileExists(path)) {
         printf("Failed to load \"%s\", aborting!\n", path);
         return;
     }
 
-    if(!plFileExists(tab_path)) {
-        printf("Failed to load \"%s\", aborting!\n", tab_path);
-        return;
+    /* now load in the actual image data */
+
+    BullfrogSpriteTableIndex *bi = &tab->indices[index];
+
+    unsigned long dat_len = (unsigned long) ((bi->w * bi->h) * 3);
+    unsigned char dat_buf[dat_len];
+    FILE *fp = fopen(path, "rb");
+    fseek(fp, SEEK_SET, bi->off);
+    fread(dat_buf, sizeof(char), dat_len, fp);
+    fclose(fp);
+
+    struct {
+        uint8_t r, g, b;
+    } img[dat_len];
+    for(unsigned int i = 0; i < dat_len; i++) {
+        img[i].r = pal->pixels[dat_buf[i]].r;
+        img[i].g = pal->pixels[dat_buf[i]].g;
+        img[i].b = pal->pixels[dat_buf[i]].b;
     }
 
+    PLImage out;
+    CreateImage(&out, (uint8_t *) img, tab->indices[index].w, tab->indices[index].h, PL_COLOURFORMAT_RGB, PL_IMAGEFORMAT_RGB8);
+    if(!plWriteImage(&out, out_path)) {
+        printf("Failed to write image to \"%s\"!\n(%s)\n", out_path, plGetError());
+    }
 
+    plFreeImage(&out);
 }
 
 void ConvertImage(const char *path, const char *pal_path, const char *out_path, unsigned int width, unsigned int height) {
@@ -228,12 +308,20 @@ int main(int argc, char **argv) {
     ConvertImage("DATA/TEXTURE.TEX", "DATA/PALETTE.DAT", "DATA/TEXTURE.png", 256, 128);
     ConvertImage("DATA/TEX01.DAT", "DATA/PALETTE.DAT", "DATA/TEX01.png", 256, 256);
     ConvertImage("DATA/TABLES.DAT", "DATA/PALETTE.DAT", "DATA/TABLES.png", 256, 128);
-    //ConvertImage("DATA/SQUID.DAT", "DATA/PALETTE.DAT", "DATA/SQUID.png", 256, 128);
     ConvertImage("DATA/BACKGRND.DAT", "DATA/PALETTE.DAT", "DATA/BACKGRND.png", 320, 200);
     ConvertImage("DATA/BLOCK32.DAT", "DATA/PALETTE.DAT", "DATA/BLOCK32.png", 256, 256);
     ConvertImage("DATA/BLOCK64.DAT", "DATA/PALETTE.DAT", "DATA/BLOCK64.png", 256, 1024);
 
-    //ConvertImagePackage(&pal, "DATA/")
+    //ConvertImageTable(&pal, "DATA/SUBSPR.TAB", )
+
+    /* tables */
+
+    BullfrogSpriteTable *tab = LoadSpriteTable("DATA/PANEL.TAB");
+    if(tab == NULL) {
+        Error("Failed to load table!\n");
+    }
+
+    ConvertImageTable(tab, 1, &pal, "DATA/PANEL.DAT", "DATA/PANEL_1.png");
 
     /* convert PALETTE.DAT and GAMEPAL.PAL */
 

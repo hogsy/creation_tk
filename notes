@@ -13,7 +13,7 @@ AD  : ...
 ├── BACKGRND.DAT    Some sort of blue gradient background (UNUSED)
 ├── BLOCK32.DAT     Some additional textures, palette is missing though (UNUSED)
 ├── BLOCK64.DAT     Ground textures
-├── BOX.DAT
+├── BOX.DAT         Bullfrog Object Data (UNUSED)
 ├── BRIEF.DAT       Mission briefing image data
 ├── BRIEF.PAL       Missing briefing palette data
 ├── BUTTONS.DAT
@@ -40,7 +40,7 @@ AD  : ...
 ├── FUNGUS.DAT
 ├── FUNGUS.PRJ
 ├── GAMEPAL.PAL
-├── GUY.DAT         Bullfrog Object Data
+├── GUY.DAT         Bullfrog Object Data (UNUSED)
 ├── HELPBACK.DAT
 ├── HELPBACK.PAL
 ├── HMASK.DAT
@@ -58,8 +58,8 @@ AD  : ...
 ├── OILLERX2.PRJ
 ├── PALETTE.DAT     Shared palette used for model textures and terrain textures
 ├── PANEL.DAT
-├── PANELHI.DAT
-├── PANELLO.DAT
+├── PANELHI.DAT     Highly detailed version of the HUD (UNUSED)
+├── PANELLO.DAT     Looks like debug symbols ... ? Very odd (UNUSED)
 ├── PANEL.TAB
 ├── PLANT1.DAT
 ├── PLANT2.DAT
@@ -87,10 +87,10 @@ AD  : ...
 ├── TEX01.DAT
 ├── TEXSPR.DAT
 ├── TEXSPR.TAB
-├── TEXT.DAT
+├── TEXT.DAT        Collection of null terminated example strings
 ├── TEXTURE0.RAW
-├── TEXTURE.CPS
-├── TEXTURE.TAB
+├── TEXTURE.CPS     (UNUSED)
+├── TEXTURE.TAB     (UNUSED)
 ├── TEXTURE.TEX     Ground tiles? Can't seem to find the appropriate palette (UNUSED)
 ├── TMAP000.DAT
 ├── TMAP001.DAT
@@ -226,6 +226,23 @@ SOUND/SOUND.DAT
 
 SOUND/MUSIC.DAT
     XMI MIDI format (just renamed as "DAT" ?)
+
+-------------------------------------
+
+The demo includes the following launch arguments
+(you'll need to use '-' before the arg, so for example
+ MAIN.EXE -editor)
+
+network
+players
+session
+record      Works!
+playback    Works!
+movie       Works! (same as above?)
+editor      Disables input, otherwise can't seem to do anything?
+debug       Nothing obvious
+
+Side note: pressing R will switch to 640x480 mode
 
 -------------------------------------
 

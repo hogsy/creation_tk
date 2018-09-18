@@ -10,13 +10,22 @@ typedef struct BullfrogVGAPalette {
     } pixels[256];
 } BullfrogVGAPalette;
 
+/***************************************************************/
+
 typedef struct BullfrogObjectHeader {
     char identity[24];  /* "BULLFROG OBJECT DATA" */
     /* todo: pending */
 } BullfrogObjectHeader;
 
-typedef struct BullfrogTABIndex {
-    uint32_t    offset;
-    uint8_t     width;
-    uint8_t     height;
-} BullfrogTABIndex;
+/***************************************************************/
+
+typedef struct __attribute__((__packed__)) BullfrogSpriteTableIndex {
+    uint32_t    off;
+    uint8_t     w;
+    uint8_t     h;
+} BullfrogSpriteTableIndex;
+
+typedef struct BullfrogSpriteTable {
+    BullfrogSpriteTableIndex *indices;
+    unsigned int num_indices;
+} BullfrogSpriteTable;
