@@ -98,6 +98,20 @@ void ConvertModel(const char *path, const char *out_path) {
 
 }
 
+void ConvertImagePackage(const BullfrogVGAPalette *palette, const char *path, const char *tab_path) {
+    if(!plFileExists(path)) {
+        printf("Failed to load \"%s\", aborting!\n", path);
+        return;
+    }
+
+    if(!plFileExists(tab_path)) {
+        printf("Failed to load \"%s\", aborting!\n", tab_path);
+        return;
+    }
+
+
+}
+
 void ConvertImage(const char *path, const char *pal_path, const char *out_path, unsigned int width, unsigned int height) {
     printf("Converting %s to %s ...\n", path, out_path);
 
@@ -161,12 +175,12 @@ void DB_ReadLevData(void) {
     fread(buf, 10, (size_t) sets, fp);
     fpos_t pos;
     fgetpos(fp, &pos);
-    printf("%lu bytes\n", pos.__pos);
+//    printf("%lu bytes\n", pos.__pos);
     fclose(fp);
 }
 
 void DB_ReadMapData(void) {
-    size_t len = plGetFileSize("LEVELS/DEFAULT_orig.MAP");
+    size_t len = plGetFileSize("LEVELS/DEFAULT.MAP");
     unsigned int num_tiles = (unsigned int) (len / 12);
 
     typedef struct TILE {
@@ -177,7 +191,7 @@ void DB_ReadMapData(void) {
     } TILE;
     uint8_t data[num_tiles][12];
 
-    FILE *fp = fopen("LEVELS/DEFAULT_orig.MAP", "rb");
+    FILE *fp = fopen("LEVELS/DEFAULT.MAP", "rb");
     fread(data, 12, num_tiles, fp);
     fclose(fp);
 
@@ -204,21 +218,25 @@ void DB_ReadMapData(void) {
 int main(int argc, char **argv) {
     plInitialize(argc, argv);
 
+    BullfrogVGAPalette pal;
+    LoadPalette(&pal, "DATA/PALETTE.DAT");
+
     ConvertImage("DATA/BRIEF.DAT", "DATA/BRIEF.PAL", "DATA/BRIEF.png", 640, 480);
     ConvertImage("DATA/CRE8LOGO.DAT", "DATA/CRE8LOGO.PAL", "DATA/CRE8LOGO.png", 640, 480);
+    ConvertImage("DATA/PANELHI.DAT", "DATA/PALETTE.DAT", "DATA/PANELHI.png", 640, 480);
     ConvertImage("DATA/HELPBACK.DAT", "DATA/HELPBACK.PAL", "DATA/HELPBACK.png", 640, 480);
     ConvertImage("DATA/TEXTURE.TEX", "DATA/PALETTE.DAT", "DATA/TEXTURE.png", 256, 128);
     ConvertImage("DATA/TEX01.DAT", "DATA/PALETTE.DAT", "DATA/TEX01.png", 256, 256);
     ConvertImage("DATA/TABLES.DAT", "DATA/PALETTE.DAT", "DATA/TABLES.png", 256, 128);
-    ConvertImage("DATA/SQUID.DAT", "DATA/PALETTE.DAT", "DATA/SQUID.png", 256, 128);
+    //ConvertImage("DATA/SQUID.DAT", "DATA/PALETTE.DAT", "DATA/SQUID.png", 256, 128);
     ConvertImage("DATA/BACKGRND.DAT", "DATA/PALETTE.DAT", "DATA/BACKGRND.png", 320, 200);
     ConvertImage("DATA/BLOCK32.DAT", "DATA/PALETTE.DAT", "DATA/BLOCK32.png", 256, 256);
     ConvertImage("DATA/BLOCK64.DAT", "DATA/PALETTE.DAT", "DATA/BLOCK64.png", 256, 1024);
 
+    //ConvertImagePackage(&pal, "DATA/")
+
     /* convert PALETTE.DAT and GAMEPAL.PAL */
 
-    BullfrogVGAPalette pal;
-    LoadPalette(&pal, "DATA/PALETTE.DAT");
     WritePalette(&pal, "DATA/PALETTE.png");
     LoadPalette(&pal, "DATA/GAMEPAL.PAL");
     WritePalette(&pal, "DATA/GAMEPAL.png");

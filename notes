@@ -18,7 +18,7 @@ AD  : ...
 ├── BRIEF.PAL       Missing briefing palette data
 ├── BUTTONS.DAT
 ├── BUTTONS.TAB
-├── CAR-01.DAT
+├── CAR-01.DAT      Bullfrog Object Data (UNUSED)
 ├── CAVEMAP.DAT     (UNUSED)
 ├── CONSOLE.BUT     (UNUSED)
 ├── CRE8LOGO.DAT    Game logo image data
@@ -50,13 +50,13 @@ AD  : ...
 ├── KILLBABY.PRJ
 ├── KILLERX2.PRJ
 ├── KILLERX3.PRJ
-├── KILL.INF
+├── KILL.INF        Some sort of project config? (UNUSED)
 ├── KILL.PRJ
 ├── LMASK.DAT
 ├── MINING.DAT
 ├── OBJECT.DAT      Bullfrog Object Data (UNUSED)
 ├── OILLERX2.PRJ
-├── PALETTE.DAT
+├── PALETTE.DAT     Shared palette used for model textures and terrain textures
 ├── PANEL.DAT
 ├── PANELHI.DAT
 ├── PANELLO.DAT
@@ -78,7 +78,7 @@ AD  : ...
 ├── SQUID.DAT
 ├── SQUID.TAB
 ├── SUB15.PRJ
-├── SUB.DAT         Bullfrog Object Data
+├── SUB.DAT         Bullfrog Object Data (UNUSED)
 ├── SUBSPR.DAT
 ├── SUBSPR.TAB
 ├── SYSTEMS.BUT     (UNUSED)
@@ -168,7 +168,6 @@ The following, I believe, is all unused...
 ├── BACKGRND.DAT
 ├── BLOCK32.DAT
 ├── BOX.DAT
-├── CAR-01.DAT
 ├── CONSOLE.BUT
 ├── DFIN3.PRJ
 ├── DOLFIN00.DAT
