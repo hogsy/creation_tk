@@ -13,11 +13,12 @@ typedef struct BullfrogVGAPalette {
 /***************************************************************/
 
 typedef struct BullfrogObjectHeader {
-    char identity[24];  /* "BULLFROG OBJECT DATA" */
+    char    identity[24];  /* "BULLFROG OBJECT DATA" */
     /* todo: pending */
 } BullfrogObjectHeader;
 
 /***************************************************************/
+/* Bullfrog Sprite Table */
 
 typedef struct __attribute__((__packed__)) BullfrogSpriteTableIndex {
     uint32_t    off;
@@ -26,6 +27,33 @@ typedef struct __attribute__((__packed__)) BullfrogSpriteTableIndex {
 } BullfrogSpriteTableIndex;
 
 typedef struct BullfrogSpriteTable {
-    BullfrogSpriteTableIndex *indices;
-    unsigned int num_indices;
+    BullfrogSpriteTableIndex*   indices;
+    unsigned int                num_indices;
+
+    char*           pixels;
+    unsigned int    length;
 } BullfrogSpriteTable;
+
+/***************************************************************/
+/* Creation Formats */
+
+#define CREATION_MAP_MAX_TILES  65537   /* maximum tiles allowed within a map */
+#define CREATION_MAP_ROW_TILES  256     /* number of tiles along a row */
+
+typedef struct __attribute__((__packed__)) CreationMapTile {
+    int8_t      u0;             /* unused */
+    int8_t      height0;
+    int8_t      ceiling;
+    int8_t      height1;        /* terrain height */
+    uint16_t    texture;        /* tile texture index */
+    int16_t     u1;             /* unused */
+} CreationMapTile; /* 12 bytes */
+
+typedef struct CreationMap {
+    CreationMapTile tiles[CREATION_MAP_MAX_TILES];
+} CreationMap;
+
+typedef struct CreationModel { /* todo */
+    char    name[14];   /* internal project name */
+    char    desc[14];
+} CreationModel;

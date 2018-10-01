@@ -7,7 +7,7 @@ OPL : ...
 AD  : ...
 
 .
-├── 1HGHRED.PRJ
+├── 1HGHRED.PRJ     (UNUSED)
 ├── 4HGHGREN.PRJ
 ├── ANILOGO.DAT     FLI animated video intro, use ffmpeg to convert
 ├── BACKGRND.DAT    Some sort of blue gradient background (UNUSED)
@@ -23,72 +23,72 @@ AD  : ...
 ├── CONSOLE.BUT     (UNUSED)
 ├── CRE8LOGO.DAT    Game logo image data
 ├── CRE8LOGO.PAL    Game logo palette data
-├── DFIN3.PRJ
+├── DFIN3.PRJ       (UNUSED)
 ├── DFIN.PRJ
 ├── DOLFIN00.DAT    Bullfrog Object Data (UNUSED)
-├── DRONE.DAT
+├── DRONE.DAT       Bullfrog Object Data (UNUSED)
 ├── EFONT-SM.DAT
 ├── EFONT-SM.TAB
 ├── FADE.DAT
 ├── FISH1ANI.PRJ
-├── FISH1.DAT
+├── FISH1.DAT       Bullfrog Object Data (UNUSED)
 ├── FISH2ANI.PRJ
 ├── FISH3ANI.PRJ
 ├── FONT.DAT
 ├── FONT.TAB
-├── FUNGUS2.PRJ
-├── FUNGUS.DAT
+├── FUNGUS2.PRJ     (UNUSED)
+├── FUNGUS.DAT      Bullfrog Object Data (UNUSED)
 ├── FUNGUS.PRJ
-├── GAMEPAL.PAL
+├── GAMEPAL.PAL     Appears to be an unused and incomplete VGA palette (UNUSED)
 ├── GUY.DAT         Bullfrog Object Data (UNUSED)
-├── HELPBACK.DAT
-├── HELPBACK.PAL
-├── HMASK.DAT
+├── HELPBACK.DAT    Game controls image data
+├── HELPBACK.PAL    Game controls palette data
+├── HMASK.DAT       Debug symbols? (UNUSED)
 ├── KELP.PRJ
 ├── KEYSPR.DAT
 ├── KEYSPR.TAB
 ├── KILLBABY.PRJ
-├── KILLERX2.PRJ
-├── KILLERX3.PRJ
+├── KILLERX2.PRJ    (UNUSED)
+├── KILLERX3.PRJ    (UNUSED)
 ├── KILL.INF        Some sort of project config? (UNUSED)
 ├── KILL.PRJ
-├── LMASK.DAT
-├── MINING.DAT
+├── LMASK.DAT       (UNUSED)
+├── MINING.DAT      Bullfrog Object Data (UNUSED)
 ├── OBJECT.DAT      Bullfrog Object Data (UNUSED)
-├── OILLERX2.PRJ
-├── PALETTE.DAT     Shared palette used for model textures and terrain textures
+├── OILLERX2.PRJ    (UNUSED)
+├── PALETTE.DAT     Shared VGA palette used for model textures and terrain textures
 ├── PANEL.DAT
 ├── PANELHI.DAT     Highly detailed version of the HUD (UNUSED)
 ├── PANELLO.DAT     Looks like debug symbols ... ? Very odd (UNUSED)
 ├── PANEL.TAB
-├── PLANT1.DAT
-├── PLANT2.DAT
+├── PLANT1.DAT      Bullfrog Object Data (UNUSED)
+├── PLANT2.DAT      Bullfrog Object Data (UNUSED)
 ├── PLANTANI.PRJ
-├── PLANT.INF
-├── PLANT.PRJ
-├── PLANTTE2.INF
-├── PLANTTE2.PRJ
-├── PLANTTEX.INF
-├── PLANTTEX.PRJ
+├── PLANT.INF       Some sort of project config? (UNUSED)
+├── PLANT.PRJ       (UNUSED)
+├── PLANTTE2.INF    Some sort of project config? (UNUSED)
+├── PLANTTE2.PRJ    (UNUSED)
+├── PLANTTEX.INF    Some sort of project config? (UNUSED)
+├── PLANTTEX.PRJ    (UNUSED)
 ├── POINTERS.DAT
 ├── POINTERS.TAB
 ├── PPAL01.PAL
 ├── PPAL02.PAL
-├── SPERMANI.DAT
-├── SQUID.DAT
-├── SQUID.TAB
-├── SUB15.PRJ
+├── SPERMANI.DAT    Bullfrog Object Data (UNUSED)
+├── SQUID.DAT       End tentacle animation image data
+├── SQUID.TAB       End tentacle animation index data
+├── SUB15.PRJ       Submarine model
 ├── SUB.DAT         Bullfrog Object Data (UNUSED)
 ├── SUBSPR.DAT
 ├── SUBSPR.TAB
 ├── SYSTEMS.BUT     (UNUSED)
 ├── TABLES.DAT      Unsure, some sites suggest this may be a sine table
-├── TACTICAL.BUT
+├── TACTICAL.BUT    Tactical buttons (UNUSED)
 ├── TEX01.DAT
 ├── TEXSPR.DAT
 ├── TEXSPR.TAB
 ├── TEXT.DAT        Collection of null terminated example strings
-├── TEXTURE0.RAW
+├── TEXTURE0.RAW    Doesn't appear to be anything interesting (UNUSED)
 ├── TEXTURE.CPS     (UNUSED)
 ├── TEXTURE.TAB     (UNUSED)
 ├── TEXTURE.TEX     Ground tiles? Can't seem to find the appropriate palette (UNUSED)
@@ -154,8 +154,8 @@ AD  : ...
 ├── TMAP059.DAT
 ├── TMAP060.DAT
 ├── TMAP061.DAT
-├── TMAPS.DAT
-├── TMAPS.TAB
+├── TMAPS.DAT       RNC compressed texture data
+├── TMAPS.TAB       Texture index data
 ├── WINBUTS.DAT     (UNUSED)
 └── WINBUTS.TAB     (UNUSED)
 
@@ -245,67 +245,84 @@ debug       Nothing obvious
 Side note: pressing R will switch to 640x480 mode
 
 -------------------------------------
+Buttons Format (.BUT)
 
-C:\CRE8DEMO\antidote.c
-C:\CRE8DEMO\base.c
-C:\CRE8DEMO\bubble.c
-C:\CRE8DEMO\camera.c
-C:\CRE8DEMO\cave.c
-C:\CRE8DEMO\cetacea.c
-C:\CRE8DEMO\chaff.c
-C:\CRE8DEMO\collide.c
-C:\CRE8DEMO\control.c
-C:\CRE8DEMO\data.c
-C:\CRE8DEMO\debug.c
-C:\CRE8DEMO\demo.c
-C:\CRE8DEMO\dolphin.c
-C:\CRE8DEMO\draw.c
-C:\CRE8DEMO\drone.c
-C:\CRE8DEMO\editor\edit.cpp
-C:\CRE8DEMO\editor.c
-C:\CRE8DEMO\engine.c
-C:\CRE8DEMO\explode.c
-C:\CRE8DEMO\feature.c
-C:\CRE8DEMO\fish.c
-C:\CRE8DEMO\flare.c
-C:\CRE8DEMO\forlib.c
-C:\CRE8DEMO\fungus.c
-C:\CRE8DEMO\game.c
-C:\CRE8DEMO\instr.c
-C:\CRE8DEMO\io.c
-C:\CRE8DEMO\kwhale.c
-C:\CRE8DEMO\laser.c
-C:\CRE8DEMO\level.c
-C:\CRE8DEMO\light.c
-C:\CRE8DEMO\main.c
-C:\CRE8DEMO\map.c
-C:\CRE8DEMO\mine.c
-C:\CRE8DEMO\move.c
-C:\CRE8DEMO\objects.c
-C:\CRE8DEMO\packets.c
-C:\CRE8DEMO\pdp.c
-C:\CRE8DEMO\pchost.c
-C:\CRE8DEMO\plant.c
-C:\CRE8DEMO\player.c
-C:\CRE8DEMO\pjectile.c
-C:\CRE8DEMO\retrogen.c
-C:\CRE8DEMO\scanmap.c
-C:\CRE8DEMO\scanner.c
-C:\CRE8DEMO\setup.c
-C:\CRE8DEMO\setup3d.c
-C:\CRE8DEMO\shark.c
-C:\CRE8DEMO\sprat.c
-C:\CRE8DEMO\ssprite.c
-C:\CRE8DEMO\state.c
-C:\CRE8DEMO\support.c
-C:\CRE8DEMO\tables.c
-C:\CRE8DEMO\thing.c
-C:\CRE8DEMO\version.c
+None of these appear to be used in the demo -
+digging out any additional information about these
+is going to be next to impossible I think
+
+Any other Bullfrog games that use this format??
+Genewars                =   No
+Populous the Beginning  =   No
+Dungeon Keeper          =   No
+
+-------------------------------------
+Source Tree
+
+PANELLO.DAT
+    C:\CRE8\data.c
+
+MAIN.EXE
+    C:\CRE8DEMO\antidote.c
+    C:\CRE8DEMO\base.c
+    C:\CRE8DEMO\bubble.c
+    C:\CRE8DEMO\camera.c
+    C:\CRE8DEMO\cave.c
+    C:\CRE8DEMO\cetacea.c
+    C:\CRE8DEMO\chaff.c
+    C:\CRE8DEMO\collide.c
+    C:\CRE8DEMO\control.c
+    C:\CRE8DEMO\data.c
+    C:\CRE8DEMO\debug.c
+    C:\CRE8DEMO\demo.c
+    C:\CRE8DEMO\dolphin.c
+    C:\CRE8DEMO\draw.c
+    C:\CRE8DEMO\drone.c
+    C:\CRE8DEMO\editor\edit.cpp
+    C:\CRE8DEMO\editor.c
+    C:\CRE8DEMO\engine.c
+    C:\CRE8DEMO\explode.c
+    C:\CRE8DEMO\feature.c
+    C:\CRE8DEMO\fish.c
+    C:\CRE8DEMO\flare.c
+    C:\CRE8DEMO\forlib.c
+    C:\CRE8DEMO\fungus.c
+    C:\CRE8DEMO\game.c
+    C:\CRE8DEMO\instr.c
+    C:\CRE8DEMO\io.c
+    C:\CRE8DEMO\kwhale.c
+    C:\CRE8DEMO\laser.c
+    C:\CRE8DEMO\level.c
+    C:\CRE8DEMO\light.c
+    C:\CRE8DEMO\main.c
+    C:\CRE8DEMO\map.c
+    C:\CRE8DEMO\mine.c
+    C:\CRE8DEMO\move.c
+    C:\CRE8DEMO\objects.c
+    C:\CRE8DEMO\packets.c
+    C:\CRE8DEMO\pdp.c
+    C:\CRE8DEMO\pchost.c
+    C:\CRE8DEMO\plant.c
+    C:\CRE8DEMO\player.c
+    C:\CRE8DEMO\pjectile.c
+    C:\CRE8DEMO\retrogen.c
+    C:\CRE8DEMO\scanmap.c
+    C:\CRE8DEMO\scanner.c
+    C:\CRE8DEMO\setup.c
+    C:\CRE8DEMO\setup3d.c
+    C:\CRE8DEMO\shark.c
+    C:\CRE8DEMO\sprat.c
+    C:\CRE8DEMO\ssprite.c
+    C:\CRE8DEMO\state.c
+    C:\CRE8DEMO\support.c
+    C:\CRE8DEMO\tables.c
+    C:\CRE8DEMO\thing.c
+    C:\CRE8DEMO\version.c
 
 -------------------------------------
 
 Entities/actors are referred to as "Things", which is something seen in
-Dungeon Keeper too I believe.
+Dungeon Keeper too I believe (and every other Bullfrog game!)
 
 Lots of very interesting bits in the executable...
 
@@ -335,18 +352,22 @@ Used for storing information relating to the terrain.
 Each tile might be about 12 bytes?
 Which means there's potentially about 65,536 tiles
 
-00  ...
-39  heightmap 0
-B8  ...
-29  heightmap 1
-12  ...
+DATA    BYTES   DESCRIPTION
+00      1       unused
+39      1       height 0
+B8      1       ceiling
+29      1       height 1
+12      2       texture index
 00
+00      1       unused
+00      1       unused
+00              uv coord (?) perhaps rotation?
 00
+00              uv coord (?)
 00
-00
-00
-00
-00
+
+242
+133
 
 LEV
 header, 12 bytes?
@@ -357,16 +378,11 @@ header, 12 bytes?
 
 Notes for possible libbullfrog solution?
 
-bfLoadPalette
-bfBlah ?
+typedef struct BullfrogStandardStruct {
+} BullfrogStandardStruct;
 
-lbfLoadPalette
-lbfBlah
+typedef struct BFGameStandardStruct {
+} GameStandardStruct;
 
-LBFStandard
-
-bfIMG_LoadPalette
-
-typedef struct BFStandardStruct {
-    uint16_t    var;
-} BFStandardStruct;
+BullfrogStandardStruct *bfCreateThing(void) {}
+void bfDoThing(void) {}

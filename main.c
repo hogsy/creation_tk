@@ -69,7 +69,6 @@ bool LoadPalette(BullfrogVGAPalette *pal, const char *path) {
     /* load the data and copy it into our temporary buffer */
 
     unsigned char buf[sz];
-
     FILE *fp = fopen(path, "rb");
     fread(buf, sizeof(char), sz, fp);
     fclose(fp);
@@ -101,21 +100,28 @@ void ConvertModel(const char *path, const char *out_path) {
 
 }
 
-BullfrogSpriteTable *LoadSpriteTable(const char *path) {
-    if(!plFileExists(path)) {
-        Warning("Failed to load \"%s\", aborting!\n", path);
+BullfrogSpriteTable *LoadSpriteTable(const char *tab_path, const char *dat_path) {
+    /* ensure both the tab and dat exist before going anywhere */
+
+    if(!plFileExists(tab_path)) {
+        Warning("Failed to load \"%s\", aborting!\n", tab_path);
         return NULL;
     }
 
-    size_t sz = plGetFileSize(path);
-    if(sz < 6) {
+    if(!plFileExists(dat_path)) {
+        Warning("Failed to load \"%s\", aborting!\n", dat_path);
+        return NULL;
+    }
+
+    size_t sz = plGetFileSize(tab_path);
+    if(sz < sizeof(BullfrogSpriteTableIndex)) {
         Warning("Invalid table size, %lu, aborting!\n", sz);
         return NULL;
     }
 
-    FILE *fp = fopen(path, "rb");
+    FILE *fp = fopen(tab_path, "rb");
     if(fp == NULL) {
-        Warning("Failed to load \"%s\", aborting!\n", path);
+        Warning("Failed to load \"%s\", aborting!\n", tab_path);
         return NULL;
     }
 
@@ -138,6 +144,7 @@ BullfrogSpriteTable *LoadSpriteTable(const char *path) {
     }
 
     memcpy(table->indices, buf, sizeof(BullfrogSpriteTableIndex) * table->num_indices);
+#if 1 /* print out each index, so we know it's loaded in correctly */
     for(unsigned int i = 0; i < table->num_indices; ++i) {
         printf(
                 "------------\n"
@@ -152,44 +159,77 @@ BullfrogSpriteTable *LoadSpriteTable(const char *path) {
                 table->indices[i].h
         );
     }
+#endif
 
     return table;
 }
 
-void ConvertImageTable(const BullfrogSpriteTable *tab, uint index, const BullfrogVGAPalette *pal, const char *path,
-                       const char *out_path) {
-    if(!plFileExists(path)) {
-        printf("Failed to load \"%s\", aborting!\n", path);
+/**
+ * Convert image from DAT table and output it to PNG.
+ * Some of this is borrowed from Freesynd -
+ * https://sourceforge.net/p/freesynd/code/HEAD/tree/freesynd/trunk/src/gfx/sprite.cpp#l143
+ *
+ * @param tab       Sprite table
+ * @param index     Index into the sprite table, this is what we'll output
+ * @param pal       Palette table
+ * @param path      Input path
+ * @param out_path  Output path
+ */
+void ConvertImageTable(const BullfrogSpriteTable *tab, uint index, const BullfrogVGAPalette *pal, const char *out_path) {
+#if 0 /* rewriting this... */
+    BullfrogSpriteTableIndex *bi = &tab->indices[index];
+    if(bi->w == 0 || bi->h == 0) {
         return;
+    }
+
+    if(tab->length == 0 || bi->off > tab->length) {
+        Error("Invalid table size, aborting!\n");
     }
 
     /* now load in the actual image data */
 
-    BullfrogSpriteTableIndex *bi = &tab->indices[index];
-
-    unsigned long dat_len = (unsigned long) ((bi->w * bi->h) * 3);
-    unsigned char dat_buf[dat_len];
     FILE *fp = fopen(path, "rb");
+
+    uint16_t num_sprites;
+    fread(&num_sprites, sizeof(uint16_t), 1, fp);
     fseek(fp, SEEK_SET, bi->off);
-    fread(dat_buf, sizeof(char), dat_len, fp);
+    unsigned int stride = (unsigned int) ceil(bi->w);
+    unsigned long block_length = (unsigned long) ((bi->w * bi->h) * 3);
+    unsigned char blocks[block_length];
+    fread(blocks, sizeof(char), block_length, fp);
     fclose(fp);
+
+    /* if num sprites returns anything but 0, it's encoded */
+    if(num_sprites != tab->num_indices) {
+        Error("Image table is using blocks... TODO!\n");
+    } else {
+        for(unsigned int i = 0; i < bi->h; ++i) {
+            uint8_t b = *
+            int rle = b
+        }
+    }
+
+    /* now write it */
 
     struct {
         uint8_t r, g, b;
-    } img[dat_len];
-    for(unsigned int i = 0; i < dat_len; i++) {
-        img[i].r = pal->pixels[dat_buf[i]].r;
-        img[i].g = pal->pixels[dat_buf[i]].g;
-        img[i].b = pal->pixels[dat_buf[i]].b;
+    } img[rl];
+    for(unsigned int i = 0; i < rl; i++) {
+        img[i].r = pal->pixels[nr[i]].r;
+        img[i].g = pal->pixels[nr[i]].g;
+        img[i].b = pal->pixels[nr[i]].b;
     }
+
+    free(nr);
 
     PLImage out;
     CreateImage(&out, (uint8_t *) img, tab->indices[index].w, tab->indices[index].h, PL_COLOURFORMAT_RGB, PL_IMAGEFORMAT_RGB8);
     if(!plWriteImage(&out, out_path)) {
-        printf("Failed to write image to \"%s\"!\n(%s)\n", out_path, plGetError());
+        Warning("Failed to write image to \"%s\"!\n(%s)\n", out_path, plGetError());
     }
 
     plFreeImage(&out);
+#endif
 }
 
 void ConvertImage(const char *path, const char *pal_path, const char *out_path, unsigned int width, unsigned int height) {
@@ -198,7 +238,7 @@ void ConvertImage(const char *path, const char *pal_path, const char *out_path, 
     /* check that both the DAT and PAL exist */
 
     if(!plFileExists(path)) {
-        printf("Failed to load \"%s\", aborting!\n", path);
+        Warning("Failed to load \"%s\", aborting!\n", path);
         return;
     }
 
@@ -235,7 +275,7 @@ void ConvertImage(const char *path, const char *pal_path, const char *out_path, 
     PLImage out;
     CreateImage(&out, (uint8_t *) img, width, height, PL_COLOURFORMAT_RGB, PL_IMAGEFORMAT_RGB8);
     if(!plWriteImage(&out, out_path)) {
-        printf("Failed to write image to \"%s\"!\n(%s)\n", out_path, plGetError());
+        Warning("Failed to write image to \"%s\"!\n(%s)\n", out_path, plGetError());
     }
 
     plFreeImage(&out);
@@ -259,40 +299,88 @@ void DB_ReadLevData(void) {
     fclose(fp);
 }
 
-void DB_ReadMapData(void) {
-    size_t len = plGetFileSize("LEVELS/DEFAULT.MAP");
+void DB_ReadMapData(const char *path) {
+    size_t len = plGetFileSize(path);
     unsigned int num_tiles = (unsigned int) (len / 12);
+    if(num_tiles > CREATION_MAP_MAX_TILES) {
+        Error("Invalid size for \"%s\", expected %d tiles but found %d!\n", path, CREATION_MAP_MAX_TILES, num_tiles);
+    }
 
-    typedef struct TILE {
-        int8_t  u0;
-        int8_t  height0;
-        int8_t  u1;
-        int8_t  height1;
-    } TILE;
-    uint8_t data[num_tiles][12];
+    uint8_t data[CREATION_MAP_MAX_TILES][12];
 
-    FILE *fp = fopen("LEVELS/DEFAULT.MAP", "rb");
+    FILE *fp = fopen(path, "rb");
     fread(data, 12, num_tiles, fp);
     fclose(fp);
 
     /* map it out into an image so we can check it out */
 
-    struct {
-        uint8_t r, g, b;
-    } map_buf[num_tiles];
-    for(unsigned int i = 0; i < num_tiles; ++i) {
-        map_buf[i].r = (uint8_t) (data[i][3] * 4);
-        map_buf[i].g = (uint8_t) (data[i][3] * 4);
-        map_buf[i].b = (uint8_t) (data[i][3] * 4);
+    char out_path[PL_SYSTEM_MAX_PATH];
+    for(unsigned int j = 0; j < 12; ++j) {
+        snprintf(out_path, sizeof(out_path), "map%d.png", j);
+
+        struct {
+            uint8_t r, g, b;
+        } map_buf[CREATION_MAP_MAX_TILES];
+        memset(map_buf, 0, sizeof(map_buf));
+        for(unsigned int i = 0; i < CREATION_MAP_MAX_TILES; ++i) {
+            map_buf[i].r = (uint8_t) (data[i][j] * 4);
+            map_buf[i].g = (uint8_t) (data[i][j] * 4);
+            map_buf[i].b = (uint8_t) (data[i][j] * 4);
+        }
+
+        PLImage out;
+        CreateImage(&out, (uint8_t *) map_buf, CREATION_MAP_ROW_TILES, CREATION_MAP_ROW_TILES, PL_COLOURFORMAT_RGB,
+                    PL_IMAGEFORMAT_RGB8);
+        if(!plWriteImage(&out, out_path)) {
+            Warning("Failed to write image to \"%s\"!\n(%s)\n", out_path, plGetError());
+        }
+
+        plFreeImage(&out);
+    }
+}
+
+/* Generate a .MAP file from some height-map data, just to see
+ * if we're on the right track */
+void GenerateMap(const char *name) {
+    char height_path[PL_SYSTEM_MAX_PATH];
+    snprintf(height_path, sizeof(height_path), "LEVELS/%s_h.png", name);
+    PLImage height_image;
+    if(!plLoadImage(height_path, &height_image)) {
+        Error("Failed to load image, \"%s\", aborting!\n%s", height_path, plGetError());
     }
 
-    PLImage out;
-    CreateImage(&out, (uint8_t *) map_buf, 256, 256, PL_COLOURFORMAT_RGB, PL_IMAGEFORMAT_RGB8);
-    if(!plWriteImage(&out, "map.png")) {
-        printf("Failed to write image to \"%s\"!\n(%s)\n", "map.png", plGetError());
+    /* copy the data into our output buffer, for our map data */
+
+    uint8_t buf[CREATION_MAP_MAX_TILES][12];
+    memset(buf, 0, 12 * CREATION_MAP_MAX_TILES);
+    uint8_t *pixel = height_image.data[0];
+    for(unsigned int i = 0; i < CREATION_MAP_MAX_TILES; ++i) {
+        uint8_t hp = (uint8_t) (((*(pixel++)) + (*(pixel++)) + (*(pixel++))) / 24);
+
+        /* texture index */
+        static uint8_t idx = 0;
+        if(idx >= 61) { idx = 0; }
+        buf[i][4] = ++idx;
+
+        buf[i][9] = (uint8_t) (rand() % 128);
+
+        buf[i][1] = buf[i][3] = hp;
+        buf[i][2] = (uint8_t) (hp * ((rand() % 255) + 1));
+        pixel++;
+    }
+    plFreeImage(&height_image);
+
+    /* now write our new map */
+
+    char map_path[PL_SYSTEM_MAX_PATH];
+    snprintf(map_path, sizeof(map_path), "LEVELS/%s.MAP", name);
+    FILE *fp = fopen(map_path, "wb");
+    if(fp == NULL) {
+        Error("Failed to open \"%s\" for write, aborting!\n", map_path);
     }
 
-    plFreeImage(&out);
+    fwrite(buf, 12, CREATION_MAP_MAX_TILES, fp);
+    fclose(fp);
 }
 
 int main(int argc, char **argv) {
@@ -312,16 +400,20 @@ int main(int argc, char **argv) {
     ConvertImage("DATA/BLOCK32.DAT", "DATA/PALETTE.DAT", "DATA/BLOCK32.png", 256, 256);
     ConvertImage("DATA/BLOCK64.DAT", "DATA/PALETTE.DAT", "DATA/BLOCK64.png", 256, 1024);
 
-    //ConvertImageTable(&pal, "DATA/SUBSPR.TAB", )
-
     /* tables */
 
-    BullfrogSpriteTable *tab = LoadSpriteTable("DATA/PANEL.TAB");
+#if 0
+    BullfrogSpriteTable *tab = LoadSpriteTable("DATA/PANEL.TAB", "DATA/PANEL.DAT");
     if(tab == NULL) {
         Error("Failed to load table!\n");
     }
 
-    ConvertImageTable(tab, 1, &pal, "DATA/PANEL.DAT", "DATA/PANEL_1.png");
+    for(unsigned int i = 0; i < tab->num_indices; ++i) {
+        char out[PL_SYSTEM_MAX_PATH];
+        snprintf(out, sizeof(out), "DATA/PANEL_%d.png", i);
+        ConvertImageTable(tab, i, &pal, out);
+    }
+#endif
 
     /* convert PALETTE.DAT and GAMEPAL.PAL */
 
@@ -329,10 +421,14 @@ int main(int argc, char **argv) {
     LoadPalette(&pal, "DATA/GAMEPAL.PAL");
     WritePalette(&pal, "DATA/GAMEPAL.png");
 
+    /* now try generating a brand new .MAP as well! */
+
+    GenerateMap("DEFAULT");
+
     /* load in the map data for analysis */
 
     DB_ReadLevData();
-    DB_ReadMapData();
+    DB_ReadMapData("LEVELS/original/DEFAULT.MAP");
 
     return 0;
 }
