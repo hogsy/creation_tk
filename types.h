@@ -12,10 +12,15 @@ typedef struct BullfrogVGAPalette {
 
 /***************************************************************/
 
-typedef struct BullfrogObjectHeader {
+typedef struct __attribute__((__packed__)) BullfrogObjectHeader {
     char    identity[24];  /* "BULLFROG OBJECT DATA" */
-    /* todo: pending */
+    char    u0[24];
 } BullfrogObjectHeader;
+static_assert(sizeof(BullfrogObjectHeader) == 48, "invalid struct size for BullfrogObjectHeader");
+
+typedef struct BullfrogObjectData {
+    BullfrogObjectHeader header;
+} BullfrogObjectData;
 
 /***************************************************************/
 /* Bullfrog Sprite Table */
