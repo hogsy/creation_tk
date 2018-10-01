@@ -303,18 +303,20 @@ void DB_ReadLevData(void) {
 
 void DB_ReadMapData(const char *path) {
     size_t len = plGetFileSize(path);
-    unsigned int num_tiles = (unsigned int) (len / 12);
+    unsigned int num_tiles = (unsigned int) (len / sizeof(CreationMapTile));
     if(num_tiles > CREATION_MAP_MAX_TILES) {
         Error("Invalid size for \"%s\", expected %d tiles but found %d!\n", path, CREATION_MAP_MAX_TILES, num_tiles);
     }
 
-    uint8_t data[CREATION_MAP_MAX_TILES][12];
-
-    FILE *fp = fopen(path, "rb");
-    fread(data, 12, num_tiles, fp);
-    fclose(fp);
-
     /* map it out into an image so we can check it out */
+
+#if 1
+    uint8_t tiles[CREATION_MAP_MAX_TILES][sizeof(CreationMapTile)];
+    FILE *fp = fopen(path, "rb");
+    if(fread(tiles, sizeof(CreationMapTile), CREATION_MAP_MAX_TILES, fp) != CREATION_MAP_MAX_TILES) {
+        Error("Failed to read in all tiles from \"%s\", aborting!\n", path);
+    }
+    fclose(fp);
 
     char out_path[PL_SYSTEM_MAX_PATH];
     for(unsigned int j = 0; j < 12; ++j) {
@@ -325,9 +327,9 @@ void DB_ReadMapData(const char *path) {
         } map_buf[CREATION_MAP_MAX_TILES];
         memset(map_buf, 0, sizeof(map_buf));
         for(unsigned int i = 0; i < CREATION_MAP_MAX_TILES; ++i) {
-            map_buf[i].r = (uint8_t) (data[i][j] * 4);
-            map_buf[i].g = (uint8_t) (data[i][j] * 4);
-            map_buf[i].b = (uint8_t) (data[i][j] * 4);
+            map_buf[i].r = (uint8_t) (tiles[i][j] * 4);
+            map_buf[i].g = (uint8_t) (tiles[i][j] * 4);
+            map_buf[i].b = (uint8_t) (tiles[i][j] * 4);
         }
 
         PLImage out;
@@ -339,6 +341,33 @@ void DB_ReadMapData(const char *path) {
 
         plFreeImage(&out);
     }
+#else
+    CreationMapTile tiles[CREATION_MAP_MAX_TILES];
+    FILE *fp = fopen(path, "rb");
+    if(fread(tiles, sizeof(CreationMapTile), CREATION_MAP_MAX_TILES, fp) != CREATION_MAP_MAX_TILES) {
+        Error("Failed to read in all tiles from \"%s\", aborting!\n", path);
+    }
+    fclose(fp);
+
+    struct {
+        uint8_t r, g, b;
+    } map_buf[CREATION_MAP_MAX_TILES];
+    memset(map_buf, 0, sizeof(map_buf));
+    for(unsigned int i = 0; i < CREATION_MAP_MAX_TILES; ++i) {
+        map_buf[i].r = (uint8_t) (tiles[i].height1 * 4);
+        map_buf[i].g = (uint8_t) (tiles[i].height1 * 4);
+        map_buf[i].b = (uint8_t) (tiles[i].height1 * 4);
+    }
+
+    PLImage out;
+    CreateImage(&out, (uint8_t *) map_buf, CREATION_MAP_ROW_TILES, CREATION_MAP_ROW_TILES, PL_COLOURFORMAT_RGB,
+                PL_IMAGEFORMAT_RGB8);
+    if(!plWriteImage(&out, "map.png")) {
+        Warning("Failed to write image to \"%s\"!\n(%s)\n", "map.png", plGetError());
+    }
+
+    plFreeImage(&out);
+#endif
 }
 
 /* Generate a .MAP file from some height-map data, just to see
@@ -353,8 +382,8 @@ void GenerateMap(const char *name) {
 
     /* copy the data into our output buffer, for our map data */
 
-    uint8_t buf[CREATION_MAP_MAX_TILES][12];
-    memset(buf, 0, 12 * CREATION_MAP_MAX_TILES);
+    CreationMapTile tiles[CREATION_MAP_MAX_TILES];
+    memset(tiles, 0, sizeof(CreationMapTile) * CREATION_MAP_MAX_TILES);
     uint8_t *pixel = height_image.data[0];
     for(unsigned int i = 0; i < CREATION_MAP_MAX_TILES; ++i) {
         uint8_t hp = (uint8_t) (((*(pixel++)) + (*(pixel++)) + (*(pixel++))) / 24);
@@ -362,12 +391,10 @@ void GenerateMap(const char *name) {
         /* texture index */
         static uint8_t idx = 0;
         if(idx >= 61) { idx = 0; }
-        buf[i][4] = ++idx;
+        tiles[i].texture = ++idx;
 
-        buf[i][10] = (uint8_t) (rand() % 128);
-
-        buf[i][1] = buf[i][3] = hp;
-        buf[i][2] = (uint8_t) (hp * ((rand() % 255) + 1));
+        tiles[i].height0 = tiles[i].height1 = hp;
+        tiles[i].ceiling = (uint8_t) (hp * ((rand() % 255) + 1));
         pixel++;
     }
     plFreeImage(&height_image);
@@ -381,7 +408,7 @@ void GenerateMap(const char *name) {
         Error("Failed to open \"%s\" for write, aborting!\n", map_path);
     }
 
-    fwrite(buf, 12, CREATION_MAP_MAX_TILES, fp);
+    fwrite(tiles, sizeof(CreationMapTile), CREATION_MAP_MAX_TILES, fp);
     fclose(fp);
 }
 

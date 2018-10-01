@@ -156,8 +156,8 @@ AD  : ...
 ├── TMAP061.DAT
 ├── TMAPS.DAT       RNC compressed texture data
 ├── TMAPS.TAB       Texture index data
-├── WINBUTS.DAT     (UNUSED)
-└── WINBUTS.TAB     (UNUSED)
+├── WINBUTS.DAT     Editor buttons image data (UNUSED)
+└── WINBUTS.TAB     Editor buttons index data (UNUSED)
 
 Okay, there seems to be a FUCK ton of unused
 content left in this build!
