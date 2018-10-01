@@ -42,12 +42,14 @@ typedef struct BullfrogSpriteTable {
 
 typedef struct __attribute__((__packed__)) CreationMapTile {
     int8_t      u0;             /* unused */
-    int8_t      height0;
-    int8_t      ceiling;
-    int8_t      height1;        /* terrain height */
+    uint8_t     height0;        /* base height? mesh isn't based from this */
+    uint8_t     ceiling;        /* demo appears to randomise this and multiply based on height */
+    uint8_t     height1;        /* terrain height */
     uint16_t    texture;        /* tile texture index */
-    int16_t     u1;             /* unused */
+    int16_t     u1;             /* unknown, seems to correlate to height? */
+    int8_t      u2[4];          /* unused */
 } CreationMapTile; /* 12 bytes */
+static_assert(sizeof(CreationMapTile) == 12, "invalid struct size for CreationMapTile");
 
 typedef struct CreationMap {
     CreationMapTile tiles[CREATION_MAP_MAX_TILES];

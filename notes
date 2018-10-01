@@ -359,7 +359,7 @@ B8      1       ceiling
 29      1       height 1
 12      2       texture index
 00
-00      1       unused
+00      1       unknown
 00      1       unused
 00              uv coord (?) perhaps rotation?
 00

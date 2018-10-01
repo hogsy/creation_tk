@@ -7,6 +7,8 @@
 #include <PL/platform_filesystem.h>
 #include <PL/platform_image.h>
 
+#include <assert.h>
+
 #include "types.h"
 
 /* see notes for further details */
@@ -362,7 +364,7 @@ void GenerateMap(const char *name) {
         if(idx >= 61) { idx = 0; }
         buf[i][4] = ++idx;
 
-        buf[i][9] = (uint8_t) (rand() % 128);
+        buf[i][10] = (uint8_t) (rand() % 128);
 
         buf[i][1] = buf[i][3] = hp;
         buf[i][2] = (uint8_t) (hp * ((rand() % 255) + 1));
@@ -428,7 +430,7 @@ int main(int argc, char **argv) {
     /* load in the map data for analysis */
 
     DB_ReadLevData();
-    DB_ReadMapData("LEVELS/original/DEFAULT.MAP");
+    DB_ReadMapData("LEVELS/DEFAULT.MAP");
 
     return 0;
 }
