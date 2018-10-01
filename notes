@@ -57,10 +57,10 @@ AD  : ...
 ├── OBJECT.DAT      Bullfrog Object Data (UNUSED)
 ├── OILLERX2.PRJ    (UNUSED)
 ├── PALETTE.DAT     Shared VGA palette used for model textures and terrain textures
-├── PANEL.DAT
+├── PANEL.DAT       HUD panel image data
 ├── PANELHI.DAT     Highly detailed version of the HUD (UNUSED)
 ├── PANELLO.DAT     Looks like debug symbols ... ? Very odd (UNUSED)
-├── PANEL.TAB
+├── PANEL.TAB       HUD panel index data
 ├── PLANT1.DAT      Bullfrog Object Data (UNUSED)
 ├── PLANT2.DAT      Bullfrog Object Data (UNUSED)
 ├── PLANTANI.PRJ
@@ -70,8 +70,8 @@ AD  : ...
 ├── PLANTTE2.PRJ    (UNUSED)
 ├── PLANTTEX.INF    Some sort of project config? (UNUSED)
 ├── PLANTTEX.PRJ    (UNUSED)
-├── POINTERS.DAT
-├── POINTERS.TAB
+├── POINTERS.DAT    Mouse cursor image data (UNUSED)
+├── POINTERS.TAB    Mouse cursor index data (UNUSED)
 ├── PPAL01.PAL
 ├── PPAL02.PAL
 ├── SPERMANI.DAT    Bullfrog Object Data (UNUSED)
