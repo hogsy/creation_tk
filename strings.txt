@@ -1,0 +1,5943 @@
+SRV1
+QVWU
+<\t3
+<.t.
+</t)
+]_^Y
+SQRV
+^ZY[
+WATCOM C Run-Time system code is provided on an "as is" basis and is (c) Copyright by WATCOM International Corp. 1988-1993. All rights reserved.
+*** NULL assignment detected
+Not enough memory
+  =nou	
+=87u
+SQVU
+]^Y[
+SQRVWU
+]_^ZY[
+QVWU
+F|;F~v
+]_^Y
+SQVW
+_^Y[
+SQVW
+_^Y[
+WVRQ
+YZ^_
+WVRQ
+YZ^_
+SQRV
+^ZY[]
+QVWU
+<"u;F
+<"t.
+< t%
+<	t 
+]_^Y
+SQRV
+^ZY[
+$<Ar
+SQRVW
+_^ZY[
+XQVW
+~ZMZt
+~ZZMu
+~d+~b
+XSQR
+XQVW
+PPRS1
+?Mt;
+SQRVW
+_^ZY[
+<;6^
+SQRVW
+_^ZY[
+Stack Overflow!
+SQRVWU
+]_^ZY[
+SQRVU
+QVWU
+FCB;^
+]_^Y
+Ct0;
+UVW+
+t!FF
+!sw<
+!Bad format on exec
+$Bad environment on exec
+$Not enough memory on exec
+!sw<
+!Bad format on exec
+$Bad environment on exec
+$Not enough memory on exec
+SQRVW
+_^ZY[
+QVWU
+]_^Y
+SQVW
+_^Y[
+SQVWU
+]_^Y[
+SQVWU
+DOS4GPATH
+PATH
+dos4gw.exe
+dos4g.exe
+Stub exec failed:
+Error 0
+No such file or directory
+Argument list too big
+Exec format error
+Bad file number
+Not enough memory
+Permission denied
+File exists
+Cross-device link
+Invalid argument
+File table overflow
+Too many open files
+No space left on device
+Argument too large
+Result too large
+Resource deadlock would occur
+unknown error
+PATH
+.com
+.exe
+Not enough memory on exec
+main
+f@u	
+SQRVW
+_^ZY[
+SQRVW
+_^ZY[
+f@u	
+LfHt
+SQVW
+_^Y[
+SQRVW
+_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+f@u	
+(fHt
+SQVWU
+]_^Y[
+SQRVW
+;|*1
+|PNf
+_^ZY[
+SQRVW
+Cr-v
+_^ZY[
+SQVW
+f	\AJ
+_^Y[
+_^Y[
+8ZY[
+SQRV
+^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+<$E9
+]_^ZY[
+SQRVW
+_^ZY[
+SQRVWU
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+SQRVWf
+_^ZY[
+_^ZY[
+_^ZY[
+SRVWf
+_^Z[
+_^Z[
+_^Z[
+_^Z[
+_^Z[
+SQRVW
+_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+f;t$
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRVWU
+@t4h
+ t:h
+]_^ZY[
+SQRVW
+_^ZY[
+_^ZY[
+_^ZY[
+_^ZY[
+_^ZY[
+_^ZY[
+SQRV
+^ZY[
+ ]_^
+|$(f
+D$,)
+SQRVWU
+D$$f
+t$ f
+L$ f
+(]_^ZY[
+SQRVW1
+_^ZY[
+SQRV
+^ZY[
+f@u	
+#fHt
+SQRVWU
+]_^ZY[
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVW
+_^ZY[
+QVWU
+]_^Y
+SQVWU
+]_^Y[
+SQVWU
+]_^Y[
+QVWU
+]_^Y
+QVWU
+]_^Y
+SQVWU
+]_^Y[
+SQVWU
+]_^Y[
+SQVWU
+]_^Y[
+SQVWU
+]_^Y[
+SQVW
+_^Y[
+SQVWU
+]_^Y[
+L$(1
+D$ f
+D$,1
+L$ f
+D$$9
+D$ +T$$
+0]_^
+0]_^
+0]_^
+L$(1
+D$ f
+D$,1
+L$ f
+D$$9
+D$ +T$$
+0]_^
+0]_^
+0]_^
+SQRVWU
+D$@$
+D$<1
+D$0k
+D$ 1
+D$<1
+t$0H
+D$ 1
+D$(9
+D]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQVWU
+]_^Y[
+SQRVWU
+D$()
+SQRV
+SQVWU
+]_^Y[
+]_^Y[
+]_^Y[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+PG:PHs
+XGZ[
+SQRVW
+fHt,
+fHt3
+_^ZY[
+_^ZY[
+k@ Ff
+f@u	
+SQVW
+_^Y[
+SQRVWU
+UG:UHs
+]_^ZY[
+]_^ZY[
+QVWU
+]_^Y
+QVWU
+H ]_^Y
+SQVW1
+_^Y[
+$]_^
+(]_^
+SQVW
+H_^Y[
+SQVW
+H_^Y[
+SQVW
+T$ 1
+H_^Y[
+SQVW
+_^Y[
+QVWU
+D$`0
+l$H)
+t$X)
+\$X)
+l$T)
+D$D1
+l]_^Y
+SQRV
+^ZY[
+QVWU
+]_^Y
+]_^Y
+SQRV
+^ZY[
+QVWU
+]_^Y
+QVWU
+]_^Y
+SQVWU
+4$f9
+]_^Y[
+SQRVWU1
+]_^ZY[
+SQRVWU
+]_^ZY[
+]_^ZY[
+;C }
+;C }
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+~J;K
+};;{
+]_^ZY[
+]_^ZY[
+]_^ZY[
+f@u	
+SQRV
+^ZY[
+SQRV
+^ZY[
+I>^ZY[
+SQRVW1
+_^ZY[
+SQVWU
+]_^Y[
+SQRVWU
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+f;t$
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+]_^ZY[
+SQRV
+^ZY[
+SQRVWU
+f;L$
+]_^ZY[
+]_^ZY[
+]_^ZY[
+SQRVW
+_^ZY[
+SQRVWU
+f;L$ |"
+\$ Af9
+$]_^ZY[
+SQRVWU
+f;L$
+f;T$
+f;L$
+]_^ZY[
+SQRVWU
+T$$0
+(]_^ZY[
+SQRVWU
+f;T$
+ ]_^ZY[
+QVWU
+]_^Y
+QVWU
+]_^Y
+QVWU
+]_^Y
+l$,+T$
+l$4)
+D$Hf
+~	f9
+}	f9
+L$L9
+T$$f
+T$L9
+D$(f
+T$L9
+l$(f
+l$(f
+d$ f
+T$L9
+l$ f
+D$,f
+T$L9
+l$,f
+l$,f
+T$L9
+<]_^
+L$,9
+SQRVWU
+\$ f
+\$ f
+$]_^ZY[
+SQRVWU
+|$ I
+T$ RP
+T$8W
+l$(Q
+D$$PVS
+0]_^ZY[
+SQRV
+^ZY[
+SQRVWU
+]_^ZY[
+SQRVW
+_^ZY[
+SQRVWU
+SQRVWU
+4$E1
+]_^ZY[
+SQVW
+_^Y[
+SQRVWU
+]_^ZY[
+]_^ZY[
+SQRV
+^ZY[
+SQRVWU
+@t)j
+]_^ZY[
+SQRV
+^ZY[
+SQRVWU
+UG:UHs
+]_^ZY[
+SQVWf
+_^Y[
+SQVW
+_^Y[
+QVWf
+SQVWU
+@]_^Y[
+]_^Y[
+SQRV
+^ZY[
+^ZY[
+SQVWU
+]_^Y[
+SQVWU
+]_^Y[
+SQRVWU
+D$ f
+D$ f
+D$$f
+D$$f
+,]_^ZY[
+SQRVWU
+]_^ZY[
+SRf=
+SQVWU
+<]_^Y[
+RVWU
+]_^Z
+SQVWU
+]_^Y[
+SQRVW
+_^ZY[
+PIZ[
+H>Z[
+SQRVWU
+]_^ZY[
+SQRVW
+_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVW
+_^ZY[
+SQRVWU
+f;t$
+ ]_^ZY[
+SQRVWU
+f;t$
+]_^ZY[
+SQRVW
+f+G 1
+fHt,
+fHt3
+_^ZY[
+_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRV
+^ZY[
+^ZY[
+^ZY[
+SQRVWU
+]_^ZY[
+]_^ZY[
+]_^ZY[
+SQRVWU
+]_^ZY[
+SQRV
+^ZY[
+SQRVWU
+]_^ZY[
+SQRV
+^ZY[
+D$<1
+T$ f
+L$<-
+D$@)
+xWATCOM C/C++32 Run-Time system. (c) Copyright by WATCOM International Corp. 1988-1994. All rights reserved.
+RAHP)
+
+THING COUNT - %ld
+TARGET = %d
+Thing State = STATE_INIT
+Thing State = STATE_NORMAL
+Thing State = STATE_HIT
+Thing State = STATE_DYING
+Thing State = STATE_DEAD
+Thing State = %d
+Thing Damage = %d
+GameTurn = %ld
+MapX = %4.4x
+MapY = %4.4x
+data/brief.dat
+data/brief.pal
+Mem used - %ldk
+data/helpback.dat
+data/helpback.pal
+data/cre8logo.dat
+data/cre8logo.pal
+Orca F/00014667
+    (Daisy)
+Anomaly xx/00000000
+     (Unknown)
+FPS=%d
+NETWORK GAME
+OUT OF SYNC
+IN CAVE
+At surface
+PAUSED
+Seed = %d
+levels/cre8%2.2d.lev
+levels/cre8%2.2d.map
+levels/default.lev
+levels/default.map
+Total memory - %ld
+f %d, %d
+assign 3D object
+Load Project : vertices
+Loaded %d frames of animation.
+idx %d, for %s
+Load Project : faces
+Load Project : anims
+Anim 0
+FF 0
+Anim 0
+FF 0
+Anim 0
+FF 0
+Anim 0
+FF 0
+Anim 0
+FF 0
+Anim 0
+FF 0
+Anim 0
+FF 0
+Anim 0
+FF 0
+Anim 0
+FF 0
+Anim 0
+FF 0
+Anim 0
+FF 0
+data\kelp.prj
+data\4hghgren.prj
+data\plantani.prj
+data\kill.prj
+data\killbaby.prj
+data\dfin.prj
+data\sub15.prj
+data\fish1ani.prj
+data\fish2ani.prj
+data\fish3ani.prj
+data\fungus.prj
+CREATION
+network
+players
+session
+record
+RECORD.PKT
+playback
+RECORD.PKT
+movie
+RECORD.PKT
+editor
+debug
+ERROR : Incorrect command - %s
+ERROR : Incorrect command - %s
+Initing Drone
+Initing Drone
+Initing Drone
+test.tga
+data/tables.dat
+data/tables.dat
+data/tables.dat
+error in LoadFiles
+\bullfrog.cd\sound
+data/palette.dat
+data\tex%02d.dat
+data/tmaps.dat
+data/tmaps.dat
+ERROR decompressing tmap%03d
+SCRSHOTS\SCREEN%02d.PCX
+MESHES\SCAPE%02d.ASC
+Ambient light color: Red=0.3 Green=0.3 Blue=0.3
+Named object: "Object01"
+Tri-mesh, Vertices: %d     Faces: %d
+Vertex list:
+Vertex %d:  X: %d     Y: %d     Z: %d
+Face list:
+Face %d:    A:%d B:%d C:%d AB:1 BC:1 CA:0
+Smoothing:  1
+Face %d:    A:%d B:%d C:%d AB:1 BC:1 CA:0
+Smoothing:  1
+Face %d:    A:%d B:%d C:%d AB:1 BC:1 CA:0
+Smoothing:  1
+Face %d:    A:%d B:%d C:%d AB:1 BC:1 CA:0
+Smoothing:  1
+Face %d:    A:%d B:%d C:%d AB:1 BC:1 CA:0
+Smoothing:  1
+Face %d:    A:%d B:%d C:%d AB:1 BC:1 CA:0
+Smoothing:  1
+Face %d:    A:%d B:%d C:%d AB:1 BC:1 CA:0
+Smoothing:  1
+Face %d:    A:%d B:%d C:%d AB:1 BC:1 CA:0
+Smoothing:  1
+DRAW_SCALED_SUB
+DRAW_SCALED_SPRAT
+DRAW_SCALED_LASER
+DRAW_SCALED_FLARE_IN
+DRAW_SCALED_FLARE
+DRAW_SCALED_FLARE_OUT
+DRAW_SCALED_MINE_IN
+DRAW_SCALED_MINE
+DRAW_SCALED_BUBBLE1
+DRAW_SCALED_BUBBLE2
+DRAW_SCALED_BUBBLE3
+DRAW_SCALED_BUBBLE4
+DRAW_SCALED_BOOM
+DRAW_SCALED_DOLPHIN
+Copyright (c) 1994 Bullfrog Productions Ltd.
+All rights reserved.
+Rough
+Creation
+%s (%s)
+%s%d
+netbios
+ADDING %s
+ADDED %s
+CALLING %s%d
+SESSION ESTABLISHED
+ERROR: Allocation %s.
+Press return to continue
+ERROR: File %s.
+ERROR decompressing %s
+SOUND/SOUND.DAT
+null.wav
+SBAWE32.MDI
+ULTRA.MDI
+hSBPRO2.MDI
+SBPRO1.MDI
+DMPU401.MDI
+2MT32MPU.MDI
+SNDSCAPE.MDI
+ionADLIBG.MDI
+ePAS.MDI
+PASPLUS.MDI
+SBLASTER.MDI
+iveOPL3.MDI
+iveADLIB.MDI
+vr%c:%sSOUND/SAMPLE
+%c:%s/SOUND/SAMPLE
+DMDMUSIC
+%s %x %d %d %d
+DMDI.INI
+None
+T32f
+U.ESFM.MDI
+APEw
+Error driver not supported
+Error opening music files
+[%.02u:%.02u:%.02u.%.02u] 
+AIL_DEBUG
+AIL_SYS_DEBUG
+lew+t
+-------------------------------------------------------------------------------
+nsu3.03
+entAudio Interface Library application usage script generated by AIL V%s
+GStart time: %s
+-------------------------------------------------------------------------------
+--AIL_startup()
+AAIL_shutdown()
+AIL_set_preference(%d,%d)
+aResult = %d
+AIL_get_real_vect(0x%X)
+---Result = 0x%X
+-AIL_set_real_vect(0x%X,0x%X)
+--AIL_set_USE16_ISR(%d,0x%X,%u)
+aAIL_restore_USE16_ISR(%d)
+AIL_call_driver(0x%X,0x%X,0x%X,0x%X)
+AIL_delay(%d)
+lAIL_API_read_INI(0x%X,%s)
+%Driver = %s
+ealDevice = %s
+%X)IO     = %X
+SE1IRQ    = %d
+,%uDMA_8  = %d
+re_DMA_16 = %d
+Result = %u
+er(AIL_register_timer(0x%X)
+L_AIL_set_timer_user(%u,%u)
+IAIL_set_timer_period(%u,%u)
+eviAIL_set_timer_frequency(%u,%u)
+AIL_set_timer_divisor(%u,%u)
+A_AIL_interrupt_divisor()
+ = AIL_start_timer(%u)
+imeAIL_start_all_timers()
+AIL_stop_timer(%u)
+AIL_stop_all_timers()
+AIL_release_timer_handle(%u)
+%uAIL_release_all_timers()
+u,AIL_get_IO_environment(0x%X)
+AIL_install_driver(0x%X,%u)
+L_sAIL_uninstall_driver(0x%X)
+AIL_install_DIG_INI(0x%X)
+eAIL_install_DIG_driver_file(%s,0x%X)
+uAAIL_uninstall_DIG_driver(0x%X)
+AIL_allocate_sample_handle(0x%X)
+taAIL_allocate_file_sample(0x%X,0x%X,%d)
+AIL_release_sample_handle(0x%X)
+%X)AIL_init_sample(0x%X)
+eAIL_set_sample_file(0x%X,0x%X,%d)
+GAIL_set_sample_address(0x%X,0x%X,%u)
+X)AIL_set_sample_type(0x%X,%d,%u)
+,0xAIL_start_sample(0x%X)
+AIL_stop_sample(0x%X)
+_AIL_resume_sample(0x%X)
+et_AIL_end_sample(0x%X)
+%dAIL_set_sample_playback_rate(0x%X,%d)
+)AIL_set_sample_volume(0x%X,%d)
+AIL_set_sample_pan(0x%X,%d)
+IL_AIL_set_sample_loop_count(0x%X,%d)
+AIL_sample_status(0x%X)
+e(0AIL_sample_playback_rate(0x%X)
+AIL_sample_volume(0x%X)
+)AAIL_sample_pan(0x%X)
+x%AIL_sample_loop_count(0x%X)
+X,%AIL_set_digital_master_volume(0x%X,%d)
+AIL_digital_master_volume(0x%X)
+L_sAIL_install_DIG_driver_image(0x%X,%u,0x%X)
+AIL_minimum_sample_buffer_size(0x%X,%d,%d)
+AIL_sample_buffer_ready(0x%X)
+_AIL_load_sample_buffer(0x%X,%u,0x%X,%u)
+e(0AIL_set_sample_position(0x%X,%u)
+agAIL_sample_position(0x%X)
+XAIL_register_SOB_callback(0x%X,0x%X)
+,%AIL_register_EOB_callback(0x%X,0x%X)
+_AAIL_register_EOS_callback(0x%X,0x%X)
+AIL_register_EOF_callback(0x%X,0x%X)
+AIL_set_sample_user_data(0x%X,%u,%d)
+0xAIL_sample_user_data(0x%X,%u)
+lAIL_active_sample_count(0x%X)
+rAIL_install_MDI_INI(0x%X)
+AIL_install_MDI_driver_file(%s,0x%X)
+AIL_uninstall_MDI_driver(0x%X)
+AIL_allocate_sequence_handle(0x%X)
+AIL_release_sequence_handle(0x%X)
+rAIL_init_sequence(0x%X,0x%X,%d)
+nstAIL_start_sequence(0x%X)
+X)AIL_stop_sequence(0x%X)
+insAIL_resume_sequence(0x%X)
+aAIL_end_sequence(0x%X)
+AIL_set_sequence_tempo(0x%X,%d,%d)
+AIL_set_sequence_volume(0x%X,%d,%d)
+AIL_set_sequence_loop_count(0x%X,%d)
+AIL_sequence_status(0x%X)
+eAIL_sequence_tempo(0x%X)
+0xAIL_sequence_volume(0x%X)
+(AIL_sequence_loop_count(0x%X)
+oAIL_set_XMIDI_master_volume(0x%X,%d)
+loAIL_XMIDI_master_volume(0x%X)
+LAIL_install_MDI_driver_image(0x%X,%u,0x%X)
+AIL_MDI_driver_type(0x%X)
+eAIL_set_GTL_filename_prefix(%s)
+0x%AIL_timbre_status(0x%X,%d,%d)
+eAIL_install_timbre(0x%X,%d,%d)
+AIL_protect_timbre(0x%X,%d,%d)
+AIL_unprotect_timbre(0x%X,%d,%d)
+%XAIL_active_sequence_count(0x%X)
+AIL_controller_value(0x%X,%d,%d)
+eAIL_channel_notes(0x%X,%d)
+AIL_sequence_position(0x%X,0x%X,0x%X)
+xResult = %d:%d
+AIL_branch_index(0x%X,%u)
+AIL_register_prefix_callback(0x%X,0x%X)
+L_cAIL_register_trigger_callback(0x%X,0x%X)
+_nAIL_register_sequence_callback(0x%X,0x%X)
+XAIL_register_beat_callback(0x%X,0x%X)
+eAIL_register_event_callback(0x%X,0x%X)
+AIL_register_timbre_callback(0x%X,0x%X)
+lbaAIL_set_sequence_user_data(0x%X,%u,%d)
+AIL_sequence_user_data(0x%X,%u)
+calAIL_register_ICA_array(0x%X,0x%X)
+nAIL_lock_channel(0x%X)
+AIL_release_channel(0x%X,%d)
+%XAIL_map_sequence_channel(0x%X,%d,%d)
+0xAIL_true_sequence_channel(0x%X,%d)
+AIL_send_channel_voice_message(0x%X,0x%X,0x%X,0x%X,0x%X)
+_lAIL_send_sysex_message(0x%X,0x%X)
+nAIL_create_wave_synthesizer(0x%X,0x%X,0x%X,%d)
+AIL_destroy_wave_synthesizer(0x%X)
+VESA
+ERROR.LOG
+Error: 
+SB16.DIG
+SBAWE32.MDI
+MPU401.MDI
+COMSPEC
+CMD.EXE
+COMMAND.COM
+COMMAND
+SB16.DIG
+ULTRA.DIG
+dJAMMER.DIG
+PROAUDIO.DIG
+DI.SNDSCAPE.DIG
+U.ADRV688.DIG
+RAP10.DIG
+LISBPRO.DIG
+veSBLASTER.DIG
+Could not load any digital samples
+rdMDSOUND
+%s %x %d %d %d
+6DIG.INI
+None
+Could not load any digital samples
+Could not load any digital samples
+SBAWE32.MDI
+ sound//%s.sbk
+SOUND/MUSIC.DAT
+0123456789ABCDEF
+DRIVER
+DEVICE
+IO_ADDR
+DMA_8_bit
+mpDMA_16_bit
+uCorrupted .INI file
+al Insufficient memory for driver descriptor
+lInsufficient low memory
+AIL3DIG
+AIL3MDI
+Invalid driver type
+Out of driver handles
+pOut of timer handles
+Minimum DMA buffer size too large for VDM
+dCould not allocate memory for driver
+ m.DIG driver required
+reDigital sound hardware not found
+0xCould not allocate DMA buffers
+Could not allocate build buffer
+r VCould not allocate SAMPLE structures
+veOut of timer handles
+reDriver file not found
+wDIG.INI
+Unable to open file DIG.INI
+MA Out of sample handles
+fmt 
+ldata
+lCreative
+WAVE
+Unrecognized digital audio file type
+_Invalid or missing data block
+%Unrecognized digital audio file type
+0xInvalid or missing data block
+FORM
+CAT 
+XMID
+Internal note queue overflow
+llCould not allocate memory for driver
+r .MDI driver required
+ nXMIDI sound hardware not found
+Could not initialize instrument manager
+Could not allocate SEQUENCE structures
+Out of timer handles
+moDriver file not found
+rMDI.INI
+Unable to open file MDI.INI
+ noTandy 3-voice music
+IBM internal speaker music
+m.AD
+.OPL
+COut of sequence handles
+E sInvalid XMIDI sequence
+TIMB
+RBRN
+iveEVNT
+e nNo timbres loaded
+UDriver could not install timbre bank %u, patch %u
+IDriver could not install timbre bank %u, patch %u
+Insufficient memory for HWAVE descriptor
+.bat
+.com
+.exe
+COMSPEC
+COMMAND
+Floating-point support not loaded
+Not enough memory to allocate file structures
+PATH
+JFMAMJJASONDaeapauuuecoenbrrynlgptvcSMTWTFSuouehranneduit
+8888888888
+XXXXXXHHHHHHHHHHHHHHHHHHHH
+EXAMPLE
+data\keyspr.dat
+data\keyspr.tab
+data\subspr.dat
+data\subspr.tab
+data\texspr.dat
+data\texspr.tab
+data\squid.dat
+data\squid.tab
+Location:
+McLaughlin Trench
+Proxima Centauri IV (Creation)
+Initiating Starwire Uplink...
+Searching...
+Found: Oort Hub Sublink A8-01
+Starwire Uplink Open...
+Transmitting.................................................
+ (08
+( 80
+08 (
+80(  0(8
+(8 0
+0 8(
+8(0 
+ (08
+(8 0
+0 8(
+80( 80( 
+( 80
+08 (
+ (08
+				
+*VESA
+*W_SCREEN
+*PALETTE
+*POLY_MEM
+data\cre8logo.pal
+data\text.dat
+data\palette.dat
+data\ppal01.pal
+data\ppal02.pal
+data\block64.dat
+data\tex01.dat
+data\cavemap.dat
+data/tmaps.tab
+data\pointers.dat
+data\pointers.tab
+data\buttons.dat
+data\buttons.tab
+data\panel.dat
+data\panel.tab
+data\font.dat
+data\font.tab
+Oct 26 1995
+08:53:11
+Creation rough
+1234567890-=
+	qwertyuiop[]
+asdfghjkl;'`
+#zxcvbnm,./
+()/*
+$%^&*()_+
+	QWERTYUIOP{}
+ASDFGHJKL:|
+~ZXCVBNM<>?
+()/*
+TESTER
+SOUND
+Bullfrog
+ "$&(*,.02468:<>@BDFHJLNPRTVXZ\^`bdfhjlnprtvxz|
+SAMPLE
+TIMB
+Stack Overflow!
+ P4H4
+ @@@ 
+@   @
+  p  
+0HHH0
+8@pH0
+0H0H0
+8TX@<
+0HxHH
+pHpHp
+8@@@8
+pHHHp
+x@p@x
+x@p@@
+8@XH8
+HHxHH
+p   p
+HP`PH
+@@@@x
+DlTDD
+HhXHH
+0HHH0
+pHp@@
+0HHP(
+pHpHH
+HHHH0
+DDD(
+DDTlD
+`@@@`
+`   `
+0PP0
+@`PP`
+0@@0
+0PP0
+0p@0
+ p   
+@`PPP
+   @
+@@P`P
+@@@@@
+hTDD
+`PPP
+ PP 
+`PP`@
+0PP0
+P`@@
+ p  
+PPP0
+PPP 
+DTT(
+P PP
+p @p
+0 @ 0
+@@@@@@
+Ph|hP
+3KeyOn
+4InkeyToAscii
+5InkeyToAsciiShift
+0Inkey
+Shift
+OpenKeyboard"$
+CloseKeyboard
+Keyboard
+%Display
+=Network
+__NETAdd__#$
+__NETCall__%$
+__NETCancel__&$
+__NETCheckBios__'$P
+__NETDelete__%$
+__NETHangUp__%$
+__NETListen__%$0
+net_receive*$
+__NETReceive__$$
+net_send'$p
+__NETSend__($
+__NETUpdateStatus__%$
+__NETStatus__#$@
+__NETBios__"$
+SetupNetwork!$
+ResetNetwork&$
+StartNetwork"$0
+StopNetwork&$
+SendNetwork)$@
+ReceiveNetwork($
+ExchangeNetwork
+MySeek
+MyRead
+MyWrite
+SwapScreens
+LoadAllData
+SetupAllSprites
+3from
+4to_pal
+fade_count
+fade_started
+FadePalette($
+StopOpenFadePalette
+SetupScreen
+4MouseWBuffer
+4MouseSBuffer
+screen_ptr
+sprite_ptr
+mouse_event
+BackGraphicsWindowX
+BackGraphicsWindowY
+y_step_out
+x_step_out!
+BackGraphicsWindowHeight
+buffer_step_in
+sprite_offset_x
+sprite_offset_y 
+BackGraphicsWindowWidth
+backup_ptr2
+fully_clipped
+MouseOldData
+ScrSeg
+backup_ptr
+MouseSwap
+MouseInstalled
+6MouseInfo
+old_vesa_page
+height_loop
+width_loop
+page
+MouseOldW
+MouseOldH
+MouseOldX
+MouseOldY
+MouseFlag
+MouseScreenBackup*$
+MouseWorkScreenBackup&$`
+MouseScreenUndraw*$@
+MouseWorkScreenUndraw,$
+PartialUpdatePlaceMouse
+PlaceMouse-$`
+PartialUpdateRemoveMouse $
+RemoveMouse,$
+ChangeMouseSpriteOffset*%
+MouseHandler256&$
+ChangeMouseSprite)$ 
+ChangeMouseMoveRatio
+SetupMouse
+ResetMouse!$
+SuspendMouse#$
+SetMouseWindow%$P
+SetMousePosition
+MyAlloc$$
+split_arena
+LoadFileAt
+5MemoryBlocks
+9MemoryArenas
+;MemoryAvailable
+compare $
+SetupMemory $
+CheckMemory!$ 
+dos_alloc
+DrawSprite
+FreeAllData
+MyFree#$P
+delete_arena
+DrawOneColourSprite
+SetPalette
+VesaData
+VesaPage
+VesaGran
+VesaHRes
+VesaVRes
+VesaBytesPerLine
+VesaGetGran"$
+VesaSetMode"$p
+VesaSetPage $
+VesaGetInfo+$
+VesaModeIsAvailable
+DrawBox
+DrawLine($0
+draw_b_line
+SwapScreensClear
+MyOpen
+MyClose
+ResetMemory
+dos_free
+3log_filename
+error_log_initialised
+error_log_created
+error_log_flag
+ErrorLogSetup"$`
+ErrorLogReset
+MyError
+SaveFileAt
+3OldInt
+oinkey
+debug_k
+0ExtendedKeyPress
+0IInkey
+KInt"$
+OpenIKeyboard#$`
+CloseIKeyboard
+ResetScreen
+LoadData
+MyLowAlloc
+FreeData
+SetupSprites
+RncFileLength
+MakeFilename
+GetDirectory
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\keyboard.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL	
+SLONG	
+UBYTE
+SHeight
+SWidth
+Data
+!Sprite
+Palette
+DrawColour
+FadeStep
+ad MMiddleButton
+ac MRightButton
+ab MLeftButton
+aa MiddleButton
+a` RightButton
+a_ LeftButton
+VesaIsSetUp
+ScreenMode
+OldVideoMode
+DrawFlags
+MMouseY
+MMouseX
+MouseY
+MouseX
+MouseWindowHeight
+MouseWindowWidth
+MouseWindowY
+MouseWindowX
+GraphicsWindowHeight
+GraphicsWindowWidth
+GraphicsWindowY
+GraphicsWindowX
+GraphicsScreenHeight
+GraphicsScreenWidth
+PhysicalScreenHeight
+PhysicalScreenWidth
+#MouseSprite
+GraphicsWindowPtr
+FadeTable
+GlassMap
+WScreen
+PhysicalScreen
+$DisplayStruct
+C:\LIBRARY6.95\SRC_GEN\display.c
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\define.h
+C:\LIBRARY6.95\INC\network.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+Segment
+a25Reserve
+CmdCPlt
+LanaNum
+Post
+4Name
+3CallName
+Length
+BufferPtrSeg
+BufferPtr
+RetCode
+Command
+6NCB
+a<;Name
+a4:Status
+9UserNcb
+8MasterNcb
+ReceiveBuffer
+SendBuffer
+NumberActive
+NumberOfSlots
+Slot
+SessionActive
+Active
+<NetworkInfo
+C:\LIBRARY6.95\SRC_DOS\network.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\myseek.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\myread.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\mywrite.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\swap_scr.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+Spare	a(
+Flags
+SLength
+a 5SEnd	a
+5Start	a
+3FName
+6LoadFiles
+C:\LIBRARY6.95\SRC_GEN\load_all.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+SHeight
+SWidth
+Data
+3Sprite
+Data
+6End	a
+6Start
+7SetupSprite
+C:\LIBRARY6.95\SRC_GEN\setallsp.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_GEN\fade.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\setup_sc.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+MemOffset
+Buffer
+MouseHeight
+MouseWidth
+MouseY
+MouseX
+3MouseBuffer
+MouseBufferWidth
+Buffer
+MouseHeight
+MouseWidth
+MouseY
+MouseX
+5MouseData
+SHeight
+SWidth
+Data
+:Sprite
+C:\LIBRARY6.95\SRC_DOS\mouse.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+7MemArena
+Section
+Used
+6Parent	a
+6Child
+Size
+Pointer
+C:\LIBRARY6.95\SRC_DOS\myalloc.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_GEN\loadf_at.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+Size
+Selector
+Pointer
+3MemBlock
+8MemArena
+Section
+Used
+7Parent	a
+7Child
+Size
+Pointer
+SmallestBlock
+LargestBlock
+TotalBytesUsed
+TotalBytesFree
+TotalBytes
+:MemAvailable
+C:\LIBRARY6.95\SRC_DOS\setupmem.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+SHeight
+SWidth
+Data
+3Sprite
+C:\LIBRARY6.95\SRC_GEN\spr_std.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+Spare	a(
+Flags
+SLength
+a 5SEnd	a
+5Start	a
+3FName
+6LoadFiles
+C:\LIBRARY6.95\SRC_GEN\free_all.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+7MemArena
+Section
+Used
+6Parent	a
+6Child
+Size
+Pointer
+C:\LIBRARY6.95\SRC_DOS\myfree.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+SHeight
+SWidth
+Data
+3Sprite
+C:\LIBRARY6.95\SRC_GEN\spr_col.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\set_pal.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\vesa.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list	r"
+C:\LIBRARY6.95\SRC_GEN\box.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list	r
+C:\LIBRARY6.95\SRC_GEN\line.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\sw_sc_cl.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\myopen.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\myclose.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\resetmem.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+ERROR_LOG_NEW
+ERROR_LOG_APPEND
+4ErrorLogFlag
+C:\LIBRARY6.95\SRC_GEN\errorlog.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_GEN\savef_at.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\ikeyboar.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\reset_sc.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+Spare	a(
+Flags
+SLength
+a 5SEnd	a
+5Start	a
+3FName
+6LoadFiles
+C:\LIBRARY6.95\SRC_GEN\load_dat.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\mylowall.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+Spare	a(
+Flags
+SLength
+a 5SEnd	a
+5Start	a
+3FName
+6LoadFiles
+C:\LIBRARY6.95\SRC_GEN\free_dat.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+SHeight
+SWidth
+Data
+3Sprite
+C:\LIBRARY6.95\SRC_GEN\setupspr.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\rnc_file.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list	r
+C:\LIBRARY6.95\SRC_GEN\makefile.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+struct
+union
+enum
+signed char
+unsigned char
+short
+unsigned short
+unsigned int
+long	
+SLONG
+unsigned long	
+ULONG	
+SWORD	
+UWORD	
+SBYTE	
+UBYTE
+PSBYTE
+PUBYTE
+PSWORD
+PUWORD
+PSLONG
+PULONG
+BOOL
+wchar_t
+	size_t
+wchar_t
+0void
+$onexit_t
+'__va_list
+fpos_t
+fpos_t
+time_t	
+	ino_t	
+dev_t	
+off_t	
+SLONG	
+UBYTE
+1va_list
+C:\LIBRARY6.95\SRC_DOS\get_cdir.c
+C:\LIBRARY6.95\INC\bullfrog.h
+C:\LIBRARY6.95\INC\w95_def.h
+C:\LIBRARY6.95\INC\define.h
+C:\WATCOM10\H\string.h
+C:\WATCOM10\H\stdlib.h
+C:\WATCOM10\H\stdio.h
+C:\WATCOM10\H\io.h
+C:\WATCOM10\H\sys\stat.h
+C:\WATCOM10\H\sys\types.h
+C:\LIBRARY6.95\INC\libstruc.h
+C:\LIBRARY6.95\INC\network.h
+C:\WATCOM10\H\share.h
+C:\WATCOM10\H\dos.h
+C:\WATCOM10\H\i86.h
+C:\WATCOM10\H\stdarg.h
+C:\WATCOM10\H\direct.h
+C:\WATCOM10\H\conio.h
+C:\WATCOM10\H\fcntl.h
+C:\WATCOM10\H\malloc.h
+C:\WATCOM10\H\ctype.h
+C:\LIBRARY6.95\INC\keycodes.h
+C:\LIBRARY6.95\INC\w95struc.h
+C:\LIBRARY6.95\INC\protogen.h
+C:\LIBRARY6.95\INC\protosys.h
+ 	V'
+!	Y'
+#	\'
+$	_'
+%	b'
+&	e'
+'	g'
+(	i'
+)	l'
+,	n'
+-	p'
+.	v'
+/	x'
+0	{'
+G	#(
+H	?(
+I	[(
+J	w(
+Q	;)
+R	W)
+S	s)
+C:\CRE8DEMO\antidote.c
+C:\CRE8DEMO\base.c
+C:\CRE8DEMO\bubble.c
+C:\CRE8DEMO\camera.c
+C:\CRE8DEMO\cave.c
+C:\CRE8DEMO\cetacea.c
+C:\CRE8DEMO\chaff.c
+C:\CRE8DEMO\collide.c
+C:\CRE8DEMO\control.c
+C:\CRE8DEMO\data.c
+C:\CRE8DEMO\debug.c
+C:\CRE8DEMO\demo.c
+C:\CRE8DEMO\dolphin.c
+C:\CRE8DEMO\draw.c
+C:\CRE8DEMO\drone.c
+C:\CRE8DEMO\editor\edit.cpp
+C:\CRE8DEMO\editor.c
+C:\CRE8DEMO\engine.c
+C:\CRE8DEMO\explode.c
+C:\CRE8DEMO\feature.c
+C:\CRE8DEMO\fish.c
+C:\CRE8DEMO\flare.c
+C:\CRE8DEMO\forlib.c
+C:\CRE8DEMO\fungus.c
+C:\CRE8DEMO\game.c
+C:\CRE8DEMO\instr.c
+C:\CRE8DEMO\io.c
+C:\CRE8DEMO\kwhale.c
+C:\CRE8DEMO\laser.c
+C:\CRE8DEMO\level.c
+C:\CRE8DEMO\light.c
+C:\CRE8DEMO\main.c
+C:\CRE8DEMO\map.c
+C:\CRE8DEMO\mine.c
+C:\CRE8DEMO\move.c
+C:\CRE8DEMO\objects.c
+C:\CRE8DEMO\packets.c
+C:\CRE8DEMO\pdp.c
+C:\CRE8DEMO\pchost.c
+C:\CRE8DEMO\plant.c
+C:\CRE8DEMO\player.c
+C:\CRE8DEMO\pjectile.c
+C:\CRE8DEMO\retrogen.c
+C:\CRE8DEMO\scanmap.c
+C:\CRE8DEMO\scanner.c
+C:\CRE8DEMO\setup.c
+C:\CRE8DEMO\setup3d.c
+C:\CRE8DEMO\shark.c
+C:\CRE8DEMO\sprat.c
+C:\CRE8DEMO\ssprite.c
+C:\CRE8DEMO\state.c
+C:\CRE8DEMO\support.c
+C:\CRE8DEMO\tables.c
+C:\CRE8DEMO\thing.c
+C:\CRE8DEMO\version.c
+	maths.asm
+poly.asm
+rom.asm
+trig.asm
+!C:\LIBRARY6.95\SRC_DOS\keyboard.c
+ C:\LIBRARY6.95\SRC_GEN\display.c
+ C:\LIBRARY6.95\SRC_DOS\network.c
+C:\LIBRARY6.95\SRC_DOS\myseek.c
+C:\LIBRARY6.95\SRC_DOS\myread.c
+ C:\LIBRARY6.95\SRC_DOS\mywrite.c
+!C:\LIBRARY6.95\SRC_DOS\swap_scr.c
+int386
+sprintf
+!C:\LIBRARY6.95\SRC_GEN\load_all.c
+!C:\LIBRARY6.95\SRC_GEN\setallsp.c
+C:\LIBRARY6.95\SRC_GEN\fade.c
+set386
+!C:\LIBRARY6.95\SRC_DOS\setup_sc.c
+C:\LIBRARY6.95\SRC_DOS\mouse.c
+ C:\LIBRARY6.95\SRC_DOS\myalloc.c
+!C:\LIBRARY6.95\SRC_GEN\loadf_at.c
+!C:\LIBRARY6.95\SRC_DOS\setupmem.c
+ C:\LIBRARY6.95\SRC_GEN\spr_std.c
+delay386
+!C:\LIBRARY6.95\SRC_GEN\free_all.c
+C:\LIBRARY6.95\SRC_DOS\myfree.c
+C:\MDREG\load_sou.c
+C:\MDREG\start_mu.c
+C:\MDREG\play_sam.c
+C:\MDREG\is_samp.c
+wait_vbi.asm
+C:\MDREG\init_mus.c
+C:\MDREG\stop_mus.c
+C:\MDREG\stop_all.c
+ C:\LIBRARY6.95\SRC_GEN\spr_col.c
+C:\MDREG\free_sou.c
+C:\MDREG\free_mus.c
+stricmp
+C:\MDREG\aildebug.c
+ C:\LIBRARY6.95\SRC_DOS\set_pal.c
+C:\LIBRARY6.95\SRC_DOS\vesa.c
+C:\LIBRARY6.95\SRC_GEN\box.c
+sqroot.asm
+C:\LIBRARY6.95\SRC_GEN\line.c
+anitools.asm
+exit
+clockxib
+!C:\LIBRARY6.95\SRC_DOS\sw_sc_cl.c
+C:\LIBRARY6.95\SRC_DOS\myopen.c
+ C:\LIBRARY6.95\SRC_DOS\myclose.c
+!C:\LIBRARY6.95\SRC_DOS\resetmem.c
+printf
+cstrt386
+argcv386
+!C:\LIBRARY6.95\SRC_GEN\errorlog.c
+atoi
+pixclip.asm
+box_clip.asm
+!C:\LIBRARY6.95\SRC_GEN\savef_at.c
+C:\MDREG\sou_dir.c
+C:\MDREG\init_aud.c
+!C:\LIBRARY6.95\SRC_DOS\ikeyboar.c
+C:\MDREG\free_aud.c
+!C:\LIBRARY6.95\SRC_DOS\reset_sc.c
+!C:\LIBRARY6.95\SRC_GEN\load_dat.c
+rnc_1fm.asm
+fopen
+fputc
+fclose
+dos_keyb.asm
+d_getvec
+segread
+intx386
+system
+!C:\LIBRARY6.95\SRC_DOS\mylowall.c
+lseek
+read
+write
+prtf
+!C:\LIBRARY6.95\SRC_GEN\free_dat.c
+gets
+!C:\LIBRARY6.95\SRC_GEN\setupspr.c
+get_pal.asm
+__stos
+!C:\LIBRARY6.95\SRC_DOS\rnc_file.c
+nmalloc
+nexpand
+qsort
+delay
+C:\MDREG\init_sou.c
+tell
+C:\MDREG\dllload.c
+cmp386
+getenv
+sscanf
+C:\MDREG\awe32.c
+C:\MDREG\load_mus.c
+C:\MDREG\mast_vol.c
+C:\MDREG\fade_sam.c
+C:\MDREG\listsamp.c
+aila.asm
+fprintf
+C:\MDREG\ail.c
+isatt
+setbuf
+time
+localtim
+asctime
+C:\MDREG\ailss.c
+C:\MDREG\ailsfile.c
+C:\MDREG\ailxmidi.c
+C:\MDREG\ailxdig.c
+strncmp
+hvline.asm
+clock
+creat
+setmd
+close
+open
+nfree
+fprtf
+cmain386
+inirt386
+seg386
+crwd386
+initargv
+!C:\LIBRARY6.95\SRC_GEN\makefile.c
+vsprintf
+istable
+drive386
+chdir
+gtcwd
+chint386
+d_setvec
+tolower
+seterrno
+allocfp
+fseek
+chktty
+stinit
+ioalloc
+flush
+gtpid
+ftell
+_clse
+remove
+intxa386
+spve
+splp
+dosret
+iomode
+stack386
+stk386
+itoa
+noefgfmt
+ltoa
+toupper
+fgetc
+filelen
+memalloc
+grownear
+nmemneed
+heapmod
+environ
+strnicmp
+scnf
+io386
+fgets
+memmove
+strncpy
+setvbuf
+gtctm
+mktime
+tzset
+gmtime
+timeutil
+ailssa.asm
+intd386
+umaskval
+cinit
+___argc
+!C:\LIBRARY6.95\SRC_DOS\get_cdir.c
+errno
+initfile
+ioexit
+qwrit
+unlnk
+find386
+cenvarg
+spawn386
+strlen
+split2
+save8087
+makepath
+spvp
+xmsg
+flushall
+gtche
+qread
+minreal
+heapen
+sbrk386
+amblksiz
+setenvp
+fdfs386
+error386
+strcpy
+spvpe
+enterdb
+strchr
+memcpy
+#W?fn_antidote_primes$n(pn$Thing$$)v
+!W?fn_antidote_dead$n(pn$Thing$$)v
+"W?fn_antidote_dying$n(pn$Thing$$)v
+ W?fn_antidote_hit$n(pn$Thing$$)v
+#W?fn_antidote_normal$n(pn$Thing$$)v
+-W?antidote_init$n(pn$Thing$$pn$PlayerCtrl$$)v 
+W?alloc_base$n()pn$Common$$`
+W?create_base$n(usll)v
+W?fn_base_init$n(pn$Thing$$)v
+W?fn_base_dying$n(pn$Thing$$)v
+W?fn_base_hit$n(pn$Thing$$)v
+W?fn_base_normal$n(pn$Thing$$)v
+W?fn_base_dead$n(pn$Thing$$)v@
+W?fn_bubble_init$n(pn$Thing$$)v 
+!W?fn_bubble_normal$n(pn$Thing$$)v
+W?alloc_camera$n()pn$Common$$P
+)W?create_player_cam$n(pn$PlayerCtrl$$us)v
+W?create_thing_cam$n(us)v
+W?process_camera$n(pn$Thing$$)v
+ W?camera_to_point$n(pn$Thing$$)v
+W?cam_speed$nl
+!W?is_thing_in_cave$n(pn$Thing$$)v 	
+W?alloc_cetacea$n()pn$Common$$p	
+W?create_cetacea$n(uslll)v
+ W?fn_cetacea_dead$n(pn$Thing$$)v
+ W?fn_chaff_primes$n(pn$Thing$$)v
+W?fn_chaff_dead$n(pn$Thing$$)v
+W?fn_chaff_dying$n(pn$Thing$$)v
+W?fn_chaff_hit$n(pn$Thing$$)v
+ W?fn_chaff_normal$n(pn$Thing$$)v
+*W?chaff_init$n(pn$Thing$$pn$PlayerCtrl$$)v
+$W?set_collide_size$n(pn$Thing$$sss)v
+%W?collide_things$n(pn$Thing$$pn$1$)us
+W?collide_tunnel_roof$n(ll)l
+W?collide_tunnel_floor$n(ll)l
+W?control_game$n()v
+W?control_all_modes$n()vP
+W?packet_manage$n(aus)v0
+W?get_control_balance$n()v
+W?balance$n$Balance$$
+W?creation$npn$Creation$$
+W?tape$npn$Tape$$
+W?columns$n[]$Column$$
+W?cubes$n[]$Cube$$
+W?cell2points$n[]ul
+W?randomisors$n[]l
+W?tmaps$n[]pnucd
+W?block_ptrs$n[]pnuc
+W?block_mem$npnuc
+W?cavemap_mem$npnuc
+W?guys_texture_page$npnuc
+W?heapmem$n[]uc
+W?poly_pool$npnuc
+W?poly_pool_end$npnuc
+W?current_fade$npnuc
+W?pointer_sprites$npn$Sprite$$
+"W?end_pointer_sprites$npn$Sprite$$
+W?bio_sprites$npn$Sprite$$
+W?end_bio_sprites$npn$Sprite$$
+W?panel_sprites$npn$Sprite$$
+ W?end_panel_sprites$npn$Sprite$$
+W?button_sprites$npn$Sprite$$
+!W?end_button_sprites$npn$Sprite$$
+W?tactical_buttons$npn$Button$$
+W?systems_buttons$npn$Button$$
+W?console_buttons$npn$Button$$
+W?palette$npnuc
+W?to_palette$n[]uc
+W?ppalette1$npnuc
+W?ppalette2$npnuc
+W?ppalette3$npnuc
+W?mfade$npnuc
+W?mpalette$npnuc 
+W?game_text$npnuc$
+W?copy_mask$npnuc(
+W?strings$n[]pnucP
+W?wscreen$npnucT
+W?skymap$npnucX
+W?ed_font$npn$Sprite$$\
+W?end_ed_font$npn$Sprite$$`
+W?ed_font_data$nuld
+W?pointer_data$nulh
+W?bio_data$null
+W?button_data$nulp
+W?panel_data$nult
+W?persecond$nulx
+W?turn$nul|
+W?global_temp$nul
+W?players$n[]$Player$$ 
+W?packets$n[]$Packet$$p
+W?seed$nusr
+W?screen_width$nust
+W?screen_height$nusv
+W?back_fade_r$nucw
+W?back_fade_g$nucx
+W?back_fade_b$nucy
+W?debug$nucz
+W?player_no$nuc{
+W?quit_game$nuc|
+W?network_game$nuc}
+W?tabgen$nuc~
+W?OldLeftButton$nuc
+W?OldRightButton$nuc
+#W?default_mapelement$n$MapElement$$
+W?solids$n[]uc
+W?no_players$nuc
+W?first_time$nuc
+W?session_name$n[]uc
+W?colour_lookup$n[]uc0
+W?show_debug_info$n()v
+W?key_data$nul
+W?sub_data$nul
+W?text_data$nul
+W?squid_data$nul
+W?key_sprites$npn$Sprite$$
+W?end_key_sprites$npn$Sprite$$
+W?sub_sprites$npn$Sprite$$
+W?end_sub_sprites$npn$Sprite$$
+W?demo_files$n[]$LoadFiles$$8'
+ W?demo_sprites$n[]$SetupSprite$$h'
+W?squid_files$n[]$LoadFiles$$
+W?squid_setup$n[]$SetupSprite$$
+W?str1$n$GlowString$$
+W?str2$n$GlowString$$
+W?text_sprites$npn$Sprite$$
+W?end_text_sprites$npn$Sprite$$
+W?squid_sprites$npn$Sprite$$
+ W?end_squid_sprites$npn$Sprite$$
+W?background$npnuc
+W?anim$n$Anim$$
+W?demo_palette$n[]uc$,
+W?str3$n$GlowString$$4.
+W?str4$n$GlowString$$D0
+W?str5$n$GlowString$$T2
+W?str6$n$GlowString$$d4
+W?str7$n$GlowString$$t6
+W?str8$n$GlowString$$
+W?sample_list$n[]$PlayInf$$@
+W?setup_demo$n()v`
+W?help_screen$n()uc
+W?key_pressed$n()v
+W?anim_sub$n()v
+W?kid_screen$n()ucP5
+!W?demo_string$n(pn$GlowString$$)v
+W?letter_home$n()v
+W?choreagraph$n()v
+W?do_squid$n()v
+W?events$n[]$ChEvent$$
+W?anim1$n[]us
+W?do_bang$nl
+W?anim1_base_x$nl
+W?anim1_base_y$nl
+W?letter_done$nus
+W?current_bank$nus
+W?current_sample$nus
+W?current_inf$nus
+W?current_delay$nus
+W?current_event$ns
+W?anim1_frame$nus
+W?squid_time$nuc0?
+ W?fn_dolphin_init$n(pn$Thing$$)v
+"W?fn_dolphin_normal$n(pn$Thing$$)v
+W?fn_dolphin_hit$n(pn$Thing$$)v
+!W?fn_dolphin_dying$n(pn$Thing$$)v
+ W?fn_dolphin_dead$n(pn$Thing$$)v@E
+W?draw_game$n()vPK
+W?copy_box$n(pnucpnucssuc)vpL
+W?process_palette$n()v
+W?set_screen_res$n()v
+W?swap_box$n(usususus)v`S
+#W?swap_screens_box$n(pnucllllulul)v
+W?swap_with_mask$n()v
+%W?setup_fade_palette$n(pnucpnucpnuc)v
+(W?update_fade_palette$n(uspnucpnucpnuc)v
+W?draw_fade_table$n()v0X
+W?draw_palette$n()v
+$W?palette_layout$n[]$PaletteLayout$$
+W?alloc_drone$n()pn$Common$$
+W?create_left_drone$n(us)v@Z
+W?create_right_drone$n(us)v [
+W?fn_drone_init$n(pn$Thing$$)v0[
+W?fn_drone_dead$n(pn$Thing$$)v 
+ W?dolphin_init$n[]$DolphinInit$$
+W?kwhale_init$n[]$KWhaleInit$$
+W?polycount$nl
+W?map_angle$nl
+W?map_roll$nl
+W?map_tilt$nl
+W?stereo$nuc 
+'W?object_origin$n$__5hnuejEngineCoord$$<
+W?minmaxs$n[]$__3l95t9MinMax$$T
+W?ecs1$n[]$__57be5sEngineCol$$
+W?ecs2$n[]$__57be5sEngineCol$$|
+!W?back_ec$npn$__57be5sEngineCol$$
+"W?front_ec$npn$__57be5sEngineCol$$
+W?buckets$n[]pn$BasicQ$$
+W?getpoly$npnuc 
+W?camera_matrix$n$M33$$D
+W?view_width_over_2$nlH
+W?view_height_over_2$nlL
+W?fade_max$nlP
+W?fade_scaler$nlT
+W?fade_min$nlX
+W?fade_way_out$nl\
+W?fade_range$nl`
+W?split_1$nld
+W?split_2$nlh
+	W?apos$nll
+	W?bpos$nlp
+W?left_limit$nlt
+W?right_limit$nlx
+W?view_alt$nl 9
+W?max_dist$nl$9
+W?split1at$nl(9
+W?split2at$nl,9
+W?cells_away$nl09
+	W?lens$nl49
+W?overall_scale$nl89
+W?lens_mode$nuc<9
+W?orioris$n[]uc|9
+W?orioriunders$n[]uc
+W?splittypes$n[]uc
+W?flatsplittypes$n[]uc<:
+W?sideoris$n[]$SideOri$$|
+ W?me_pointed_at$npn$MapElement$$
+W?me_distance$nl
+W?me_height$nl
+W?pointer_x$nl
+W?pointer_y$nl
+W?edge$n$Edge$$
+W?theedge$n$Edge$$
+W?pointed_at_x$nl
+W?pointed_at_y$nl
+0W?rotpers$npn(pn$__5hnuejEngineCoord$$pn$M33$$)v
+*W?perspective$npn(pn$XYZ$$pn$PolyPoint$$)v
+BW?do_a_trig$npn(pn$__5hnuejEngineCoord$$pn$1$pn$1$pn$Reorient$$s)v`[
+%W?fill_in_back_points$n($MapPosXY$$)i
+0W?fill_in_a_top$n(pn$__57be5sEngineCol$$pn$1$l)vP]
+,W?fill_in_a_back$n(pn$__57be5sEngineCol$$l)v
+-W?fill_in_a_front$n(pn$__57be5sEngineCol$$l)i
+1W?fill_in_a_left$n(pn$__57be5sEngineCol$$pn$1$l)vPb
+2W?fill_in_a_right$n(pn$__57be5sEngineCol$$pn$1$l)v@d
+7W?rotpers_parallel$n(pn$__5hnuejEngineCoord$$pn$M33$$)v
+7W?rotpers_standard$n(pn$__5hnuejEngineCoord$$pn$M33$$)v
+7W?rotpers_circular$n(pn$__5hnuejEngineCoord$$pn$M33$$)vph
+6W?rotpers_fisheye$n(pn$__5hnuejEngineCoord$$pn$M33$$)v
+1W?perspective_standard$n(pn$XYZ$$pn$PolyPoint$$)v
+0W?perspective_fisheye$n(pn$XYZ$$pn$PolyPoint$$)v
+9W?rotpers3$n(pn$__5hnuejEngineCoord$$pn$1$pn$1$pn$M33$$)l
+GW?do_a_trig_gourad$n(pn$__5hnuejEngineCoord$$pn$1$pn$1$pn$Reorient$$s)v
+CW?do_a_trig_ng$n(pn$__5hnuejEngineCoord$$pn$1$pn$1$pn$Reorient$$s)v
+;W?do_a_top$n(pn$__57be5sEngineCol$$pn$1$pn$Reorient$$lsuc)l
+>W?do_a_bottom$n(pn$__57be5sEngineCol$$pn$1$pn$Reorient$$lsuc)v
+7W?do_a_back$n(pn$__57be5sEngineCol$$pn$Reorient$$lsuc)l
+<W?do_a_left$n(pn$__57be5sEngineCol$$pn$1$pn$Reorient$$lsuc)l
+=W?do_a_right$n(pn$__57be5sEngineCol$$pn$1$pn$Reorient$$lsuc)l
+8W?do_a_front$n(pn$__57be5sEngineCol$$pn$Reorient$$lsuc)l 
+.W?do_a_plane_of_engine_columns$n($MapPosXY$$)v
+W?find_gamut$n()v
+W?clear_draw_list$n()v@
+W?display_drawlist$n()v
+W?draw_view$n(pn$Camera$$uc)v
+W?show_gamut$n()vP
+&W?world_xyz_to_screen_xy$n(pnlpnlsss)l
+ W?make_solidmask$n(pn$Column$$)v 
+W?scale_tmap$n(lllllll)vp
+W?collide_map$n(ll)l
+W?engine$n(pn$Camera$$)v
+W?simple_sky$n()vd:
+W?reorients$n[]$Reorient$$d<
+W?reorientunders$n[]$Reorient$$d>
+W?rotpers_routines$n[]pnvt>
+W?perspective_routines$n[]pnv
+W?mx$ns
+W?my$ns
+W?mz$nsP
+"W?fn_explosion_init$n(pn$Thing$$)v0
+$W?fn_explosion_normal$n(pn$Thing$$)v`
+W?alloc_feature$n()pn$Common$$P
+$W?create_feature$n(uslllpn$Thing$$)v
+ W?fn_feature_init$n(pn$Thing$$)v
+ W?fn_feature_dead$n(pn$Thing$$)v
+W?alloc_fish$n()pn$Common$$@
+W?create_fish$n(uslll)v
+W?fn_fish_dead$n(pn$Thing$$)v
+*W?flare_init$n(pn$Thing$$pn$PlayerCtrl$$)v
+ W?fn_flare_normal$n(pn$Thing$$)v
+W?fn_flare_hit$n(pn$Thing$$)v
+W?fn_flare_dying$n(pn$Thing$$)v
+ W?fn_flare_primes$n(pn$Thing$$)v
+,W?matrix_transform$n(pn$M31$$pn$M33$$pn$1$)vp
++W?matrix_transform33$n(pn$M33$$pn$1$pn$1$)v
+)W?object_vec_normalisation$n(pn$M33$$uc)vP
+'W?vec_cross_prod$n(pn$M31$$pn$1$pn$1$)v
+$W?rotate_object_axis$n(pn$M33$$sss)v
+W?rotate_obj$n(ssspn$M33$$)v
+W?rotate_on_x$n(spn$M33$$)v
+W?rotate_on_y$n(spn$M33$$)v
+W?rotate_on_z$n(spn$M33$$)v
+'W?base_vec_normalisation$n(pn$M33$$uc)v
+"W?rotate_base_axis$n(pn$M33$$suc)v
+/W?DynAnimBankInit$n(us)pn$AnimPageDynamicBank$$
+XW?DynAnimBankAddPage$n(pn$AnimPageDynamicBank$$pnpn$ScaleSprite$$us)pn$AnimPageDynamic$$
+1W?DynAnimBankAnimatePage$n(pn$AnimPageDynamic$$)v 
+1W?DynAnimBankAnimate$n(pn$AnimPageDynamicBank$$)vP
+0W?DynAnimBankDeletePage$n(pn$AnimPageDynamic$$)vp
+7W?DynAnimBankDeleteAllPage$n(pn$AnimPageDynamicBank$$)v
+;W?DynAnimBankDeactivateAllPage$n(pn$AnimPageDynamicBank$$)v
+4W?DynAnimBankDeactivatePage$n(pn$AnimPageDynamic$$)v
+7W?DynAnimBankTogleActivatePage$n(pn$AnimPageDynamic$$)v
+EW?DynAnimBankID2Ptr$n(pn$AnimPageDynamicBank$$us)pn$AnimPageDynamic$$P
+2W?DynAnimBankActivatePage$n(pn$AnimPageDynamic$$)v`
+0W?DynAnimBankDone$n(pnpn$AnimPageDynamicBank$$)v
+W?HeapInit$n(uluspnuc)pn$Heap$$
+"W?HeapNextFreeHandle$n(pn$Heap$$)s
+W?HeapDataPtr$n(pn$Heap$$s)pnuc
+"W?HeapHandleExists$n(pn$Heap$$s)ulP
+-W?HeapAdd$n(pn$Heap$$pnuculus)pn$HeapHandle$$@
+W?HeapFreeSpace$n(pn$Heap$$)ulP
+,W?HeapCreate$n(pn$Heap$$ulus)pn$HeapHandle$$
+)W?HeapDelete$n(pn$Heap$$pn$HeapHandle$$)v
+W?HeapDeleteAll$n(pn$Heap$$)vP
+-W?HeapID2Handle$n(pn$Heap$$us)pn$HeapHandle$$
+W?HeapDone$n(pnpn$Heap$$)v
+JoystickReInit_
+JoystickInit_
+JoystickRead_
+FindColor_
+W?can_i_use_vesa_mode$n(us)l
+	_sintable
+W?proportions$n[]$Proportion$$`
+W?alloc_fungus$n()pn$Common$$
+W?create_fungus$n(uslll)v 
+W?fn_fungus_init$n(pn$Thing$$)v
+!W?fn_fungus_normal$n(pn$Thing$$)v0
+W?fn_fungus_hit$n(pn$Thing$$)vP
+ W?fn_fungus_dying$n(pn$Thing$$)vp
+W?fn_fungus_dead$n(pn$Thing$$)v
+W?game$n()v
+W?fung_seed$nus
+W?fseed$nus
+W?speed$na
+W?draw_amp_reader$n(ssusuc)vP
+W?draw_climb_reader$n(ssussuc)v0
+W?draw_speedo$n(sssuc)v
+W?draw_heading$n(ssusuc)vp
+W?change_heading$n(ss)v
+ W?process_action$n(pn$Player$$)v
+%W?set_control_mode$n(pn$Control$$uc)v
+W?save_game$n()v
+W?load_game$n()v 
+W?fn_kwhale_init$n(pn$Thing$$)v@
+!W?fn_kwhale_normal$n(pn$Thing$$)v
+W?fn_kwhale_hit$n(pn$Thing$$)v
+ W?fn_kwhale_dying$n(pn$Thing$$)v
+W?fn_kwhale_baby$n(pn$Thing$$)v
+*W?laser_init$n(pn$Thing$$pn$PlayerCtrl$$)v
+ W?fn_laser_normal$n(pn$Thing$$)v
+W?fn_laser_hit$n(pn$Thing$$)v
+W?fn_laser_dying$n(pn$Thing$$)v0
+W?fn_laser_dead$n(pn$Thing$$)vp
+W?setup_level$n(us)v
+"W?init_light_source$n(pn$Light$$)v
+$W?remove_light_source$n(pn$Thing$$)vp
+!W?add_light_source$n(pn$Thing$$)v
+"W?init_sub_light$n(pn$SubLight$$)v
+!W?remove_sub_light$n(pn$Thing$$)v
+W?add_sub_light$n(pn$Thing$$)v`"
+!W?get_thing_shade$n(pn$Thing$$)us
+W?glob_intense$nus
+W?glob_size$nusp"
+main_
+W?initialise_map$n()vP#
+&W?eightway_average_altitude$n(ucucus)v0%
++W?fourway_mountain_altitude_diag$n(ucucus)v
+&W?fourway_mountain_altitude$n(ucucus)v
+!W?calc_horiz_half_cord$n(ususs)usP+
+W?fractal_map$n()v`+
+2W?get_corners$n(ssssususpnspnspnspnspnspnspnspns)v`,
+)W?correct_trench_join$n($Trench$$$1$$1$)vp,
+W?build_trench$n($Trench$$$1$)v
+!W?point_in_triangle$n(ssssssss)ucP-
+#W?approx_point_distance$n(ssssss)us
+W?highest_value$n(ssss)s
+W?lowest_value$n(ssss)s
+)W?build_ellipse_mountain$n(ucucusucucus)vp5
+#W?build_ellipse_hill$n(ucucusucuc)v
+W?create_abyssal$n(us)v
+W?old_initialise_map$n()v@:
+/W?interpolate_altitude$n(ulululululululululul)vp;
+ W?old_fractal_map$n(pn$Level$$)v@=
+W?create_world$n()v
+W?init_blocks$n()v
+$W?generate_world$n(pn$MapFeature$$)vp?
+W?create_cave$n()v
+W?setup_map$n()v
+W?level_land$n(lllll)v
+W?get_block$n(pn$MapElement$$)s
+#W?smooth_blocks$n(pn$MapElement$$)v
+W?randmod$ns
+W?randsub$ns
+W?randseed$nus0B
+)W?mine_init$n(pn$Thing$$pn$PlayerCtrl$$)v
+W?fn_mine_normal$n(pn$Thing$$)v
+W?fn_mine_hit$n(pn$Thing$$)v
+W?fn_mine_dying$n(pn$Thing$$)v
+W?fn_mine_dead$n(pn$Thing$$)v
+W?fn_mine_primes$n(pn$Thing$$)v
+!W?set_velocity$n(pn$Thing$$llll)v
+2W?set_velocity_from_matrix$n(pn$Thing$$pn$M33$$l)v
+(W?set_angular_velocity$n(pn$Thing$$lll)v@G
+)W?get_object_matrix$n(pn$Thing$$)pn$M33$$pG
+/W?set_velocity_from_orientation$n(pn$Thing$$l)v
+W?add_momentum$n(pn$Thing$$)v H
+"W?get_distance$n(pn$Coord$$pn$1$)l
++W?get_distance_squared$n(pn$Coord$$pn$1$)ul I
+&W?get_distance_xy$n(pn$Coord$$pn$1$)ul
+.W?get_distance_xy_squared$n(pn$Coord$$pn$1$)ul
+#W?get_angle_xy$n(pn$Coord$$pn$1$)us
+#W?get_angle_zy$n(pn$Coord$$pn$1$)us
+$W?nearest_thing$n(pn$Thing$$uc)pn$1$
++W?nearest_thing_type$n(pn$Thing$$ucuc)pn$1$`K
+5W?move_player$n(pn$Thing$$pn$PlayerCtrl$$pn$Coord$$)v
+%W?move_thing$n(pn$Thing$$pn$Coord$$)v
+"W?rotate_thing_xy$n(pn$Thing$$us)v
+!W?init_object_matrix$n(pn$M33$$)v
+#W?point_below_floor$n(pn$Coord$$)uc
+)W?plant1_anims$n[]$AnimProjectAnimation$$
+/W?plant1_apps$n[]$AnimProjectObjectAppearance$$
+)W?plant2_anims$n[]$AnimProjectAnimation$$
+/W?plant2_apps$n[]$AnimProjectObjectAppearance$$
+)W?plant3_anims$n[]$AnimProjectAnimation$$
+/W?plant3_apps$n[]$AnimProjectObjectAppearance$$ w
+)W?killer_anims$n[]$AnimProjectAnimation$$<w
+/W?killer_apps$n[]$AnimProjectObjectAppearance$$Pw
+*W?killerb_anims$n[]$AnimProjectAnimation$$lw
+0W?killerb_apps$n[]$AnimProjectObjectAppearance$$
+*W?dolphin_anims$n[]$AnimProjectAnimation$$
+0W?dolphin_apps$n[]$AnimProjectObjectAppearance$$
+&W?sub_anims$n[]$AnimProjectAnimation$$
+,W?sub_apps$n[]$AnimProjectObjectAppearance$$
+(W?fish1_anims$n[]$AnimProjectAnimation$$
+.W?fish1_apps$n[]$AnimProjectObjectAppearance$$
+(W?fish2_anims$n[]$AnimProjectAnimation$$,x
+.W?fish2_apps$n[]$AnimProjectObjectAppearance$$@x
+(W?fish3_anims$n[]$AnimProjectAnimation$$\x
+.W?fish3_apps$n[]$AnimProjectObjectAppearance$$
+W?object_pool$n[]uc
+W?pool_idx$nl
+W?pool_mark$nl
+W?pool_temp_size$nl
+,W?projected_points$n[]$__5hnuejEngineCoord$$H9$
+W?object_vec_list$n[]pn$M33$$
+/W?object_stub_list$n[]pn$__1a4l00Object3DStub$$
+W?object_vec_data$n[]$M33$$8
+-W?object_stub_data$n[]$__1a4l00Object3DStub$$x
+W?objvec_count$nusz
+W?objstub_count$nus|
+W?tmap_count$nus
+W?tmap_list$n[]pnuc
+W?ofade_min$nl M
+W?setup_object_stubs$n()l`M
+W?get_stub$n()l
+W?delete_stub$n(s)l
+W?init_vecobj$n(pn$M33$$)v
+W?get_objvec$n()l`N
+W?delete_objvec$n(us)l
+=W?animate_object_set_next_frame$n(pn$__1a4l00Object3DStub$$)v0O
+.W?animate_object$n(pn$__1a4l00Object3DStub$$)vpO
+ W?trans_matrix$n(pn$M33$$pn$1$)v@Q
+3W?rotate_point$n(pn$__5hnuejEngineCoord$$pn$M33$$)v
+-W?draw_object$n(pn$__4crm9gObjectDrawInfo$$)v`X
+ W?assign_3d_object$n(usususpns)v
+8W?animate_object_play_once$n(pn$__1a4l00Object3DStub$$)v
+3W?animate_object_loop$n(pn$__1a4l00Object3DStub$$)v
+#W?load_project$n(pn$AnimProject$$)v
+W?register_an_object$n(us)l b
+ W?deallocate_object_handle$n(s)l`b
+$W?load_projects$n(pn$AnimProject$$)v
+$W?object3d_do$n(pn$Thing$$pn$M33$$)v
+/W?object3d_set_orientation$n(pn$Thing$$ususus)v
+!W?object3d_release$n(pn$Thing$$)v@d
+"W?object3d_register$n(pn$Thing$$)v`d
+&W?object3d_assign$n(pn$Thing$$ususus)v
+)W?object3d_play_once$n(pn$Thing$$ususus)v
+$W?object3d_loop$n(pn$Thing$$ususus)v0e
+W?object3d_done$n(pn$Thing$$)ulPe
+4W?animate_object_done$n(pn$__1a4l00Object3DStub$$)ulpe
+W?object3d_init_system$n()lpx
+)W?fungus_anims$n[]$AnimProjectAnimation$$
+/W?fungus_apps$n[]$AnimProjectObjectAppearance$$
+ W?anim_control$n[]$AnimProject$$
+W?ofade_max$nl
+W?ofade_mmm$nl
+W?process_packets$n()v@f
+W?fn_pdp_primes$n(pn$Thing$$)v@f
+W?fn_pdp_dead$n(pn$Thing$$)v@f
+W?fn_pdp_dying$n(pn$Thing$$)v@f
+W?fn_pdp_hit$n(pn$Thing$$)v@f
+W?fn_pdp_normal$n(pn$Thing$$)v@f
+(W?pdp_init$n(pn$Thing$$pn$PlayerCtrl$$)vPf
+'W?command_line_interpreter$n(uspnpnuc)s
+W?set_mouse$n(ss)v0l
+W?fn_plant_init$n(pn$Thing$$)v
+ W?fn_plant_normal$n(pn$Thing$$)v
+W?setup_players$n()v
+W?fn_init_player$n(pn$Thing$$)v
+"W?fn_process_player$n(pn$Thing$$)v
+W?fn_player_hit$n(pn$Thing$$)v
+ W?fn_player_dying$n(pn$Thing$$)v
+W?fn_player_dead$n(pn$Thing$$)v
+#W?fn_process_cplayer$n(pn$Thing$$)v
+#W?fn_process_dplayer$n(pn$Thing$$)v
+!W?alloc_projectile$n()pn$Common$$
+W?create_left_projectile$n(us)v
+ W?create_right_projectile$n(us)v
+ W?create_drone_projectile$n(us)v
+"W?create_cetacea_projectile$n(us)v
+#W?fn_projectile_init$n(pn$Thing$$)v
+&W?fn_process_projectile$n(pn$Thing$$)v
+"W?fn_projectile_hit$n(pn$Thing$$)v
+#W?fn_projectile_dead$n(pn$Thing$$)v
+!W?fn_retrogen_init$n(pn$Thing$$)v
+#W?fn_retrogen_normal$n(pn$Thing$$)v
+ W?fn_retrogen_hit$n(pn$Thing$$)v
+"W?fn_retrogen_dying$n(pn$Thing$$)v0
+#W?fn_retrogen_primes$n(pn$Thing$$)v
+)W?in_move$:.0$:?scanmap_scroll$n(ss)ucnuc
+W?scanmap$n(ssususus)v 
+W?setup_map_scantable$n()vp
+W?scanmap_relief$n(ssususus)v
+ W?scanmap_amplitude$n(ssususus)v
+W?scanmap_dots$n(ssususus)v
+W?toggle_scanmap_type$n()v
+W?set_player_scanmap_pos$n()v
+W?set_target_scanmap_pos$n()v
+W?scanmap_scroll$n(ss)uc
+W?check_on_map$n(ssss)ucDz
+CW?$Wsi0hjitter_const$n[]s$:.0$:?scanmap_amplitude$n(ssususus)vnx[]s
+W?scantable$n[]us
+W?mx$ns
+W?my$ns
+W?mz$nsP
+W?scanner$n(lll)v
+W?rotate$n(pn$Thing$$ll)v
+W?draw_scan_point$n(llll)v
++W?world_xyz_to_screen_xy_scan$n(pnlpnlsss)l
+3W?rotpers_scan$n(pn$__5hnuejEngineCoord$$pn$M33$$)vTz
+W?scan_text_colour$nucXz
+W?scan_text1$n[]axz
+W?scan_text2$n[]a
+W?offset$nl
+W?current_target$nl
+W?current_filter$nl
+W?fade_as_targa$n()vP
+W?setup_stuff$n()v@
+W?setup_game$n()uc
+W?reset_game$n()v`
+W?setup_strings$n(pnucpnpnucl)v
+W?fudge_setup$n()v@
+W?init_game$n()v
+W?th$n$TargaHeader$$
+W?load_all_tmaps$n()v`
+W?free_all_tmaps$n()v`
+W?reset_3d$n()v
+W?setup_3d$n()v
+W?no_tmaps$nl
+W?fn_shark_init$n(pn$Thing$$)vp
+ W?fn_shark_normal$n(pn$Thing$$)v
+W?fn_shark_dead$n(pn$Thing$$)v
+%W?fn_shark_stalks_prey$n(pn$Thing$$)v
+&W?fn_shark_selects_prey$n(pn$Thing$$)v
+W?fn_sprat_init$n(pn$Thing$$)v
+ W?fn_sprat_normal$n(pn$Thing$$)vP
+W?fn_sprat_hit$n(pn$Thing$$)v
+W?fn_sprat_dying$n(pn$Thing$$)v
+%W?ganimbank$npn$AnimPageDynamicBank$$
+W?gheap$npn$Heap$$
+W?block_ani$npnuc
+W?heap$npnuc
+W?initual_load_list$n[]ucD
+W?ssprite$n[]pnpn$ScaleSprite$$<
+W?hhandle$n[]pn$HeapHandle$$4
+W?ssprite_tstamp$n[]ul,
+W?permanent_load_list$n[]ucj
+W?all_ssprites_loaded$nucl
+W?ssprites_tab$npnucp
+W?txs$n[]$TX$$p
+W?skewscans$n[]$SkewScan$$
+W?linestarts$n[]l
+W?steps$n[]$Step$$
+W?maxnegb$nl
+W?maxnegbp$nl
+W?maxsafeb$nl
+W?octant$nl
+	W?maxa$nl
+	W?maxb$nl
+W?maxmap$nl
+W?lastline$npnl
+W?lpstep$nl
+W?nextscan$nl
+	W?sing$nl
+	W?cosg$nl 3%
+	W?sinr$nl$3%
+	W?cosr$nl(3%
+	W?sina$nl,3%
+	W?cosa$nl03%
+	W?sint$nl43%
+	W?cost$nl
+W?tmap_handle$nl
+ W?permanent_load_list_active$nuc83%
+W?map_angle$nl<3%
+W?map_x_pos$nl@3%
+W?map_y_pos$nlD3%
+W?map_z_pos$nlH3%
+W?lfade_min$nlL3%
+W?lfade_max$nlP3%
+W?fade_mmm$nlT3%
+W?thelens$nlX3%
+W?view_width_over_2$nl\3%
+W?view_height_over_2$nl`3%
+W?notrot$nucd3%
+W?txpos$nlh3%
+W?typos$nll3%
+W?xsize$nlp3%
+W?ysize$nlt3%
+	W?xpos$nlx3%
+	W?ypos$nl|3%
+W?shade$nl
+W?tmwidth$nl
+W?tmxsize$nl
+W?tmysize$nl
+	W?tint$nl
+W?open_tmap_data_file$n()uc
+W?close_tmap_data_file$n()v@
+W?load_tmap_at$n(uspnuc)l
+%W?remove_tmap_group_from_heap$n(us)uc
+4W?remove_tmap_group_from_heap_even_permanent$n(us)uc
+W?tmap_group_size$n(us)ul
+W?add_tmap_group_to_heap$n(us)v
+W?heap_free$n(ul)ul
+W?setup_ssprite_manager$n()vp
+W?reset_ssprite_manager$n()v
+W?setup_drawacts_table$n()v
+W?load_a_sprite$n(us)l
+W?do_sprite_animation$n()vP
+W?clear_ssprite_load_list$n()vp
+!W?set_ssprite_load_list$n(ususs)v
+!W?set_ssprite_in_load_list$n(us)v
+W?load_ssprites$n()v
+!W?restore_tmap_configuration$n()v
+W?store_tmap_configuration$n()v
+ W?setup_permanent_load_list$n()v
+W?load_permanent_ssprites$n()v@
+!W?setup_rotate_stuff$n(llllllll)vp
+W?draw_a_thing$n(l)v
+W?do_map_who$n(s)v0
+W?draw_map_who$n(pn$RotoSpr$$)v
+W?normal_modes$n[]uc
+W?shaded_modes$n[]uc
+W?roto5_adds$n[]uc
+W?roto3_adds$n[]uc
+W?btp$npnuc
+W?draw_mode$nl
+&W?set_state_function$n(pn$Thing$$auc)vp
+W?do_screen_shot$n()v
+W?write_pcx$n(pnucpnucpnuc)l@
+W?write_pmb$n(pnapnucpnuc)v
+W?write_landscape_mesh$n()v
+W?Debug$n()v
+*W?draw_engine_line$n(pn$Coord$$pn$1$usus)v
+ W?find_colour$n(pnvususucucuc)uc
+W?corners$n[]$Corners$$0}
+"W?cetacea_fns$n[]$FunctionManage$$P}
+W?dolphin_fns$n[]$Function$$
+W?kwhale_fns$n[]$Function$$
+W?base_fns$n[]$FunctionManage$$
+W?test_fns$n[]$Function$$
+ W?drone_fns$n[]$FunctionManage$$
+W?retrogen_fns$n[]$Function$$P~
+"W?feature_fns$n[]$FunctionManage$$
+W?plant_fns$n[]$Function$$
+W?bubble_fns$n[]$Function$$
+W?explosion_fns$n[]$Function$$
+W?fish_fns$n[]$FunctionManage$$
+W?shark_fns$n[]$Function$$X
+W?sprat_fns$n[]$Function$$
+W?fungus_fns$n[]$Function$$
+W?player_fns$n[]$Function$$
+%W?projectile_fns$n[]$FunctionManage$$8
+W?laser_fns$n[]$Function$$h
+W?flare_fns$n[]$Function$$
+W?mine_fns$n[]$Function$$
+W?pdp_fns$n[]$Function$$
+W?antidote_fns$n[]$Function$$0
+W?chaff_fns$n[]$Function$$`
+W?startup_files$n[]$LoadFiles$$h
+W?game_files$n[]$LoadFiles$$
+W?sprite_files$n[]$LoadFiles$$
+!W?setup_sprites$n[]$SetupSprite$$
+W?drawactives$n[]$DrawActive$$
+W?v_how$n[]$VMod$$
+W?process_things$n()v 
+W?create_thing$n(a)s
+W?delete_thing$n(pn$Thing$$)v
+W?add_to_mapwho$n(pn$Thing$$)vp
+&W?move_mapwho$n(pn$Thing$$pn$Coord$$)v
+#W?delete_from_mapwho$n(pn$Thing$$)v@
+)W?assign_sprite_to_thing$n(pn$Thing$$us)v
+DW?how_many_frames$:.0$:?assign_sprite_to_thing$n(pn$Thing$$us)vn[]uc
+W?copyright_message$n()v
+W?version_message$n()v
+W?project_date$n[]uc
+W?project_time$n[]uc
+W?project_name$n[]uc
+W?project_version$nul
+	ini_table@
+arctan_
+sqrl_
+	polyscans
+ft_jtb
+fb_jtP 
+gt_jt'
+ll_jt4
+rl_jt
+poly_line_
+	_vec_mode
+_vec_colour
+trig_
+poly_screenZ#
+mgt_jt
+add_to_edi
+_vec_window_height
+_vec_screen_widthch
+setup_vecs_
+_vec_pal
+dither_map
+dither_end
+_vec_window_width
+_vec_screen
+_vec_map
+t12_jt
+render_table
+_flat_colours_bl
+_flat_colours_tl
+_tables_end
+_fade_tables
+_ghost
+_robs_bollocks
+tabwidth
+_flat_colours_br
+_flat_colours_tr
+font
+_tables_start
+prop_text_nm
+qazL
+	atantableP
+OpenKeyboard_`
+CloseKeyboard_p
+	Keyboard_
+_InkeyToAscii{
+_InkeyToAsciiShift
+_KeyOn
+_Inkey
+_Shift
+_Display
+__NETAdd___0
+__NETCall___ 	
+__NETCancel___
+__NETCheckBios___
+__NETDelete___
+__NETHangUp___
+__NETListen___
+net_receive_P
+__NETReceive___
+	net_send_
+__NETSend___p
+__NETUpdateStatus___
+__NETStatus___
+__NETBios___
+SetupNetwork_@
+ResetNetwork_
+StartNetwork_
+StopNetwork_
+SendNetwork_
+ReceiveNetwork_0
+ExchangeNetwork_
+_Network
+MySeek_
+MyRead_
+MyWrite_
+SwapScreens_z
+int386_
+	mem_putc_
+sprintf_
+LoadAllData_p
+SetupAllSprites_
+FadePalette_`
+StopOpenFadePalette_@
+_fade_started
+_from
+_to_pal
+_fade_countp
+memset_
+SetupScreen_(
+_MouseWBuffer8
+_MouseSBufferH
+_screen_ptrL
+_sprite_ptrP
+_mouse_eventT
+_BackGraphicsWindowXX
+_BackGraphicsWindowY\
+_y_step_out`
+_x_step_outd
+_BackGraphicsWindowHeighth
+_buffer_step_inl
+_BackGraphicsWindowWidthp
+_backup_ptr2t
+_fully_clippedx
+_MouseOldData|
+_ScrSeg
+MouseScreenBackup_
+MouseWorkScreenBackup_`
+MouseScreenUndraw_@!
+MouseWorkScreenUndraw_
+PartialUpdatePlaceMouse_@(
+PlaceMouse_`(
+PartialUpdateRemoveMouse_
+RemoveMouse_
+ChangeMouseSpriteOffset_
+MouseHandler256_
+ChangeMouseSprite_ +
+ChangeMouseMoveRatio_`+
+SetupMouse_
+ResetMouse_
+SuspendMouse_
+SetMouseWindow_P.
+SetMousePosition_D
+_MouseOldXF
+_MouseOldYH
+_MouseOldWJ
+_MouseOldHL
+_MouseSwapP
+_MouseFlagT
+_MouseInstalledX
+_sprite_offset_x\
+_sprite_offset_y
+_backup_ptr
+_MouseInfo
+_old_vesa_page
+_height_loop
+_width_loop
+_page
+MyAlloc_P/
+split_arena_
+LoadFileAt_@0
+compare_P0
+SetupMemory_P3
+CheckMemory_`4
+dos_alloc_
+_MemoryBlocks
+_MemoryArenas
+_MemoryAvailable
+DrawSprite_^=
+delay_p=
+FreeAllData_
+MyFree_
+delete_arena_0>
+LoadSounds_
+format_sounds_0@
+load_and_alloc_sound_`
+_first_time_alloc_doned
+_largest_dat_sizeh
+_largest_tab_size
+_cb_get_trigger_info0C
+StartMusic_
+_DangerChannel
+PlaySample_`H
+IsSamplePlaying_
+WaitVbi_l
+_music_driver_list
+_CurrentMusicMasterVolume
+_MusicAble
+_MusicActive
+_MusicInstalled
+_CurrentTempo
+_SongCurrentlyPlaying
+_NumberOfSongs
+_Music
+	_EndMusic
+InitMusic_
+_MusicData
+_LargestMusicBank
+_Awe32SoundfontLoaded
+_DangerMusicVolume
+ _CurrentDangerMusicFadeDirection
+_DangerMusicFadeActive
+_DangerMusicAble
+_DangerMusicVolumeChange
+_MusicInstallChoice
+_SongHandle
+_MusicDriver
+_DangerMusicFadeHandle
+_MusicTypePN
+StopMusic_
+StopAllSamples_`O
+DrawOneColourSprite_
+FreeSound_
+FreeMusic_
+stricmp_
+	_stricmp_
+strcmpi_
+AILDEBUG_start_
+_TIME_callback
+TIME_write_
+_AIL_startupP\
+_AIL_shutdown
+_AIL_set_preference
+	_AIL_lock ^
+_AIL_unlock0^
+_AIL_get_real_vect@_
+_AIL_set_real_vect
+_AIL_set_USE16_ISRp`
+_AIL_restore_USE16_ISR
+_AIL_disable_interrupts
+_AIL_restore_interrupts
+_AIL_call_driver@b
+_AIL_delay
+_AIL_background
+_AIL_read_INI
+_AIL_register_timer
+_AIL_set_timer_user
+_AIL_set_timer_period`i
+_AIL_set_timer_frequency
+_AIL_set_timer_divisor
+_AIL_interrupt_divisor
+_AIL_start_timer
+_AIL_start_all_timers
+_AIL_stop_timer
+_AIL_stop_all_timerspm
+_AIL_release_timer_handle
+_AIL_release_all_timers`n
+_AIL_get_IO_environmentpo
+_AIL_install_driver
+_AIL_uninstall_driver
+_AIL_install_DIG_INI r
+_AIL_install_DIG_driver_file@s
+_AIL_uninstall_DIG_driver
+_AIL_allocate_sample_handle
+_AIL_allocate_file_sample
+_AIL_release_sample_handlepv
+_AIL_init_sample
+_AIL_set_sample_file
+_AIL_set_sample_address
+_AIL_set_sample_typePy
+_AIL_start_sample
+_AIL_stop_samplePz
+_AIL_resume_sample
+_AIL_end_sampleP{
+_AIL_set_sample_playback_rate
+_AIL_set_sample_volumep|
+_AIL_set_sample_pan
+_AIL_set_sample_loop_count
+_AIL_sample_status
+_AIL_sample_playback_rate
+_AIL_sample_volume
+_AIL_sample_pan
+_AIL_sample_loop_count
+_AIL_set_digital_master_volumep
+_AIL_digital_master_volume
+_AIL_install_DIG_driver_image
+_AIL_minimum_sample_buffer_size
+_AIL_sample_buffer_ready
+_AIL_load_sample_bufferp
+_AIL_set_sample_position
+_AIL_sample_position
+_AIL_register_SOB_callback0
+_AIL_register_EOB_callbackP
+_AIL_register_EOS_callbackp
+_AIL_register_EOF_callback
+_AIL_set_sample_user_data0
+_AIL_sample_user_dataP
+_AIL_active_sample_count`
+_AIL_install_MDI_INIp
+_AIL_install_MDI_driver_file
+_AIL_uninstall_MDI_driver
+_AIL_allocate_sequence_handle 
+_AIL_release_sequence_handle
+_AIL_init_sequence
+_AIL_start_sequence@
+_AIL_stop_sequence
+_AIL_resume_sequence@
+_AIL_end_sequence
+_AIL_set_sequence_tempo`
+_AIL_set_sequence_volume
+_AIL_set_sequence_loop_count
+_AIL_sequence_status
+_AIL_sequence_tempo
+_AIL_sequence_volume
+_AIL_sequence_loop_count
+_AIL_set_XMIDI_master_volume`
+_AIL_XMIDI_master_volumep
+_AIL_install_MDI_driver_image
+_AIL_MDI_driver_type
+_AIL_set_GTL_filename_prefix
+_AIL_timbre_status0
+_AIL_install_timbreP
+_AIL_protect_timbre
+_AIL_unprotect_timbre
+_AIL_active_sequence_count
+_AIL_controller_value
+_AIL_channel_notes
+_AIL_sequence_position
+_AIL_branch_index
+_AIL_register_prefix_callback
+_AIL_register_trigger_callback
+_AIL_register_sequence_callback
+_AIL_register_beat_callback
+_AIL_register_event_callback0
+_AIL_register_timbre_callbackP
+_AIL_set_sequence_user_data
+_AIL_sequence_user_data
+_AIL_register_ICA_array
+_AIL_lock_channel
+_AIL_release_channel@
+_AIL_map_sequence_channel
+_AIL_true_sequence_channel
+_AIL_send_channel_voice_message
+_AIL_send_sysex_message@
+_AIL_create_wave_synthesizerp
+_AIL_destroy_wave_synthesizer
+AILDEBUG_end_
+_locked
+_file
+_debug
+_sys_debug
+_vhours
+_stamp
+_indent 
+_vsecs$
+_vmins(
+_vcentisecs 
+SetPalette_p
+VesaGetGran_
+VesaSetMode_
+VesaSetPage_@
+VesaGetInfo_
+VesaModeIsAvailable_
+	_VesaPage
+_VesaBytesPerLine
+	_VesaHRes
+	_VesaVResX
+	_VesaData\
+	_VesaGranP
+DrawBox_
+SqrL_
+	DrawLine_
+draw_b_line_
+StepDecodeSS2
+StepDecodeFrameChunkX
+StepSetAnimSize_
+StepDecodeFileHeader
+StepDecodeColour256
+DoNextFrame_
+StepDecodeBrun
+StepDecodeUnknown
+StepDecodePrefixChunk'
+__null_int23_exit_'
+_null_exit_rtn_(
+exit_@
+_exit_
+	___atexit
+___int23_exit
+___FPE_handler_exitV
+clock_`
+SwapScreensClear_0
+MyOpen_p
+MyClose_
+ResetMemory_
+	dos_free_
+printf_
+___begtext
+__nullarea
+__start_TI
+__end_TI
+__GDAptr
+__D16Infoseg
+__x386_zero_base_selector$
+_cstart_
+__exit_
+__do_exit_with_msg__
+__GETDS
+__argc
+__argv
+ErrorLogSetup_`
+ErrorLogReset_p
+MyError_
+_error_log_initialisedh
+_log_filename
+_error_log_created
+_error_log_flagw
+atoi_
+DrawPixelClip_`
+DrawBoxClip_
+SaveFileAt_
+SetSoundDirectory_
+ChangeToSoundDirectory_
+ChangeToGameDirectory_ 
+GetGameDirectory_
+_SoundDirectory
+_sound_directory_has_been_set
+_CurrentGameDirectory
+_CurrentGameDrive
+_SoundDrive
+ _current_SB16_left_master_volume
+!_current_SB16_right_master_volume
+_old_SB16_left_midi_volume
+_old_SB16_right_midi_volume
+_old_SB16_left_digi_volume
+_old_SB16_right_digi_volumep
+InitAudio_
+prepare_SB16_volumes_
+reset_SB16_volumes_
+_old_SB16_left_treble_volume
+_old_SB16_right_treble_volume
+_old_SB16_left_bass_volume
+_old_SB16_right_bass_volume
+_sb16_mixer_set
+_OldInt
+_oinkey
+_debug_k 
+KInt_0
+OpenIKeyboard_
+CloseIKeyboard_
+_ExtendedKeyPress
+_IInkey
+FreeAudio_
+ResetScreen_
+	LoadData_
+input_bits
+make_huftableV
+input_value
+	UnpackM1_M
+	read_long
+__open_flags_i
+	__doopen_1
+_fsopen_L
+fopen_V
+close_file_
+freopen_
+fputc_
+fclose_
+__shutdown_stream_
+__hex_
+__MkTmpFile_?
+__doclose_
+DosKeyboard_
+_dos_getvect_L
+segread_t
+int386x_
+system_
+MyLowAlloc_
+lseek_
+_lseek_
+read_
+write_
+__prtf_5
+getprintspecs_h
+evalflags_
+far_strlen_
+far_other_strlen_
+fmt4hex_k
+FixedPoint_Format_F
+float_format_M
+formstring_
+zupstr_
+	FreeData_
+gets_
+SetupSprites_
+GetPalette_
+__STOSB
+__STOSD
+RncFileLength_
+	_nmalloc_
+malloc_H
+___nheapbegL
+___MiniHeapRoverP
+___LargestSizeB4MiniHeapRover
+	_nexpand_
+_expand_5
+__HeapManager_expand_'
+	byteswap_M
+med3_
+qsort_
+__delay_init_
+__delay_
+_loop_countT
+_sound_driver_list|
+_MaxNumberOfSamples
+_SoundAble
+_SoundActive
+_SoundInstalled
+_AutoScanForSoundHardware
+_StereoSound
+_Sfx
+_EndSfxs
+_SfxDataP
+InitSound_
+DetermineSoundType_
+_LargestSoundBank
+_CurrentSoundBank
+_SixteenBit
+_CurrentSoundMasterVolume
+_DefaultSoundType
+_SoundType
+_AILStartupAlreadyInitiated
+_SampleRate
+_sample_id
+_SoundInstallChoice
+_SoundDriver
+_end_sample_id
+_NumberOfSamplesC
+tell_
+	_disk_errp
+	_DLL_read
+_MEM_use_malloc
+_MEM_use_free
+_MEM_alloc_lock
+_MEM_free_lock@
+_MEM_alloc_DOS
+_MEM_free_DOS
+_VMM_lock_range
+_VMM_unlock_range
+	_VMM_lock
+_VMM_unlock
+	_DLL_size
+	_DLL_load
+_FILE_error
+_FILE_size
+_FILE_read
+_FILE_writeP
+_FILE_append
+_MEM_alloc
+	_MEM_free
+strcmp_q
+getenv_
+cget_string_
+uncget_string_
+vsscanf_
+sscanf_
+_CurrentAwe32SoundfontPrefix@	
+AllocDOSmem_
+FreeDOSmem_
+CreateSelector_
+GetDOSseg_P
+AWEGetTotalRAM_
+AWEDefMemMap_P
+AWEGetSFInfo_ 
+AWEStreamSample_
+AWELoadPreset_
+AWEFreeMem_
+LoadAwe32Soundfont_P
+FreeAwe32Soundfont_
+_data
+_sbkHandle
+_preset
+_buffer
+LoadMusic_
+format_music_p
+load_and_alloc_music_
+SetMusicMasterVolume_
+SetSoundMasterVolume_P
+_cbfadesample
+FadeSample_0
+StopAllSampleFadeTimers_
+_a_sample_is_fading
+_samples_currently_fading
+_sample_fade_handle
+_cb_sample_queue_callbackP
+PlaySampleList_p
+StopSampleQueueList_
+_current_sample_queue_count
+_sample_queue_handle_initiated
+_sample_queue_handle_stopped
+_sample_queue_handle.
+_AILA_shutdownA#
+_AIL_API_set_timer_user
+_AIL_API_start_timerl!
+_AIL_API_disable_interruptsx
+_set_PIT_divisor
+_AIL_API_delay'!
+_AIL_API_restore_USE16_ISR
+_AIL_API_interrupt_divisor8$
+_AIL_API_stop_all_timersR
+_API_timer
+_AILA_VMM_lock
+_AIL_API_register_timer\$
+_AIL_API_set_timer_period
+_AIL_restore_stack
+_AIL_switch_stacki#
+_AIL_API_release_timer_handle
+_AIL_API_call_driver
+_AIL_API_release_all_timers@
+_AILA_startup
+_AIL_API_set_timer_divisor
+_set_PIT_period
+_program_timersp!
+_AIL_API_restore_interrupts
+_thunk_procE
+_AIL_API_unlock
+_AIL_API_set_timer_frequency
+_AIL_API_stop_timer
+_AIL_API_start_all_timers8
+_AIL_API_lock
+_AIL_API_set_real_vecti
+_AIL_API_get_real_vect
+_AIL_API_background
+_AIL_API_set_USE16_ISR/%
+fprintf_
+_AIL_driverH
+_AIL_errorH
+_AIL_last_IO_attempt`
+_flagsP%
+AIL_start_
+_AIL_driver_server0&
+_ASC_val
+_AIL_API_read_INI0*
+_AIL_API_set_preferenceP*
+_AIL_API_install_driver
+_AIL_API_uninstall_driverp-
+_AIL_API_get_IO_environment
+_AIL_API_startup
+_AIL_API_shutdown`/
+AIL_end_
+_entry
+_lockedd
+_AIL_preference
+isatty_
+setbuf_"0
+time_O0
+_localtime_
+localtime_
+	_The_time
+convDec_
+	_asctime_
+_ctime_
+ctime_
+asctime_
+_result
+AILSS_start_
+_SS_start_DIG_driver_playback
+_SS_stop_DIG_driver_playback@3
+_SS_build_amplitude_tables`6
+	_SS_serve
+_SS_configure_buffers
+_SS_attempt_DIG_detection
+_SS_destroy_DIG_driver`>
+_SS_construct_DIG_driver
+ _AIL_API_install_DIG_driver_file
+!_AIL_API_install_DIG_driver_image@E
+_AIL_API_install_DIG_INI
+_AIL_API_uninstall_DIG_driver
+_AIL_API_active_sample_count
+_AIL_API_allocate_sample_handlepF
+_AIL_API_release_sample_handle
+_AIL_API_init_samplePG
+_AIL_API_sample_status`G
+_AIL_API_set_sample_address
+_AIL_API_set_sample_type
+_AIL_API_sample_playback_rate
+!_AIL_API_set_sample_playback_rate
+_AIL_API_sample_volume
+_AIL_API_set_sample_volume
+_AIL_API_sample_pan H
+_AIL_API_set_sample_pan@H
+_AIL_API_sample_position`H
+_AIL_API_set_sample_position
+_AIL_API_sample_loop_count
+_AIL_API_set_sample_loop_count
+_AIL_API_start_sample
+_AIL_API_stop_sample I
+_AIL_API_resume_samplePI
+_AIL_API_end_sample
+_AIL_API_register_SOB_callback
+_AIL_API_register_EOB_callback
+_AIL_API_register_EOS_callback
+_AIL_API_set_sample_user_data J
+_AIL_API_sample_user_data@J
+"_AIL_API_set_digital_master_volume
+_AIL_API_digital_master_volume
+#_AIL_API_minimum_sample_buffer_size@K
+_AIL_API_load_sample_buffer
+_AIL_API_sample_buffer_ready
+AILSS_end_
+_pan_graph
+_entry
+_locked
+_VDI
+_dig 
+_current$
+_flags(
+_cnt
+AILSFILE_start_
+_AIL_VOC_block_len
+_AIL_VOC_terminate`M
+_AIL_process_VOC_block
+_AIL_VOC_EOS
+_AIL_process_WAV_image
+_AIL_WAV_EOS
+_AIL_API_allocate_file_samplePR
+_AIL_API_set_sample_file0S
+_AIL_API_register_EOF_callbackPS
+AILSFILE_end_
+_locked
+AILXMIDI_start_
+_XMI_message_size
+_XMI_flush_buffer@U
+_XMI_MIDI_message
+_XMI_sysex_message0V
+_XMI_read_VLN`V
+	_XMI_swap
+_XMI_find_sequencepW
+_XMI_read_log
+_XMI_write_log
+_XMI_send_channel_voice_messagep_
+_XMI_flush_note_queue
+_XMI_flush_channel_notesp`
+_XMI_refresh_channel
+_XMI_init_sequence_statepc
+_XMI_rewind_sequence
+_XMI_update_volume
+_XMI_serve
+_XMI_attempt_MDI_detectionPk
+_XMI_destroy_MDI_driver
+_XMI_construct_MDI_driver0r
+ _AIL_API_install_MDI_driver_file
+!_AIL_API_install_MDI_driver_image
+_AIL_API_install_MDI_INIps
+_AIL_API_uninstall_MDI_driver
+_AIL_API_MDI_driver_type t
+ _AIL_API_set_GTL_filename_prefix
+!_AIL_API_allocate_sequence_handle u
+ _AIL_API_release_sequence_handle@u
+_AIL_API_init_sequence`x
+_AIL_API_start_sequence
+_AIL_API_stop_sequence`y
+_AIL_API_resume_sequence
+_AIL_API_end_sequence z
+ _AIL_API_set_sequence_loop_count0z
+_AIL_API_set_sequence_tempo
+_AIL_API_set_sequence_volume {
+_AIL_API_sequence_status0{
+_AIL_API_sequence_loop_countP{
+_AIL_API_sequence_tempo`{
+_AIL_API_sequence_volumep{
+ _AIL_API_set_XMIDI_master_volume
+_AIL_API_XMIDI_master_volume
+_AIL_API_timbre_status
+_AIL_API_install_timbre
+_AIL_API_protect_timbre
+_AIL_API_unprotect_timbreP}
+_AIL_API_active_sequence_count
+_AIL_API_controller_value
+_AIL_API_channel_notes
+_AIL_API_sequence_position`~
+_AIL_API_branch_index
+!_AIL_API_register_prefix_callback
+"_AIL_API_register_trigger_callback0
+#_AIL_API_register_sequence_callbackP
+_AIL_API_register_beat_callbackp
+ _AIL_API_register_event_callback
+!_AIL_API_register_timbre_callback
+_AIL_API_set_sequence_user_data
+_AIL_API_sequence_user_data
+_AIL_API_register_ICA_array
+_AIL_API_lock_channel
+_AIL_API_release_channel
+_AIL_API_map_sequence_channel
+_AIL_API_true_sequence_channel0
+#_AIL_API_send_channel_voice_message
+_AIL_API_send_sysex_message@
+AILXMIDI_end_ 
+_GTL_prefix
+_entry
+_locked8
+_ptr<
+_channel@
+_status\
+_sequence_done`
+_lend
+_type@
+AILXDIG_start_p
+_XMI_write_log0
+WVL_search_`
+XDIG_set_volume_
+XDIG_set_pitch_
+_XDIG_TIMB_trap 
+_XDIG_MIDI_trap
+ _AIL_API_create_wave_synthesizer@
+!_AIL_API_destroy_wave_synthesizer
+AILXDIG_end_
+_locked
+strncmp_
+DrawHVLine_
+clock_value_@
+__clock_init_K
+__clock_h
+_clock_startl
+creat_y
+setmode_1
+close_6
+open_Z
+sopen_
+__set_binary_
+_nfree_
+free_
+___iob
+___tmpfnext
+__fmode
+_forcel
+___ClosedStreams
+file_putc_
+__fprtf_x
+__CMain
+__InitRtns
+__FiniRtns
+__psp
+	__osmajor
+	__osminor
+__Extender
+__ExtenderSubtype
+__X32VM
+__x386_stacklow
+__LpCmdLine
+__LpPgmName
+__dynend
+__curbrk
+__STACKLOW
+__STACKTOP
+__ASTACKSIZ
+__ASTACKPTR
+__cbyte
+__cbyte2
+__child
+__Envptr
+__Envseg
+__no87	
+__FPE_handler	
+___FPE_handlerb
+__null_FPE_rtnc
+__Init_Argv_ 
+_SplitParms_
+MakeFilename_
+	mem_putc_-
+	vsprintf_
+	__IsTableB
+_dos_getdrive_V
+_dos_setdrive_j
+chdir_
+getcwd_
+_chain_intr_-
+_dos_setvect_X
+tolower_X
+	_tolower_f
+__set_EDOM_k
+__set_errno_w
+__set_ERANGE_~
+__set_EINVAL_
+__set_doserrno_
+__FPE_exception_
+__allocfp_I
+	__freefp_
+__purgefp_
+__update_buffer_
+fseek_
+	__chktty_x
+___OpenStreams
+__ioalloc_
+__flush_F
+getpid_L
+ftell_|
+__close_
+remove_
+__int386x_
+_DoINTR_
+__Slash_C_
+file_exists_
+x_dospawn_
+spawnve_
+spawnlp_
+	_dosret0_%
+_dosretax_*
+__set_errno_dos_
+_xlat
+	__IOMode_
+__SetIOMode_$
+	___NFiles(
+___init_modex
+__iomode
+stackavail_
+__STK
+__CHK
+__GRO=
+__STKOVERFLOW_L
+	_Alphabetq
+utoa_
+itoa_
+_itoa_
+_no_support_loaded_
+___EFG_printf
+___EFG_scanf
+	_Alphabet
+ultoa_V
+ltoa_V
+_ltoa_q
+toupper_q
+	_toupper_
+fgetc_
+	__filbuf_7
+__fill_buffer_
+filelength_ 
+__MemAllocator
+	__MemFree
+	__unlink_
+__FreeDPMIBlocks_p
+__ReAllocDPMIBlock_Z
+__LinkUpNewMHeap_
+__LastFree_
+RationalAlloc_
+__CreateNewNHeap_
+__ExpandDGROUP_
+__AdjustAmount_Y
+__nmemneed_|
+___fheap_clean}
+___nheap_clean
+_environ
+___env_mask\
+	strnicmp_
+__scnf_
+get_opt_
+scan_white_
+scan_char_i
+scan_string_W
+report_scan_
+	makelist_
+	scan_arb_
+scan_float_
+	scan_int_
+radix_value_
+cgetw_
+	_lst_mask
+_dos_read_(
+_dos_write_/
+fgets_
+memmove_
+strncpy_
+setvbuf_j
+__getctime_-
+mktime_
+___start_dst
+___end_dst
+	_timezone
+___dst_adjust
+	_daylight
+_stzone
+_dtzone
+tryOSTimeZone_
+tzset_
+parse_time_
+parse_offset_
+parse_rule_
+__parse_tz_2
+_tznameR
+__brktime_g
+_gmtime_
+gmtime_
+	_The_time
+__leapyear_
+calc_yday_
+check_order_
+__isindst_|
+time_less_
+___diyr
+___dilyr
+_DC_64
+_DC_54/
+_DC_24
+_DC_120
+_DC_100
+_M_991
+_M_89
+_M_79@
+_M_59O
+_M_49
+_M_39
+_M_19
+_DC_0
+_DC_65
+_DC_55L
+_DC_25H
+_M_120
+_M_110{
+_DC_1215
+_DC_101
+_DC_1
+_DC_96
+_DC_56
+_DC_36^
+_DC_26
+_DC_16{
+_M_121
+_M_111
+_DC_122b
+_DC_112
+_DC_97
+_DC_57
+_DC_37{
+_DC_27
+_DC_17
+_M_122
+_M_102
+_M_0*
+_DC_123
+_DC_113b
+_DC_88
+_DC_58
+_DC_48
+_DC_18
+_M_123I
+_M_103
+_M_1|
+_DC_124
+_DC_114
+_DC_89!
+_DC_59
+_DC_49
+_DC_19
+_M_104
+_DC_125h
+_DC_115
+_AILSSA_DMA_copy
+_M_105/
+_M_33
+_DC_126
+_DC_116K
+_M_126
+_M_106
+_DC_127
+_DC_117f
+_M_90E
+_M_70=
+_M_40
+_M_127S
+_M_107k
+_DC_118
+_M_91o
+_M_71y
+_M_51o
+_M_419
+_M_31
+_M_11
+_AILSSA_flush_buffer
+_DC_119
+_M_72b
+_M_32a
+_M_7
+_M_73w
+_M_63
+_M_43
+_M_33
+_M_23
+_M_8
+_AILSSA_VMM_lock
+_M_94
+_M_74
+_M_64
+_M_24
+_AILSSA_merge
+_DC_90
+_DC_809
+_DC_60
+_DC_50
+_M_9
+_M_95A
+_M_75
+_M_65
+_M_55
+_M_35
+_M_25
+_M_15\
+_DC_91m
+_DC_81`
+_DC_61/
+_DC_51H
+_M_96
+_M_66
+_M_56F
+_M_16
+_DC_82|
+_DC_62E
+_DC_52
+_DC_32o
+_M_97
+_M_67
+_M_57
+_M_47
+_M_27b
+_M_17
+_DC_83
+_DC_63j
+_DC_53
+_DC_33
+_M_98
+_M_88
+_M_78(
+_M_48
+intdos_\
+___umaskval-
+__CommonInit_
+____Argc
+____Argv@
+GetDirectory_T
+__get_errno_ptr_Z
+__get_doserrno_ptr_
+__doserrno
+_errno`
+__InitFiles_
+__full_io_exit_
+fcloseall_
+docloseall_;
+	__qwrite_
+unlink_
+_dos_findfirst_
+_dos_findnext_
+_dos_findclose_X
+stpcpy_g
+__cenvarg_
+__ccmdline_
+	__dospawn
+strlen_
+pcopy_
+_splitpath2_
+_do_nothing_
+___Save8087
+___Rest8087
+pickup_
+_makepath_
+spawnl_
+spawnvp_
+__exit_with_msg_
+__fatal_runtime_error_
+	flushall_
+__flushall_
+getche_%
+__qread_
+___minrealD
+_heapenable_
+___heap_enabledT
+sbrk_
+__brk_
+__amblksiz
+__setenvp_
+__FDFS
+__doserror_	
+strcpy_(
+	spawnvpe_Y
+__EnterWVIDEO_
+___WD_Present
+strchr_
+memcpy_

@@ -215,14 +215,16 @@ BOX.DAT     0000:0034   127     7F
 PLANT1.DAT  0000:0034   24      18
 BOX.DAT     0000:0035   18
 PLANT1.DAT  0000:0035   0
-BOX.DAT     0000:0026   12      0C
-PLANT1.DAT  0000:0026   16      08
-BOX.DAT     0000:0020   8       08
-PLANT1.DAT  0000:0020   12      0C
-BOX.DAT     0000:0028   8       08
-PLANT1.DAT  0000:0028   12      0C
-BOX.DAT     0000:002C   6
-PLANT1.DAT  0000:002C   8
+BOX.DAT     0000:0026   12      0C  EDGES(?)
+PLANT1.DAT  0000:0026   16      08  EDGES(?)
+BOX.DAT     0000:0020   8       08  VERTICES(?)
+PLANT1.DAT  0000:0020   12      0C  VERTICES(?)
+BOX.DAT     0000:0028   8       08  VERTICES(?)
+PLANT1.DAT  0000:0028   12      0C  VERTICES(?)
+BOX.DAT     0000:002C   6       06  POLYGONS(?)
+PLANT1.DAT  0000:002C   8       08  POLYGONS(?)
+
+plant1  10 edges?
 
 DATA ...
 
@@ -231,6 +233,9 @@ DATA ...
 box     144/6=24
 plant1  96/6=16
 drone   204/6=34
+
+SECOND DATA CHUNK
+Each blob is 6 bytes
 
 -------------------------------------
 

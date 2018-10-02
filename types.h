@@ -13,11 +13,28 @@ typedef struct BullfrogVGAPalette {
 /***************************************************************/
 /* Bullfrog Object Data */
 
+#if 0
 typedef struct __attribute__((__packed__)) BullfrogObjectHeader {
     char    identity[24];  /* "BULLFROG OBJECT DATA" */
-    char    u0[24];
+    char    u0[34];
 } BullfrogObjectHeader;
-static_assert(sizeof(BullfrogObjectHeader) == 48, "invalid struct size for BullfrogObjectHeader");
+static_assert(sizeof(BullfrogObjectHeader) == 58, "invalid struct size for BullfrogObjectHeader");
+#else
+typedef struct __attribute__((__packed__)) BullfrogObjectHeader {
+    char        identity[24];   /* "BULLFROG OBJECT DATA" */
+    uint32_t    length0;        /* length of first data chunk following header */
+    uint32_t    length1;        /* length of second data chunk */
+    uint32_t    length2;        /* length of the final data chunk */
+    uint8_t     unknown0;       /* almost always the same for every file */
+    uint8_t     unknown1;       /* almost always the same for every file */
+    uint16_t    num_blobs0;     /* number of data blobs in the first chunk */
+    uint16_t    num_blobs1;     /* number of data blobs in the second and last chunk */
+    uint16_t    unknown3;       /* always 79 */
+    uint32_t    unknown4;
+    uint8_t     unknown5;
+    uint8_t     unknown6;
+} BullfrogObjectHeader;
+#endif
 
 typedef struct BullfrogObjectData {
     BullfrogObjectHeader    header;

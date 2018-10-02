@@ -412,6 +412,38 @@ void GenerateMap(const char *name) {
     fclose(fp);
 }
 
+void ReadBullfrogDataObjectFile(const char *path) {
+    size_t sz = plGetFileSize(path);
+    if(sz <= sizeof(BullfrogObjectHeader)) {
+        return;
+    }
+
+    BullfrogObjectHeader header;
+    memset(&header, 0, sizeof(BullfrogObjectHeader));
+    FILE *fp = fopen(path, "rb");
+    fread(&header, sizeof(BullfrogObjectHeader), 1, fp);
+    fclose(fp);
+
+    if(pl_strncasecmp(header.identity, "BULLFROG OBJECT DATA", 20) != 0) {
+        return;
+    }
+
+#define prnt_var(var)   printf(" " plStringify(var) " : %d\n", header.var)
+
+    printf("Bullfrog Object Data : %s (%lu bytes)\n", path, sz);
+    prnt_var(length0);
+    prnt_var(length1);
+    prnt_var(length2);
+    prnt_var(unknown0);
+    prnt_var(unknown1);
+    prnt_var(num_blobs0);
+    prnt_var(num_blobs1);
+    prnt_var(unknown3);
+    prnt_var(unknown4);
+    printf("hrm, %d\n", header.length1 / header.num_blobs1);
+    printf("\n");
+}
+
 int main(int argc, char **argv) {
     plInitialize(argc, argv);
 
@@ -458,6 +490,11 @@ int main(int argc, char **argv) {
 
     DB_ReadLevData();
     DB_ReadMapData("LEVELS/DEFAULT.MAP");
+
+    /* now let's analyse those Bullfrog Object Data files */
+
+    printf("\n");
+    plScanDirectory("DATA", "DAT", ReadBullfrogDataObjectFile, false);
 
     return 0;
 }
