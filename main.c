@@ -440,7 +440,14 @@ void ReadBullfrogDataObjectFile(const char *path) {
     prnt_var(num_blobs1);
     prnt_var(unknown3);
     prnt_var(unknown4);
-    printf("hrm, %d\n", header.length1 / header.num_blobs1);
+    prnt_var(unknown5);
+    prnt_var(unknown6);
+    prnt_var(unknown7);
+    prnt_var(unknown8);
+    prnt_var(unknown9);
+    prnt_var(unknown10);
+    prnt_var(unknown11);
+    prnt_var(unknown12);
     printf("\n");
 }
 

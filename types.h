@@ -13,13 +13,6 @@ typedef struct BullfrogVGAPalette {
 /***************************************************************/
 /* Bullfrog Object Data */
 
-#if 0
-typedef struct __attribute__((__packed__)) BullfrogObjectHeader {
-    char    identity[24];  /* "BULLFROG OBJECT DATA" */
-    char    u0[34];
-} BullfrogObjectHeader;
-static_assert(sizeof(BullfrogObjectHeader) == 58, "invalid struct size for BullfrogObjectHeader");
-#else
 typedef struct __attribute__((__packed__)) BullfrogObjectHeader {
     char        identity[24];   /* "BULLFROG OBJECT DATA" */
     uint32_t    length0;        /* length of first data chunk following header */
@@ -30,11 +23,18 @@ typedef struct __attribute__((__packed__)) BullfrogObjectHeader {
     uint16_t    num_blobs0;     /* number of data blobs in the first chunk */
     uint16_t    num_blobs1;     /* number of data blobs in the second and last chunk */
     uint16_t    unknown3;       /* always 79 */
-    uint32_t    unknown4;
-    uint8_t     unknown5;
-    uint8_t     unknown6;
+    uint32_t    unknown4;       /* 06 00 00 00 */
+    uint8_t     unknown5;       /* 7F */
+    uint8_t     unknown6;       /* 1F */
+    uint16_t    unknown7;       /* 00 00 */
+    uint8_t     unknown8;       /* 7F */
+    uint8_t     unknown9;       /* 12 */
+    uint16_t    unknown10;      /* 00 00 */
+    uint8_t     unknown11;
+    uint8_t     unknown12;      /* this is always either 177 or 221 */
+    /* first data chunk... */
 } BullfrogObjectHeader;
-#endif
+static_assert(sizeof(BullfrogObjectHeader) == 58, "invalid struct size for BullfrogObjectHeader");
 
 typedef struct BullfrogObjectData {
     BullfrogObjectHeader    header;
