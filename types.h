@@ -11,6 +11,7 @@ typedef struct BullfrogVGAPalette {
 } BullfrogVGAPalette;
 
 /***************************************************************/
+/* Bullfrog Object Data */
 
 typedef struct __attribute__((__packed__)) BullfrogObjectHeader {
     char    identity[24];  /* "BULLFROG OBJECT DATA" */
@@ -19,7 +20,7 @@ typedef struct __attribute__((__packed__)) BullfrogObjectHeader {
 static_assert(sizeof(BullfrogObjectHeader) == 48, "invalid struct size for BullfrogObjectHeader");
 
 typedef struct BullfrogObjectData {
-    BullfrogObjectHeader header;
+    BullfrogObjectHeader    header;
 } BullfrogObjectData;
 
 /***************************************************************/

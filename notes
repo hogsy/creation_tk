@@ -188,21 +188,49 @@ SOUND/MUSIC.DAT
 -------------------------------------
 Bullfrog Object Data
 
+My assumption right now is that this is an earlier iteration
+of Creation's model format, but I could be totally wrong.
+
 Reference here is BOX.DAT
 
-HEADER ... 48 bytes?
+HEADER ... 48 bytes? (now looking at 58 bytes...)
 
 42 55 4C 4C 46 52 4F 47 20 4F 42 4A 45 43 54 20 44 41 54 41 00 00 00 00
 B  U  L  L  F  R  O  G     O  B  J  E  C  T     D  A  T  A
 
-90 00 00 00
-30 00 00 00
-08 00 00 00
-05 01 0C 00
-08 00 4F 00
-06 00 00 00     Number of faces?
+90 00 00 00     (-112/144)
+30 00 00 00     (48)
+08 00 00 00     (8)         Number of vertices?
+05 01
+0C 00           (12)        Number of... edges?
+08 00           (8)         Number of vertices?
+4F 00           (79)
+06 00 00 00     (6)         Number of faces?
+7F 1F 00 00
+7F 12 00 00
+D9 DD .. ..
+
+File        Offset      Value   Hex
+BOX.DAT     0000:0034   127     7F
+PLANT1.DAT  0000:0034   24      18
+BOX.DAT     0000:0035   18
+PLANT1.DAT  0000:0035   0
+BOX.DAT     0000:0026   12      0C
+PLANT1.DAT  0000:0026   16      08
+BOX.DAT     0000:0020   8       08
+PLANT1.DAT  0000:0020   12      0C
+BOX.DAT     0000:0028   8       08
+PLANT1.DAT  0000:0028   12      0C
+BOX.DAT     0000:002C   6
+PLANT1.DAT  0000:002C   8
 
 DATA ...
+
+(bytes / (6 bytes per field))
+
+box     144/6=24
+plant1  96/6=16
+drone   204/6=34
 
 -------------------------------------
 
