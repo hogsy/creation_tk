@@ -454,6 +454,9 @@ void ReadBullfrogDataObjectFile(const char *path) {
 int main(int argc, char **argv) {
     plInitialize(argc, argv);
 
+    /* ensure random is random */
+    srand((unsigned int) time(NULL));
+
     BullfrogVGAPalette pal;
     LoadPalette(&pal, "DATA/PALETTE.DAT");
 
