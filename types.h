@@ -74,6 +74,10 @@ typedef struct __attribute__((__packed__)) CreationMapTile {
 } CreationMapTile; /* 12 bytes */
 static_assert(sizeof(CreationMapTile) == 12, "invalid struct size for CreationMapTile");
 
+typedef struct CreationMap {
+    CreationMapTile tiles[CREATION_MAP_MAX_TILES];
+} CreationMap;
+
 typedef struct CreationModel { /* todo */
     char    name[14];   /* internal project name */
     char    desc[14];

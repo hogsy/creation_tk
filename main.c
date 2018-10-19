@@ -37,7 +37,9 @@ bool CreateImage(PLImage *image, uint8_t *buf, unsigned int w, unsigned int h, P
         return false;
     }
 
-    memcpy(image->data[0], buf, image->size);
+    if(buf != NULL) {
+        memcpy(image->data[0], buf, image->size);
+    }
 
     return true;
 }
@@ -283,38 +285,30 @@ void ConvertImage(const char *path, const char *pal_path, const char *out_path, 
     plFreeImage(&out);
 }
 
-void DB_ReadLevData(void) {
-    FILE *fp = fopen("LEVELS/DEFAULT.LEV", "rb");
+/***************************************************************/
+/* Creation Map API */
 
-    /* read in the header */
+CreationMap *Map_Load(const char *path) {
+    CreationMap *map = malloc(sizeof(CreationMap));
+    if(map == NULL) {
+        Error("Failed to allocate map (%ld bytes)!\n", sizeof(CreationMap));
+    }
 
-    int sets = fgetc(fp);
-    fseek(fp, SEEK_CUR, 8);
+    /* load in the height-map */
 
-    /* now for the rest */
-
-    int8_t buf[sets][10];
-    fread(buf, 10, (size_t) sets, fp);
-    fpos_t pos;
-    fgetpos(fp, &pos);
-//    printf("%lu bytes\n", pos.__pos);
-    fclose(fp);
-}
-
-void DB_ReadMapData(const char *path) {
     size_t len = plGetFileSize(path);
     unsigned int num_tiles = (unsigned int) (len / sizeof(CreationMapTile));
-    if(num_tiles > CREATION_MAP_MAX_TILES) {
+    if(num_tiles >= CREATION_MAP_MAX_TILES) {
         Error("Invalid size for \"%s\", expected %d tiles but found %d!\n", path, CREATION_MAP_MAX_TILES, num_tiles);
     }
 
-    /* map it out into an image so we can check it out */
-
-#if 1
+#if 0
+#if 1   /* output multiple textures */
     uint8_t tiles[CREATION_MAP_MAX_TILES][sizeof(CreationMapTile)];
     FILE *fp = fopen(path, "rb");
-    if(fread(tiles, sizeof(CreationMapTile), CREATION_MAP_MAX_TILES, fp) != CREATION_MAP_MAX_TILES) {
-        Error("Failed to read in all tiles from \"%s\", aborting!\n", path);
+    size_t r = fread(tiles, sizeof(CreationMapTile), num_tiles, fp);
+    if(r != num_tiles) {
+        Error("Failed to read in all tiles from \"%s\" (%ld/%d), aborting!\n", path, r, num_tiles);
     }
     fclose(fp);
 
@@ -341,7 +335,7 @@ void DB_ReadMapData(const char *path) {
 
         plFreeImage(&out);
     }
-#else
+#else   /* output a single image */
     CreationMapTile tiles[CREATION_MAP_MAX_TILES];
     FILE *fp = fopen(path, "rb");
     if(fread(tiles, sizeof(CreationMapTile), CREATION_MAP_MAX_TILES, fp) != CREATION_MAP_MAX_TILES) {
@@ -368,6 +362,43 @@ void DB_ReadMapData(const char *path) {
 
     plFreeImage(&out);
 #endif
+#else
+    FILE *fp = fopen(path, "rb");
+    if(fp == NULL) {
+        Error("Failed to open map \"%s\", aborting!\n", path);
+    }
+
+    size_t r = fread(map->tiles, sizeof(CreationMapTile), num_tiles, fp);
+    if(r != num_tiles) {
+        Error("Failed to read in all tiles from \"%s\" (%ld/%d), aborting!\n", path, r, num_tiles);
+    }
+
+    fclose(fp);
+#endif
+
+    /* todo: load in lev data */
+
+    return map;
+}
+
+/***************************************************************/
+
+void DB_ReadLevData(void) {
+    FILE *fp = fopen("LEVELS/DEFAULT.LEV", "rb");
+
+    /* read in the header */
+
+    int sets = fgetc(fp);
+    fseek(fp, SEEK_CUR, 8);
+
+    /* now for the rest */
+
+    int8_t buf[sets][10];
+    fread(buf, 10, (size_t) sets, fp);
+    fpos_t pos;
+    fgetpos(fp, &pos);
+//    printf("%lu bytes\n", pos.__pos);
+    fclose(fp);
 }
 
 /* Generate a .MAP file from some height-map data, just to see
@@ -451,6 +482,55 @@ void ReadBullfrogDataObjectFile(const char *path) {
     printf("\n");
 }
 
+/* Generate an overview of the map, using texture tiles */
+void GenerateOverview(void) {
+    /* load in the texture sheet */
+    PLImage textures;
+    plLoadImage("DATA/BLOCK64.png", &textures);
+
+    /* now load in the map */
+
+    CreationMap *map = Map_Load("LEVELS/original/DEFAULT.MAP");
+
+    /* each texture is 64x64
+     * and there are 64 textures in total */
+    /* 65536 */
+    /* 4096 */
+    /* w16384xh16384 */
+
+    PLImage output;
+    CreateImage(&output, NULL, 16384, 16384, PL_COLOURFORMAT_RGB, PL_IMAGEFORMAT_RGB8);
+    for(unsigned int i = 0; i < CREATION_MAP_MAX_TILES - 1; ++i) {
+        CreationMapTile *tile = &map->tiles[i];
+
+        /* x and y coordinate for the tile texture within the texture sheet */
+        unsigned int t_x = (unsigned int)((tile->texture % 4) * 64);
+        unsigned int t_y = ((unsigned int)(tile->texture / 4)) * 64;
+
+        /* x and y destination coordinate */
+        unsigned int d_x = ((i % CREATION_MAP_ROW_TILES) * 64);
+        unsigned int d_y = (i / CREATION_MAP_ROW_TILES) * 64;
+
+        uint8_t *pos = output.data[0] + ((d_y * output.width) + d_x) * 3;
+        uint8_t *src = textures.data[0] + ((t_y * textures.width) + t_x) * 4;
+        for(unsigned int y = 0; y < 64; ++y) {
+            uint8_t *s = src;
+            uint8_t *p = pos;
+            for(unsigned int j = 0; j < 64; ++j) {
+                memcpy(p, s, 3);
+                p += 3;
+                s += 4;
+            }
+
+            src += textures.width * 4;
+            pos += output.width * 3;
+        }
+    }
+
+    plWriteImage(&output, "overview.bmp");
+    plFreeImage(&output);
+}
+
 int main(int argc, char **argv) {
     plInitialize(argc, argv);
 
@@ -495,11 +575,11 @@ int main(int argc, char **argv) {
     /* now try generating a brand new .MAP as well! */
 
     GenerateMap("DEFAULT");
+    GenerateOverview();
 
     /* load in the map data for analysis */
 
     DB_ReadLevData();
-    DB_ReadMapData("LEVELS/DEFAULT.MAP");
 
     /* now let's analyse those Bullfrog Object Data files */
 
